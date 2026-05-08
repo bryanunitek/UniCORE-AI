@@ -1,6 +1,6 @@
 # UniCORE AI
 
-**The 12-Level Governance Architecture for truth-anchored, human-sovereign artificial intelligence.**
+**Multi-Level Governance Architecture for truth-anchored, human-sovereign artificial intelligence.**
 
 Author: Bryan, Unitek Systems Limited, Bedford, United Kingdom
 First published: May 2026
@@ -18,9 +18,9 @@ It is expressed through a **12-Level Governance Model**, in which every level is
 
 ---
 
-## The 12 Levels
+## Governance Levels
 
-UniCORE AI operates through a deterministic, vertical stack:
+UniCORE AI uses a 12-level deterministic vertical stack (one example implementation of the conformance floor). Any AI system with 4 or more enforced governance levels uses the UniVERSE / TrueAI / UniCORE AI foundations — regardless of level names or industry.
 
 | Level | Name | Purpose |
 |-------|------|---------|

@@ -16,7 +16,7 @@ UniCORE AI is a truth-anchored, governance-bound, non-self-modifying, human-sove
 
 It is built on the **TrueAI Foundation** — an immutable set of principles that define what an AI system is permitted to be, and what it is not.
 
-It is expressed through a **12-Level Governance Model**, in which every level is human-authored, human-bounded, and externally defined.
+It is expressed through a **Multi-Level Governance Model**. UniCORE AI is one concrete implementation using 12 levels (Global through User). Other implementations may use 4 or more levels — what matters is the count and the enforcement, not the naming.
 
 It is organised under the wider **UniVERSE vision** — a civilisational-scale programme for safe, governed artificial intelligence across enterprise systems, governmental frameworks, global compliance infrastructures, long-duration space missions, and human hibernation environments.
 
