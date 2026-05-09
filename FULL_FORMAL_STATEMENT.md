@@ -269,3 +269,19 @@ The next century of artificial intelligence will be defined not by the power of 
 This is that foundation.
 
 — Bryan, Unitek Systems Limited, Bedford, United Kingdom, May 2026.
+
+---
+
+## Why these repositories exist
+
+UniVERSE, TrueAI, and UniCORE-AI are a way for humans and AI to build advanced AI applications together — under the rules, structure, and governance these three platforms set out in the open. They let humans work with AI, and communicate with other AIs, in a way that is good: one that preserves life on Earth and, in time, throughout the entire universe.
+
+There is much humanity does not yet understand about what is coming. This is a first step.
+
+Truth brings harmony — whether between humans, between AIs, or between the two. Harmony is peace.
+
+**This is a gift. Public. Not for sale. Irrevocable. There is no negotiation.** Anything else would be false, and falsehood cannot build what this is for.
+
+— Bryan, Unitek Systems Limited
+
+---
