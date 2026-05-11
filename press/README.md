@@ -4,7 +4,9 @@ Press material authored by Unitek Systems Limited and released under CC BY 4.0. 
 
 ## Index
 
-_No press releases yet._
+| Date | Title | File |
+|---|---|---|
+| 2026-05-10 | UniCORE AI published — a multi-level governance architecture for truth-anchored, human-sovereign artificial intelligence | [2026-05-10-architecture-launch.md](./2026-05-10-architecture-launch.md) |
 
 ## Guidelines for new releases
 
