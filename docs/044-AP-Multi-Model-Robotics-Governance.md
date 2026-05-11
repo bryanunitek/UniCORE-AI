@@ -4,7 +4,7 @@ Deterministic Robotics • Safety Enforcement • Human Sovereignty
 
 Version 1.0 — May 2026
 
-Author: Bryan Fred (Unitek Systems Limited)
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 
 
 

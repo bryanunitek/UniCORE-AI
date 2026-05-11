@@ -83,9 +83,11 @@ When writing a "Contact" section in any public document (README, LICENSE, archit
 
 ## Byline rules (durable)
 
-- Byline is **Bryan Fred**, not "Bryan" alone. This applies to `Author:` fields, signoff lines (`— Bryan Fred, Unitek Systems Limited`), and any formal document.
-- Inside the prose of a document, after Bryan Fred has been introduced, "Bryan" on its own is fine.
-- Full formal byline: `Bryan Fred, Unitek Systems Limited`.
+- **Formal full byline:** `Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom` — four parts, in that order.
+- **Use the full formal** on `Author:` fields, signoff lines, LICENSE contact blocks, and mastheads of any architecture document.
+- **Short form** `Bryan Fred, Unitek Systems Limited` is acceptable only in running prose or datelines.
+- **"Bryan" alone** is fine inside prose after Bryan Fred has been introduced.
+- **Never** shorten to "Bryan, Unitek Systems Limited" — that's the pre-normalisation form.
 
 ## Voice
 

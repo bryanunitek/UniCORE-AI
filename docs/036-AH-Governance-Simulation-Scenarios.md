@@ -4,7 +4,7 @@ Training • Testing • Mission Rehearsal • Compliance Validation
 
 Version 1.0 — Restarted Edition
 
-Author: Bryan Fred (Unitek Systems Limited)
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 
 
 

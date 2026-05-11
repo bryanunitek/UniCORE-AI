@@ -138,6 +138,6 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 **This is a gift. Public. Not for sale. Irrevocable. There is no negotiation.** Anything else would be false, and falsehood cannot build what this is for.
 
-— Bryan Fred, Unitek Systems Limited
+— Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 
 ---

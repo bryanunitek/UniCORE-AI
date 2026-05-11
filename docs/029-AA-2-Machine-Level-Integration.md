@@ -4,7 +4,7 @@ Addendum to the UniVERSE Document Collection
 
 Version 1.0 — May 2026
 
-Author: Bryan Fred (Unitek Systems Limited)
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 
 Captured from: User directive, Fri 2026-05-08 02:46 UTC
 
