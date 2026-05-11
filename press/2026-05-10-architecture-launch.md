@@ -28,6 +28,12 @@ The three repositories are:
 - **TrueAI** — https://github.com/bryanunitek/TrueAI — foundation principles
 - **UniVERSE** — https://github.com/bryanunitek/UniVERSE — civilisational programme and whitepaper set
 
+The three repositories are also reachable via twelve Unitek-operated mirror domains (four per repo), each of which redirects to the canonical GitHub repository:
+
+- UniCORE: https://UnitekUniCORE.com · https://UnitekUniCORE.co.uk · https://UnitekUniCORE.net · https://UnitekUniCORE.ai
+- TrueAI: https://UnitekTrueAI.com · https://UnitekTrueAI.co.uk · https://UnitekTrueAI.net · https://UnitekTrueAI.ai
+- UniVERSE: https://UnitekUniVERSE.com · https://UnitekUniVERSE.co.uk · https://UnitekUniVERSE.net · https://UnitekUniVERSE.ai
+
 All three are released under CC BY 4.0 and carry the durable footer *Powered by UniCORE AI. Built on the TrueAI Foundation.*
 
 ---
