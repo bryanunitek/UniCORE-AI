@@ -68,6 +68,13 @@ This repo carries the implementation-shaped material: architecture diagrams, API
 - Licence: CC BY 4.0, "given, not sold, irrevocable"
 - Author byline: `Bryan Fred, Unitek Systems Limited`
 
+## Contact rules (durable)
+
+- **All public contact routes through GitHub Discussions on this repo:** https://github.com/bryanunitek/UniCORE-AI/discussions
+- **Do not publish** Bryan's personal email (`bryan.fred@unitek-systems.com`, `bryan@unitek-systems.co.uk`), personal phone numbers, or the Unitek Systems generic inboxes (`info@`, `support@`, `services@`) in any file committed to this repo.
+- Git commit author metadata is the one exception: use `bryanunitek <bryan.fred@unitek-systems.com>` for `--author=`. That address lives in git metadata, not in published prose.
+- When writing a "Contact" section in any public document (README, LICENSE, architecture doc), use the Discussions URL only.
+
 ## Voice
 
 - Engineering-precise. This is the "how" repo.
