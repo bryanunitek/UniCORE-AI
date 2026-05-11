@@ -89,6 +89,24 @@ When writing a "Contact" section in any public document (README, LICENSE, archit
 - **"Bryan" alone** is fine inside prose after Bryan Fred has been introduced.
 - **Never** shorten to "Bryan, Unitek Systems Limited" — that's the pre-normalisation form.
 
+## Press releases (durable)
+
+- **All press releases live in `/press/` at the repo root.** Never put a press release in `docs/` or anywhere else.
+- **Filename:** `YYYY-MM-DD-short-kebab-slug.md`. The date is mandatory in the filename.
+- **Front-matter block at the top** of every release:
+  ```
+  ---
+  date: YYYY-MM-DD
+  author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+  repo: UniCORE-AI
+  slug: short-kebab-slug
+  licence: CC BY 4.0
+  ---
+  ```
+- **Dateline in the body:** `**London, D MMMM YYYY**` (full date).
+- **Contact block at the end** must use the two-tier policy (Discussions + LinkedIn).
+- After adding a release, add a row to `/press/README.md`.
+
 ## Voice
 
 - Engineering-precise. This is the "how" repo.
