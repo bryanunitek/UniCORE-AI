@@ -70,10 +70,22 @@ This repo carries the implementation-shaped material: architecture diagrams, API
 
 ## Contact rules (durable)
 
-- **All public contact routes through GitHub Discussions on this repo:** https://github.com/bryanunitek/UniCORE-AI/discussions
-- **Do not publish** Bryan's personal email (`bryan.fred@unitek-systems.com`, `bryan@unitek-systems.co.uk`), personal phone numbers, or the Unitek Systems generic inboxes (`info@`, `support@`, `services@`) in any file committed to this repo.
-- Git commit author metadata is the one exception: use `bryanunitek <bryan.fred@unitek-systems.com>` for `--author=`. That address lives in git metadata, not in published prose.
-- When writing a "Contact" section in any public document (README, LICENSE, architecture doc), use the Discussions URL only.
+Two tiers, and only these two:
+
+- **Public discussion** → GitHub Discussions on this repo: https://github.com/bryanunitek/UniCORE-AI/discussions
+- **Private contact / connection request** → LinkedIn: https://www.linkedin.com/in/bryan-fred-02209753/
+
+**Do not publish** Bryan's personal email (`bryan.fred@unitek-systems.com`, `bryan@unitek-systems.co.uk`), personal phone numbers, or the Unitek Systems generic inboxes (`info@`, `support@`, `services@`) in any file committed to this repo.
+
+Git commit author metadata is the one exception: use `bryanunitek <bryan.fred@unitek-systems.com>` for `--author=`. That address lives in git metadata, not in published prose.
+
+When writing a "Contact" section in any public document (README, LICENSE, architecture doc), use the two-tier block above.
+
+## Byline rules (durable)
+
+- Byline is **Bryan Fred**, not "Bryan" alone. This applies to `Author:` fields, signoff lines (`— Bryan Fred, Unitek Systems Limited`), and any formal document.
+- Inside the prose of a document, after Bryan Fred has been introduced, "Bryan" on its own is fine.
+- Full formal byline: `Bryan Fred, Unitek Systems Limited`.
 
 ## Voice
 

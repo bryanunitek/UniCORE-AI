@@ -60,8 +60,8 @@ THIS MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 ## Contact
 
-All contact via GitHub Discussions:
-https://github.com/bryanunitek/UniCORE-AI/discussions
+- Public discussion: https://github.com/bryanunitek/UniCORE-AI/discussions
+- Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
 
 ---
 

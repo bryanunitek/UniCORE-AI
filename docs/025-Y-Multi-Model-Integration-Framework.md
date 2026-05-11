@@ -4,7 +4,7 @@ How UniCORE Governs LLMs, Vision Models, Robotics Models & MultiAgent Systems
 
 Version 1.0 — May 2026
 
-Author: Bryan (Unitek Systems Limited)
+Author: Bryan Fred (Unitek Systems Limited)
 
 
 
