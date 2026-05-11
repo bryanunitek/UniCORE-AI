@@ -60,9 +60,8 @@ THIS MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 ## Contact
 
-Bryan, Unitek Systems Limited
-Bedford, United Kingdom
-https://github.com/bryanunitek
+All contact via GitHub Discussions:
+https://github.com/bryanunitek/UniCORE-AI/discussions
 
 ---
 
