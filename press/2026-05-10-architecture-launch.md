@@ -38,7 +38,7 @@ All three are released under CC BY 4.0 and carry the durable footer *Powered by 
 
 ---
 
-**About the author.** Bryan Fred is Senior Solutions Architect at Unitek Systems Limited and Unitek Systems USA Inc. He has spent two decades building software for regulated industries including finance, healthcare, and legal practice. UniCORE AI is the architectural expression of what he has learned: that governance, when it is real, is a property of the system itself, not of the paperwork around it.
+**About the author.** Bryan Fred is Senior Solutions Architect at Unitek Systems Limited and Unitek Systems USA Inc. He has spent two decades building software for the legal sector — a regulated, evidence-bound, decision-critical domain. UniCORE AI draws on that experience but is not limited to it. The architecture is intended to apply wherever artificial intelligence is placed in the critical path of consequential human decisions — in any current sector and in sectors not yet formed. UniCORE AI is the architectural expression of what he has learned: that governance, when it is real, is a property of the system itself, not of the paperwork around it.
 
 **Contact.**
 - Public discussion: https://github.com/bryanunitek/UniCORE-AI/discussions
