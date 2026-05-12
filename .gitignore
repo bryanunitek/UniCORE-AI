@@ -1,2 +1,5 @@
 # Local-only agent instructions — do not publish
 AGENTS.md
+
+# Local-only drafts — never commit
+public-drafts/
