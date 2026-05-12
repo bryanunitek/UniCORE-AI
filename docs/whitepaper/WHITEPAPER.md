@@ -65,7 +65,7 @@ It is for:
 
 It is not:
 
-- A product manual (the reference product implementation - UniCORE-Claw - is published separately)
+- A product manual (the reference product implementation - UniCORE - is published separately)
 - A complete implementation guide (level-by-level technical detail is published in the `docs/` series of the [UniCORE-AI repository](https://github.com/bryanunitek/UniCORE-AI))
 - The only valid implementation of the TrueAI Foundation (others are possible; UniCORE AI is the reference)
 - Legal or regulatory advice
@@ -398,7 +398,7 @@ UniCORE AI is published as a gift. The following policy governs commercial use a
 
 **Professional services are disclosed separately.** Where Unitek Systems Limited engages directly with a client to provide implementation help, those services are commercial services subject to their own contractual terms. They are not certification and are clearly disclosed as separate from the architecture itself.
 
-**Reference product implementation.** Unitek Systems Limited maintains a reference product implementation of UniCORE AI in the [UniCORE-Claw repository](https://github.com/bryanunitek/UniCORE-Claw). That implementation is a working example, not a conformance certificate, and is licensed separately.
+**Reference product implementation.** Unitek Systems Limited maintains a reference product implementation of UniCORE AI in the [UniCORE repository](https://github.com/bryanunitek/UniCORE-Claw). That implementation is a working example, not a conformance certificate, and is licensed separately.
 
 ---
 

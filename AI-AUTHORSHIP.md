@@ -45,7 +45,7 @@ But the operational layer — the one that actually touches Bryan's repositories
 This disclosure applies to:
 
 - All documentation in this repository
-- All code contributions in the UniCORE-Claw implementation repository
+- All code contributions in the UniCORE implementation repository
 - All press releases, whitepapers, and governance documents across the programme
 
 ## The named human author

@@ -14,7 +14,7 @@ This document records the current state of the UniCORE reference implementation 
 
 It exists to answer one question: **what is built, what works, and what comes next?**
 
-The reference implementation is maintained in the [UniCORE-Claw repository](https://github.com/bryanunitek/UniCORE-Claw). This status paper is the public-facing summary of that work.
+The reference implementation is maintained in the [UniCORE repository](https://github.com/bryanunitek/UniCORE-Claw). This status paper is the public-facing summary of that work.
 
 ---
 
