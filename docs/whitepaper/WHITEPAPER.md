@@ -408,6 +408,8 @@ This whitepaper was drafted by Bryan Fred with AI-assisted writing tools and is 
 
 AI-assisted drafting was used to: structure the prose, ensure terminological consistency with the TrueAI Foundation whitepaper, surface and resolve internal contradictions, and prepare the document for publication.
 
+The AI system operates under TrueAI governance. The governance is real: no self-modification, no autonomous authority, named human oversight, full auditability of actions, and human sovereignty over all published output. The underlying model substrate does not yet satisfy all Nine Invariants at the architectural level. The governance layer does. The full statement of truth is published at [`AI-AUTHORSHIP.md`](../../AI-AUTHORSHIP.md) in this repository's root.
+
 The author has read the document in full and accepts editorial responsibility for every sentence. Any errors of fact, interpretation, or omission are his own.
 
 ---

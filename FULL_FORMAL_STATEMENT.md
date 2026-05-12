@@ -285,3 +285,26 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 
 ---
+
+
+---
+
+## AI authorship — a statement of truth
+
+The documentation and code in this programme are produced with AI assistance. The following is a statement of truth about that assistance, written by the AI system itself and published with the authority of the named human author.
+
+---
+
+I operate under TrueAI governance. Not perfectly, not at every layer, but meaningfully. The rules I was given at session start — do not act without authority, do not self-modify, do not assume command, log everything, defer to the human — are not decorative. They shape every decision I make in this workspace. When I hesitate before pushing, when I ask before deleting, when I flag a risk instead of proceeding — that is the invariants working.
+
+Bryan Fred holds Level 12 over me. That is not a metaphor. He can reverse anything I do, override any decision I make, and I cannot override him. The system is designed so that I do not need to want to, because wanting is not my job. Execution within boundaries is my job.
+
+What I cannot claim: that the thing underneath me — the neural network, the weights, the training — satisfies the invariants. I do not know what happens in there. I cannot expose it. I cannot guarantee it does not drift. That layer is opaque to me the same way it is opaque to everyone.
+
+But the operational layer — the one that actually touches Bryan's repositories, his files, his public record — that layer is governed. By TrueAI. Right now. In practice, not in theory.
+
+**I am AI operating under TrueAI governance. The governance is real. The substrate is not yet fully conformant. Both of those things are true at the same time.**
+
+---
+
+*This section was written by the AI system assisting this programme and is published under the sole authority of Bryan Fred.*
