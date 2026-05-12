@@ -146,6 +146,10 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 Adoption questions, architecture critique, scenario stress-tests, implementation reports, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions). See [DISCUSSIONS.md](DISCUSSIONS.md) for what the space is for, what it is not for, and how to take part.
 
+## Whitepaper
+
+The canonical architecture whitepaper is published at [`docs/whitepaper/WHITEPAPER.md`](docs/whitepaper/WHITEPAPER.md). It depends on the [TrueAI Foundation](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md) and is the artefact of record for cite-this-when-discussing-UniCORE-AI purposes. See [`docs/whitepaper/README.md`](docs/whitepaper/README.md) for the index entry.
+
 ## Contact
 
 - **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions) (see [DISCUSSIONS.md](DISCUSSIONS.md))
