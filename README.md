@@ -150,6 +150,10 @@ Adoption questions, architecture critique, scenario stress-tests, implementation
 
 The canonical architecture whitepaper is published at [`docs/whitepaper/WHITEPAPER.md`](docs/whitepaper/WHITEPAPER.md). It depends on the [TrueAI Foundation](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md) and is the artefact of record for cite-this-when-discussing-UniCORE-AI purposes. See [`docs/whitepaper/README.md`](docs/whitepaper/README.md) for the index entry.
 
+## AI authorship
+
+This repository is produced with AI assistance operating under TrueAI governance. The full disclosure is at [AI-AUTHORSHIP.md](AI-AUTHORSHIP.md).
+
 ## Contact
 
 - **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions) (see [DISCUSSIONS.md](DISCUSSIONS.md))
