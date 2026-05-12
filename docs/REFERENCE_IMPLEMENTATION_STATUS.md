@@ -14,7 +14,7 @@ This document records the current state of the UniCORE reference implementation 
 
 It exists to answer one question: **what is built, what works, and what comes next?**
 
-The reference implementation is maintained in the [UniCORE repository](https://github.com/bryanunitek/UniCORE-Claw). This status paper is the public-facing summary of that work.
+The reference implementation is maintained in a private repository. This status paper is the public-facing summary of that work.
 
 ---
 
@@ -202,7 +202,7 @@ Each level has a seeded cyber-security policy defining its boundary class, postu
 - [UniVERSE Governed Intelligence Whitepaper](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md)
 - [TrueAI Foundation Whitepaper v1.0](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md)
 - [UniCORE AI Architecture Whitepaper v1.0](docs/whitepaper/WHITEPAPER.md)
-- [Reference Implementation Repository](https://github.com/bryanunitek/UniCORE-Claw)
+- Reference Implementation Repository (private)
 
 ---
 

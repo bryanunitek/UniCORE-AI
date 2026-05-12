@@ -23,7 +23,7 @@ This whitepaper depends on the [TrueAI Foundation v1.0](https://github.com/bryan
 - [TrueAI Foundation](https://github.com/bryanunitek/TrueAI) - the foundation layer (the *what*)
 - [Governed Intelligence](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md) (UniVERSE) - the civilisational programme (the *why*)
 - This document - the architecture layer (the *how*)
-- [UniCORE](https://github.com/bryanunitek/UniCORE-Claw) - the reference product implementation (the *built thing*)
+- UniCORE - the reference product implementation (the *built thing*; private repository)
 
 ## Stability
 

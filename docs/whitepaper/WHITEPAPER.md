@@ -398,7 +398,7 @@ UniCORE AI is published as a gift. The following policy governs commercial use a
 
 **Professional services are disclosed separately.** Where Unitek Systems Limited engages directly with a client to provide implementation help, those services are commercial services subject to their own contractual terms. They are not certification and are clearly disclosed as separate from the architecture itself.
 
-**Reference product implementation.** Unitek Systems Limited maintains a reference product implementation of UniCORE AI in the [UniCORE repository](https://github.com/bryanunitek/UniCORE-Claw). That implementation is a working example, not a conformance certificate, and is licensed separately.
+**Reference product implementation.** Unitek Systems Limited maintains a reference product implementation of UniCORE AI (the UniCORE repository). That implementation is a working example, not a conformance certificate, and is licensed separately.
 
 ---
 
