@@ -273,7 +273,7 @@ Whether four levels or twelve, the invariants are the same.
 
 ## 6. Inter-level messaging
 
-Communication between levels is governed by an inter-level messaging protocol. The protocol is described in full in the [UniCORE AI repository](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/017-Q-Inter-Level-Messaging-Protocol-ILMP.md); the structural properties that matter for governance are summarised here.
+Communication between levels is governed by an inter-level messaging protocol. The protocol is described in full in the [UniCORE AI repository](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00017-Inter-Level-Messaging-Protocol-ILMP.md); the structural properties that matter for governance are summarised here.
 
 **Messages are typed.** Every inter-level message carries a declared type. A Level 5 interpretation message cannot be received by Level 8 as if it were an operations decision.
 

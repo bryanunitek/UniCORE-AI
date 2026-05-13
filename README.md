@@ -61,42 +61,42 @@ Machine-level reference implementations are explicitly permitted and encouraged 
 
 ## Architecture Documents
 
-| Code | Title |
-|------|-------|
-| 005 | UniCORE AI Technical Architecture Diagram (Text Based) |
-| 015 | UniCORE AI Technical API Specification |
-| 016 | UniCORE AI Data Model (XPO + SQL Schema) |
-| 017 | UniCORE AI Inter Level Messaging Protocol (ILMP) |
-| 025 | UniCORE AI Multi Model Integration Framework |
-| 027 | UniCORE AI Master Document |
-| 029 | Machine-Level Integration (C++ and Other Machine Languages) |
-| 035 | UniCORE AI Technical Reference (Developer Edition) |
+| Code  | Title |
+|-------|-------|
+| 00005 | UniCORE AI Technical Architecture Diagram (Text Based) |
+| 00015 | UniCORE AI Technical API Specification |
+| 00016 | UniCORE AI Data Model (XPO + SQL Schema) |
+| 00017 | UniCORE AI Inter Level Messaging Protocol (ILMP) |
+| 00025 | UniCORE AI Multi Model Integration Framework |
+| 00027 | UniCORE AI Master Document |
+| 00029 | Machine-Level Integration (C++ and Other Machine Languages) |
+| 00035 | UniCORE AI Technical Reference (Developer Edition) |
 
 ---
 
 ## Governance Documents
 
-| Code | Title |
-|------|-------|
-| 020 | UniCORE AI Compliance & Regulatory Mapping |
-| 021 | UniCORE AI Risk Register (Enterprise + Space Mission) |
-| 026 | UniCORE AI Global Governance Charter |
-| 032 | UniCORE AI Licensing Framework |
-| 033 | UniCORE AI 100 Year Roadmap (2026–2126) |
-| 036 | UniCORE AI Governance Simulation Scenarios |
+| Code  | Title |
+|-------|-------|
+| 00020 | UniCORE AI Compliance & Regulatory Mapping |
+| 00021 | UniCORE AI Risk Register (Enterprise + Space Mission) |
+| 00026 | UniCORE AI Global Governance Charter |
+| 00032 | UniCORE AI Licensing Framework |
+| 00033 | UniCORE AI 100 Year Roadmap (2026–2126) |
+| 00036 | UniCORE AI Governance Simulation Scenarios |
 
 ---
 
 ## Operations Documents
 
-| Code | Title |
-|------|-------|
-| 018 | UniCORE AI Space Mission Governance Pack |
-| 019 | UniCORE AI Enterprise Deployment Guide |
-| 022 | UniCORE AI Operational Playbook |
-| 023 | UniCORE AI Training & Certification Framework |
-| 024 | UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios) |
-| 044 | UniCORE AI Multi Model Robotics Governance |
+| Code  | Title |
+|-------|-------|
+| 00018 | UniCORE AI Space Mission Governance Pack |
+| 00019 | UniCORE AI Enterprise Deployment Guide |
+| 00022 | UniCORE AI Operational Playbook |
+| 00023 | UniCORE AI Training & Certification Framework |
+| 00024 | UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios) |
+| 00044 | UniCORE AI Multi Model Robotics Governance |
 
 ---
 
@@ -166,8 +166,8 @@ This repository is produced with AI assistance operating under TrueAI governance
 
 A UniCORE Solution built on the TrueAI Foundation is subject to two deployment-topology principles. They govern how Solutions must be produced and certified before layered governance (Regional, national, organisational, mission, etc.) is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical statements are in the TrueAI Foundation:
 
-- [**Singular Pairing Principle**](https://github.com/bryanunitek/TrueAI/blob/main/docs/057-BC-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
-- [**Certification Before Layered Governance**](https://github.com/bryanunitek/TrueAI/blob/main/docs/058-BD-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern. Per-level MD authoring belongs to the Govern phase, after the gate.
+- [**Singular Pairing Principle**](https://github.com/bryanunitek/TrueAI/blob/main/docs/00057-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
+- [**Certification Before Layered Governance**](https://github.com/bryanunitek/TrueAI/blob/main/docs/00058-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern. Per-level MD authoring belongs to the Govern phase, after the gate.
 
 ## Contact
 
