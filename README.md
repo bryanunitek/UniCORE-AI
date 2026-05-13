@@ -166,8 +166,8 @@ This repository is produced with AI assistance operating under TrueAI governance
 
 A UniCORE Solution built on the TrueAI Foundation is subject to two deployment-topology principles. They govern how Solutions must be produced and certified before layered governance (Regional, national, organisational, mission, etc.) is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical statements are in the TrueAI Foundation:
 
-- [**Singular Pairing Principle**](https://github.com/bryanunitek/TrueAI/blob/main/docs/00057-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
-- [**Certification Before Layered Governance**](https://github.com/bryanunitek/TrueAI/blob/main/docs/00058-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern. Per-level MD authoring belongs to the Govern phase, after the gate.
+- [**Singular Pairing Principle**](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
+- [**Certification Before Layered Governance**](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern. Per-level MD authoring belongs to the Govern phase, after the gate.
 
 ## Contact
 
