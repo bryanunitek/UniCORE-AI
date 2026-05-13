@@ -33,6 +33,20 @@ UniCORE AI is not for commercial licensing by any party other than the author.
 
 It is a governance architecture. It is given, not sold. It is irrevocable.
 
+## Scope of this statement — first-use and prior-use
+
+This statement governs the use of the name **UniCORE AI** and the name **TrueAI** as they are used by **Unitek Systems Limited** from its first use in commerce on **2026-05-10** and thereafter. It is a forward-looking statement of the boundaries of permitted use.
+
+It does not:
+
+- assert trademark priority over a third party with genuine, dated, prior use of a similar name in commerce in a relevant class and jurisdiction;
+- claim retroactive authority over earlier or unrelated uses of "UniCORE", "UniCORE AI", "TrueAI", "True AI", or similar terms by other parties;
+- substitute for the trademark registration and prior-use review that Unitek Systems Limited is conducting separately.
+
+Where this statement refers to **UniCORE AI** or **TrueAI**, it means the architecture and Foundation as published by Unitek Systems Limited from May 2026 — the work in this repository and its sibling repositories [UniVERSE](https://github.com/bryanunitek/UniVERSE) and [TrueAI](https://github.com/bryanunitek/TrueAI). It does not by itself extend over uses of similar names that pre-date that publication or that operate in unrelated classes.
+
+The binding rules in the sections below apply to that scope.
+
 ## Claims that are not permitted
 
 No person, company, consortium, standards body, regulator, or research group may:
