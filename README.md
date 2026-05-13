@@ -108,6 +108,7 @@ Machine-level reference implementations are explicitly permitted and encouraged 
 - [`UniVERSE`](https://github.com/bryanunitek/UniVERSE) — The wider vision, whitepapers, strategy, roadmap, and outreach.
 - [`TrueAI`](https://github.com/bryanunitek/TrueAI) — The immutable Foundation. Small. Stable. Never commercial.
 
+The public register of practitioners certified by Unitek Systems Limited to provide Solution Review and other delegated programme services lives in [`UniVERSE/CERTIFIED-EXPERTS.md`](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md).
 ---
 
 ## Attribution
