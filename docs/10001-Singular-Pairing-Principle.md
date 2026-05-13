@@ -98,7 +98,7 @@ Under Pattern 2, the synthesis human is the named author of the Solution and mus
 
 ### Succession
 
-Generation IT is a finite and ageing cohort. The programme's time horizon (see `HORIZON.md`) overlaps directly with the period in which the current Generation IT cohort will retire. This makes deliberate succession — the systematic transfer of end-to-end mental models to the cohort that follows — a first-class concern of the programme rather than a deferred one. Succession at this scale is itself a governance act and is expected to be treated in a successor document at an appropriate time.
+Generation IT is a finite and ageing cohort. The programme's time horizon (see `HORIZON.md`) overlaps directly with the period in which the current Generation IT cohort will retire. This makes deliberate succession — the systematic transfer of end-to-end mental models to the cohort that follows — a first-class concern of the programme rather than a deferred one. Succession at this scale is itself a governance act and is set out in [`10003-Generation-IT-Succession.md`](10003-Generation-IT-Succession.md).
 
 ---
 
