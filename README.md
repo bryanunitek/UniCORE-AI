@@ -97,6 +97,8 @@ Machine-level reference implementations are explicitly permitted and encouraged 
 | 00023 | UniCORE AI Training & Certification Framework |
 | 00024 | UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios) |
 | 00044 | UniCORE AI Multi Model Robotics Governance |
+| 10001 | Singular Pairing Principle (mastered in TrueAI — mirror) |
+| 10002 | Certification Before Layered Governance (mastered in TrueAI — mirror) |
 
 ---
 
@@ -164,10 +166,10 @@ This repository is produced with AI assistance operating under TrueAI governance
 
 ## Deployment principles
 
-A UniCORE Solution built on the TrueAI Foundation is subject to two deployment-topology principles. They govern how Solutions must be produced and certified before layered governance (Regional, national, organisational, mission, etc.) is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical statements are in the TrueAI Foundation:
+A UniCORE Solution built on the TrueAI Foundation is subject to two deployment-topology principles. They govern how Solutions must be produced and certified before layered governance (Regional, national, organisational, mission, etc.) is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical home for both is the **TrueAI Foundation**; mirror copies live here for in-repo reading.
 
-- [**Singular Pairing Principle**](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10001-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
-- [**Certification Before Layered Governance**](https://github.com/bryanunitek/UniVERSE/blob/main/docs/10002-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern. Per-level MD authoring belongs to the Govern phase, after the gate.
+- [**Singular Pairing Principle**](docs/10001-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
+- [**Certification Before Layered Governance**](docs/10002-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern. Per-level MD authoring belongs to the Govern phase, after the gate.
 
 ## Contact
 
