@@ -8,7 +8,7 @@
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 First published: 2026-05-13
 Status: Public. Given, not sold. Irrevocable.
-Version: 1.2
+Version: 1.0
 
 ---
 
@@ -44,7 +44,23 @@ These are the written-down artefacts. They exist.
 
 The documents in the UniVERSE, TrueAI, and UniCORE-AI repositories are evolving material. They are being written, refined, and extended as the programme develops — in particular as **UniCORE-Claw**, the first reference library for the Law sector, powered by **UniCORE AI** and built on the **TrueAI Foundation**, is itself being built. See the Long horizon section below for the Layered CORE model that frames this work.
 
-Individual documents carry a `Version` line in their header block. That is the revision number of the written statement, not a release version of the programme or of any Solution. Formal programme-level versioning — stable version numbers, frozen release snapshots, co-ordinated document tags across the three repositories — belongs much later in the project's life. Today the work is in its early publishing phase. Expect additions, clarifications, and new documents as the programme and the first reference library take shape.
+### Versioning is not yet enabled
+
+Every `.md` file across the three repositories carries `Version: 1.0` in its header block as a placeholder. **Programme-level versioning is not yet enabled.** While versioning is off, every document remains at `1.0` regardless of how often the content is revised. Revisions to the written material are recorded in the git history of each repository, not in the `Version` line.
+
+The `Version: 1.0` placeholder means: *draft, subject to change, not yet under formal versioning*.
+
+### When versioning turns on
+
+Programme-level versioning will be enabled when the first **GitHub Discussion** is opened in any of the three public repositories — UniVERSE, TrueAI, or UniCORE-AI. The first Discussion marks the point at which the published material begins to attract sustained external engagement and the documents need stable, citable revision numbers. Until that moment the corpus is treated as a single living draft.
+
+When versioning turns on:
+
+- The `Version` line on every document moves from the `1.0` placeholder to a real revision number.
+- Subsequent material changes bump the `Version` line according to the convention recorded at that point.
+- Frozen release snapshots and co-ordinated document tags across the three repositories become possible.
+
+### What is locked even before versioning turns on
 
 What will not change is the written foundation itself. The Nine Invariants of the TrueAI Foundation, the Gift Principle, the Singular Pairing Principle, and the Certification Before Layered Governance rule are locked. Everything else is development on top of them.
 
