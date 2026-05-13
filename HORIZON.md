@@ -8,7 +8,7 @@
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 First published: 2026-05-13
 Status: Public. Given, not sold. Irrevocable.
-Version: 1.0
+Version: 1.1
 
 ---
 
@@ -61,6 +61,67 @@ The programme's time-to-maturity is measured in decades, not quarters. A realist
 This is not a delay. It is the nature of the work.
 
 For comparison: Underwriters Laboratories has been certifying electrical safety for over 130 years. The Kitemark has been operating for over 120 years. Fairtrade for over 35. The safety architectures that govern aviation, nuclear power, pharmaceuticals, and financial settlement took decades of adversarial pressure, incident investigation, and iteration to reach the conformance maturity that makes them trustworthy today. Civilisational governance frameworks for artificial intelligence will take the same kind of time, because they are doing the same kind of work. There is no path that shortcuts that.
+
+## Long horizon
+
+Beyond the 10–20 year window covered above, this programme is intended to scale further than a single industry or even a single jurisdiction. The Foundation is designed to support layered governance at progressively larger scopes, eventually including civilisational and inter-body scopes, without changing the core architecture.
+
+This section describes the long horizon as honestly as the rest of this file describes the near horizon. It is intended for readers who need to understand the full intent before committing serious time to the programme — academic researchers, standards bodies, multilateral organisations, long-horizon institutional planners, and people building on the Foundation under their own initiative.
+
+It is not a delivery roadmap. It is the architectural envelope.
+
+### Layered CORE — the architectural pattern
+
+The Foundation supports a layered model with three levels of CORE (reference libraries that are gifted, not sold) and one Solutions tier (client-specific implementations that are services-built and sellable):
+
+- **Level 1 CORE — TrueAI Foundation.** The Nine Invariants and the governance principles that any AI system in a critical decision path must satisfy. Universal. Gift.
+- **Level 2 CORE — UniCORE AI.** The 12-level reference architecture that implements the Foundation in working form. Universal. Gift.
+- **Level 3 CORE — Scope-Domain CORE.** A reference library specific to a particular scope domain (an industry vertical, a jurisdiction, a body, a network fabric). Multiple peers can exist per scope. Examples: UniCORE-Claw is the first Vertical CORE for the Law sector. Future Vertical COREs may exist for other sectors. Government COREs may exist for jurisdictions that adopt the Foundation. All gifted.
+- **Solutions tier (not CORE).** A specific client's working implementation, built by a Generation IT producer pair on top of the relevant CORE layers. Sellable as services-built deliverables. Must attribute its CORE origins.
+
+A derivative of CORE is itself CORE and is itself gifted. This is called gift propagation. It is the architectural mechanism that prevents anyone — including the original producer — from converting shared CORE into private property.
+
+### Civilisational and inter-body scope
+
+The Layered CORE pattern scales beyond industry verticals.
+
+For a single inhabited body, the model anticipates a stack of governance layers, each Foundation-aligned and each chosen by its participants rather than imposed:
+
+- A world-scope reference layer for that body (UniEARTH for Earth; peer references for other inhabited bodies in due course).
+- Government-scope reference layers, per sovereign jurisdiction at whatever level — federal, state, county, city, parish — chooses to anchor to the Foundation.
+- Business-scope reference layers, providing inter-business rails, settlement, and attestation under Foundation governance.
+- The internet as it exists today, preserved as ungoverned space. The Foundation explicitly does not seek to absorb it.
+
+These layers are anchored to one another through Foundation alignment. They are not in a command relationship. A Government Internet that anchors to UniEARTH is not under UniEARTH's authority; it has chosen to use a Foundation-aligned interoperability layer. Sovereignty is not transferred upward.
+
+For multiple inhabited bodies — Moon, Mars, and beyond as humanity expands — each body carries its own stack. The bodies are connected through a peer Inter-Body Fabric that governs craft in transit, inter-body diplomacy and settlement, and identity portability. The Inter-Body Fabric belongs to no single body and is governed by treaty and mutual recognition between Body Stacks.
+
+Craft that leave practical communication range — including any future interstellar craft on multi-generational journeys — become self-contained civilisations in transit. They carry the universal CORE layers (TrueAI Foundation and UniCORE AI) as substrate, and build their own Scope-Domain CORE locally as their journey progresses. On return or re-contact, they are integrated as peers, not as subjects of any earlier authority.
+
+### Sovereignty by physics
+
+Where light-lag makes synchronous governance physically impossible, the architecture recognises peer status automatically rather than requiring a political event. A colony at distance is a peer Foundation-holder by physics, not by declaration. An interstellar craft governs itself locally because nothing else can — that is structural necessity, not disobedience.
+
+This is a deliberate architectural choice. Frameworks that try to project authority across light-lag fail. Frameworks that recognise peer status by physical reality scale.
+
+### Why this matters now
+
+Three reasons the long horizon is documented here, alongside the near horizon, rather than left implicit.
+
+First, the architectural choices made today determine whether the long horizon is reachable. The Singular Pairing Principle, the Generation IT Succession charter, the Gift Principle, and the gift propagation rule for derived CORE work together as a coherent system designed to remain stable across decades and across scopes. None of those choices makes sense if the long horizon is not in view.
+
+Second, parts of the substrate are being built today, in parallel, by other parties. The Interplanetary Internet (Delay-Tolerant Networking) has been under development by NASA and the IETF for roughly twenty years. The Foundation's long-horizon architecture is intended to be compatible with that work, not to compete with it.
+
+Third, harmony at this scope is structural, not decorative. Conflicts between bodies cannot be resolved by force across light-lag — by the time force projection arrives, the situation has changed by years. The only governance model that scales to inter-body distances is treaty, mutual recognition, Foundation alignment, and gift. Other postures break under physics. The programme's commitment to harmony is therefore a structural requirement of its long horizon, not a values statement bolted onto a technical project.
+
+### What this section is not
+
+- It is not a delivery commitment.
+- It is not a prediction of when humans will live elsewhere than Earth.
+- It is not a claim that the Foundation will be the only governance model used at any of these scopes.
+- It is not a request for funding, partnership, or political support to deliver any of it.
+
+It is a statement of architectural envelope, made now so that the choices visible in the near-term work are intelligible to readers who notice that the architecture is sized for more than its first vertical.
 
 ## Why publish now
 
