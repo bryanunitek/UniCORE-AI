@@ -39,16 +39,17 @@ You may not:
 
 ## The TrueAI Foundation Invariants (Non-Negotiable)
 
-Regardless of this license, the following invariants always apply to any system claiming TrueAI alignment. They cannot be waived or licensed away:
+Regardless of this license, the following invariants always apply to any system claiming TrueAI alignment. They cannot be waived or licensed away. Canonical long-form statement: [TrueAI Foundation whitepaper](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md).
 
-1. **Not fabricate.**
-2. **Not self-modify.**
-3. **Not self-create.**
-4. **Not assume authority.**
-5. **Not act horizontally.**
-6. **Not override humans.**
-7. **Classify uncertainty.**
-8. **Escalate where governance is absent.**
+1. **No Autonomy.**
+2. **No Self-Modification.**
+3. **No Emergent Behaviour.**
+4. **No Human Influence.**
+5. **No Domain Merging.**
+6. **No Authority Assumption.**
+7. **Determinism with Reversibility.**
+8. **Transparency Without Exception.**
+9. **Human Sovereignty as Root.**
 
 ---
 
