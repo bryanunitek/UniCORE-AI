@@ -79,7 +79,7 @@ Unitek Systems Limited may delegate the operation of the public process to an in
 
 | Version | Date | Notes |
 |---|---|---|
-| v1.0 | May 2026 | First publication. Succession statement matches TrueAI whitepaper §8 (Option B). Named successor placeholder in place. |
+| v1.0 | May 2026 | First publication. Succession statement matches TrueAI whitepaper [§8](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) (Option B). Named successor placeholder in place. |
 
 Revisions to this document, including the eventual recording of a named successor, will be tracked in this table and in the repository's git history.
 
