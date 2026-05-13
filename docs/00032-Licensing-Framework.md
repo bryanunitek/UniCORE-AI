@@ -1,14 +1,18 @@
-⭐ AD — UniCORE AI Licensing Framework
+> **Canonical home:** [UniVERSE — `docs/00032-Licensing-Framework.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00032-Licensing-Framework.md)
+> This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-Immutable, NonCommercial, Global License
+# UniCORE AI Licensing Framework
 
-Version 1.0 — May 2026
+**Immutable, Non-Commercial, Global License**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE OF THE LICENSE
+## 1. Purpose of the License
 
 The UniCORE AI Licensing Framework exists to:
 
@@ -20,17 +24,15 @@ preserve the integrity of the TrueAI Foundation
 
 prevent modification of the core architecture
 
-guarantee longduration governance stability
+guarantee long-duration governance stability
 
 ensure that UniCORE AI remains a public governance foundation
 
 This license is not a software license.It is a governance license.
 
+## 2. Core Principles of the License
 
-
-2. CORE PRINCIPLES OF THE LICENSE
-
-2.1 NonCommercial Forever
+2.1 Non-Commercial Forever
 
 UniCORE AI cannot be:
 
@@ -52,13 +54,13 @@ the 12Level model
 
 the TrueAI Foundation
 
-the InterLevel Messaging Protocol
+the Inter-Level Messaging Protocol
 
 the governance boundaries
 
-the nonselfmodification rule
+the nonself-modification rule
 
-the noemergentbehavior rule
+the noemergentbehaviour rule
 
 2.3 Open and Global
 
@@ -108,15 +110,13 @@ autonomous authority
 
 selfgenerated rules
 
-selfmodification
+self-modification
 
-emergent behavior
+emergent behaviour
 
 internal heartbeats
 
-
-
-3. LICENSE STRUCTURE
+## 3. License Structure
 
 The UniCORE AI License is divided into:
 
@@ -132,7 +132,7 @@ Article V — Governance Obligations
 
 Article VI — Safety Obligations
 
-Article VII — NonCommercial Clause
+Article VII — Non-Commercial Clause
 
 Article VIII — Global Access Clause
 
@@ -144,8 +144,6 @@ Article XI — Enforcement
 
 Article XII — Term and Termination
 
-
-
 4. ARTICLE I — DEFINITIONS
 
 UniCORE AI The 12Level governance architecture, TrueAI Foundation, ILMP, and all associated governance structures.
@@ -154,11 +152,9 @@ Core Architecture The immutable components defined in Article IV.
 
 Governance Files Humanauthored MD files that define rules.
 
-User Any individual, organization, government, or agency using UniCORE AI.
+User Any individual, organisation, government, or agency using UniCORE AI.
 
 Derivative Work Any modification, extension, or alteration of the core architecture.
-
-
 
 5. ARTICLE II — GRANT OF RIGHTS
 
@@ -180,8 +176,6 @@ use UniCORE AI for public benefit
 
 These rights are free, global, and perpetual.
 
-
-
 6. ARTICLE III — RESTRICTIONS
 
 Users may not:
@@ -202,8 +196,6 @@ embed UniCORE AI in closed systems
 
 use UniCORE AI for military weapons
 
-
-
 7. ARTICLE IV — IMMUTABLE COMPONENTS
 
 The following components are legally immutable:
@@ -212,11 +204,11 @@ TrueAI Foundation
 
 12Level Governance Model
 
-InterLevel Messaging Protocol
+Inter-Level Messaging Protocol
 
-NonSelfModification Rule
+NonSelf-Modification Rule
 
-NoEmergentBehavior Rule
+NoEmergentBehaviour Rule
 
 Human Override Protocol
 
@@ -240,8 +232,6 @@ replaced
 
 by any user or entity.
 
-
-
 8. ARTICLE V — GOVERNANCE OBLIGATIONS
 
 Users must:
@@ -258,17 +248,15 @@ maintain override authority
 
 maintain transparency
 
-
-
 9. ARTICLE VI — SAFETY OBLIGATIONS
 
 Users must ensure:
 
 no autonomous authority
 
-no selfmodification
+no self-modification
 
-no emergent behavior
+no emergent behaviour
 
 no internal heartbeats
 
@@ -276,9 +264,7 @@ no horizontal messaging
 
 no modeltomodel communication
 
-
-
-10. ARTICLE VII — NONCOMMERCIAL CLAUSE
+10. ARTICLE VII — NON-COMMERCIAL CLAUSE
 
 UniCORE AI may not be:
 
@@ -293,8 +279,6 @@ used as a SaaS product
 embedded in commercial offerings
 
 UniCORE AI is a public governance foundation, not a commercial asset.
-
-
 
 11. ARTICLE VIII — GLOBAL ACCESS CLAUSE
 
@@ -312,8 +296,6 @@ platformneutral
 
 No entity may restrict access.
 
-
-
 12. ARTICLE IX — ANTICAPTURE CLAUSE
 
 No entity may:
@@ -328,8 +310,6 @@ patent the architecture
 
 restrict global use
 
-
-
 13. ARTICLE X — AMENDMENT PROTOCOL
 
 The license may only be amended by:
@@ -340,8 +320,6 @@ with unanimous human approval
 
 and no AI involvement
 
-
-
 14. ARTICLE XI — ENFORCEMENT
 
 Violations result in:
@@ -351,8 +329,6 @@ immediate revocation of rights
 public disclosure
 
 legal action under international governance law
-
-
 
 15. ARTICLE XII — TERM AND TERMINATION
 

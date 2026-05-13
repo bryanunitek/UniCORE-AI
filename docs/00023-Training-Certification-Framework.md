@@ -1,12 +1,16 @@
-⭐ W — UniCORE AI Training & Certification Framework
+> **Canonical home:** [UniVERSE — `docs/00023-Training-Certification-Framework.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md)
+> This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-Version 1.0 — May 2026
+# UniCORE AI Training & Certification Framework
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 This framework establishes:
 
@@ -36,9 +40,7 @@ governancealigned
 
 humans.
 
-
-
-2. TRAINING PHILOSOPHY
+## 2. Training Philosophy
 
 UniCORE AI training is built on five principles:
 
@@ -82,7 +84,7 @@ Operators must understand:
 
 what UniCORE AI cannot do
 
-why it cannot selfmodify
+why it cannot self-modify
 
 why it cannot generate rules
 
@@ -98,9 +100,7 @@ space mission anomalies
 
 hibernation governance
 
-
-
-3. CERTIFICATION LEVELS
+## 3. Certification Levels
 
 UniCORE AI uses a fivetier certification system:
 
@@ -113,8 +113,6 @@ Level 3 — Governance Officer
 Level 4 — Compliance Officer
 
 Level 5 — Mission Commander (Space)
-
-
 
 4. LEVEL 1 — USER CERTIFICATION
 
@@ -147,8 +145,6 @@ Scenariobased evaluation
 Validity
 
 2 years
-
-
 
 5. LEVEL 2 — OPERATOR CERTIFICATION
 
@@ -186,8 +182,6 @@ Validity
 
 2 years
 
-
-
 6. LEVEL 3 — GOVERNANCE OFFICER CERTIFICATION
 
 Audience
@@ -224,8 +218,6 @@ Validity
 
 1 year
 
-
-
 7. LEVEL 4 — COMPLIANCE OFFICER CERTIFICATION
 
 Audience
@@ -261,8 +253,6 @@ Audit simulation
 Validity
 
 1 year
-
-
 
 8. LEVEL 5 — MISSION COMMANDER CERTIFICATION (SPACE)
 
@@ -312,9 +302,7 @@ Validity
 
 6 months (space missions require recency)
 
-
-
-9. TRAINING MODULES
+## 9. Training Modules
 
 UniCORE AI training is divided into 12 modules, aligned with the 12 Levels.
 
@@ -352,9 +340,7 @@ case studies
 
 simulations
 
-
-
-10. SPECIALIZED TRAINING TRACKS
+## 10. Specialized Training Tracks
 
 10.1 Enterprise Track
 
@@ -390,9 +376,7 @@ emergency governance
 
 radiation drift management
 
-
-
-11. RECERTIFICATION REQUIREMENTS
+## 11. Recertification Requirements
 
 Enterprise
 
@@ -408,9 +392,7 @@ every 6 months
 
 mandatory prelaunch recertification
 
-
-
-12. WHY THIS FRAMEWORK MATTERS
+## 12. Why This Framework Matters
 
 UniCORE AI is designed for:
 

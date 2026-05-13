@@ -1,12 +1,16 @@
-⭐ T — UniCORE AI Compliance & Regulatory Mapping
+> **Canonical home:** [UniVERSE — `docs/00020-Compliance-Regulatory-Mapping.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00020-Compliance-Regulatory-Mapping.md)
+> This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-Version 1.0 — May 2026
+# UniCORE AI Compliance & Regulatory Mapping
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 This document maps UniCORE AI’s architecture, governance model, and operational constraints to major global regulatory frameworks.
 
@@ -18,13 +22,11 @@ is suitable for regulated industries
 
 is safe for government and publicsector use
 
-is compatible with longduration space mission governance
+is compatible with long-duration space mission governance
 
-provides deterministic, auditable, nonselfmodifying AI behavior
+provides deterministic, auditable, non-self-modifying AI behaviour
 
-
-
-2. REGULATORY FRAMEWORKS COVERED
+## 2. Regulatory Frameworks Covered
 
 2.1 GDPR (EU Data Protection Regulation)
 
@@ -42,9 +44,7 @@ provides deterministic, auditable, nonselfmodifying AI behavior
 
 2.8 PublicSector Governance (UK GDS, EU AI Act)
 
-
-
-3. GDPR MAPPING
+## 3. Gdpr Mapping
 
 GDPR Requirement
 
@@ -52,7 +52,7 @@ UniCORE AI Alignment
 
 Lawfulness, fairness, transparency
 
-All actions logged; no hidden processes; deterministic behavior.
+All actions logged; no hidden processes; deterministic behaviour.
 
 Purpose limitation
 
@@ -60,7 +60,7 @@ AI cannot create new purposes; all operations governed by MD files.
 
 Data minimization
 
-Only humanprovided evidence is stored; no autonomous data collection.
+Only human-provided evidence is stored; no autonomous data collection.
 
 Accuracy
 
@@ -78,11 +78,9 @@ Automated decisionmaking restrictions
 
 UniCORE AI cannot make autonomous decisions; humans remain sovereign.
 
-GDPR Summary: UniCORE AI is inherently GDPRaligned because it cannot selfmodify, cannot selfcollect data, and cannot make autonomous decisions.
+GDPR Summary: UniCORE AI is inherently GDPRaligned because it cannot self-modify, cannot selfcollect data, and cannot make autonomous decisions.
 
-
-
-4. ISO 27001 MAPPING
+## 4. Iso 27001 Mapping
 
 ISO 27001 Control
 
@@ -92,7 +90,7 @@ A.5 Information Security Policies
 
 Governance MD files define all rules.
 
-A.6 Organization of Information Security
+A.6 Organisation of Information Security
 
 Strict rolebased access; AI cannot hold roles.
 
@@ -116,9 +114,7 @@ A.16 Incident Management
 
 Drift detection + audit logs.
 
-ISO Summary: UniCORE AI exceeds ISO 27001 expectations due to its nonautonomous, governed, deterministic design.
-
-
+ISO Summary: UniCORE AI exceeds ISO 27001 expectations due to its non-autonomous, governed, deterministic design.
 
 5. ISO 27701 (Privacy) MAPPING
 
@@ -137,8 +133,6 @@ No selfcollection; no autonomous processing.
 Data subject rights
 
 All actions logged and reversible by humans.
-
-
 
 6. NIST AI RISK MANAGEMENT FRAMEWORK (AI RMF)
 
@@ -164,8 +158,6 @@ Human override protocol ensures human control.
 
 NIST Summary: UniCORE AI is one of the few architectures that fully satisfies NIST’s “Govern” and “Manage” categories by design.
 
-
-
 7. EU AI ACT (2024–2026)
 
 UniCORE AI is inherently compliant with:
@@ -184,15 +176,13 @@ Because:
 
 AI cannot override humans
 
-AI cannot selfmodify
+AI cannot self-modify
 
 AI cannot generate rules
 
 All actions are logged
 
-All governance is humanauthored
-
-
+All governance is human-authored
 
 8. FINANCIAL COMPLIANCE (Basel, FCA, SEC)
 
@@ -202,9 +192,9 @@ auditability
 
 immutability
 
-deterministic behavior
+deterministic behaviour
 
-nonautonomous decisionmaking
+non-autonomous decisionmaking
 
 traceable compliance checks
 
@@ -220,8 +210,6 @@ regulatory reporting
 
 antifraud systems
 
-
-
 9. HEALTHCARE COMPLIANCE (HIPAA, NHS DSPT)
 
 UniCORE AI supports:
@@ -232,7 +220,7 @@ immutable audit logs
 
 no autonomous data access
 
-humandefined retention policies
+human-defined retention policies
 
 deterministic medical governance
 
@@ -243,8 +231,6 @@ clinical decision support
 medical robotics
 
 hospital governance systems
-
-
 
 10. PUBLICSECTOR GOVERNANCE (UK GDS, EU Digital Services)
 
@@ -258,9 +244,7 @@ auditability
 
 human oversight
 
-nonautonomous operation
-
-
+non-autonomous operation
 
 11. SPACE MISSION COMPLIANCE (FAA, ESA, NASA)
 
@@ -268,7 +252,7 @@ UniCORE AI satisfies:
 
 mission integrity
 
-deterministic behavior
+deterministic behaviour
 
 no emergent processes
 
@@ -276,7 +260,7 @@ no autonomous authority
 
 hibernation governance
 
-longduration stability
+long-duration stability
 
 This makes it suitable for:
 
@@ -284,19 +268,17 @@ Mars missions
 
 lunar bases
 
-deepspace probes
+deep-space probes
 
 human hibernation systems
 
+## 12. Why UNICORE AI Is Regulatorysafe
 
-
-12. WHY UNICORE AI IS REGULATORYSAFE
-
-✔ No selfmodification
+✔ No self-modification
 
 ✔ No autonomous decisionmaking
 
-✔ No emergent behavior
+✔ No emergent behaviour
 
 ✔ No internal heartbeats
 

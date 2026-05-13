@@ -63,11 +63,11 @@ Machine-level reference implementations are explicitly permitted and encouraged 
 
 | Code  | Title |
 |-------|-------|
-| 00005 | UniCORE AI Technical Architecture Diagram (Text Based) |
+| 00005 | UniCORE AI Technical Architecture Diagram (Text-Based) |
 | 00015 | UniCORE AI Technical API Specification |
 | 00016 | UniCORE AI Data Model (XPO + SQL Schema) |
-| 00017 | UniCORE AI Inter Level Messaging Protocol (ILMP) |
-| 00025 | UniCORE AI Multi Model Integration Framework |
+| 00017 | UniCORE AI Inter-Level Messaging Protocol (ILMP) |
+| 00025 | UniCORE AI Multi-Model Integration Framework |
 | 00027 | UniCORE AI Master Document |
 | 00029 | Machine-Level Integration (C++ and Other Machine Languages) |
 | 00035 | UniCORE AI Technical Reference (Developer Edition) |
@@ -82,7 +82,7 @@ Machine-level reference implementations are explicitly permitted and encouraged 
 | 00021 | UniCORE AI Risk Register (Enterprise + Space Mission) |
 | 00026 | UniCORE AI Global Governance Charter |
 | 00032 | UniCORE AI Licensing Framework |
-| 00033 | UniCORE AI 100 Year Roadmap (2026–2126) |
+| 00033 | UniCORE AI 100-Year Roadmap (2026–2126) |
 | 00036 | UniCORE AI Governance Simulation Scenarios |
 
 ---
@@ -96,7 +96,7 @@ Machine-level reference implementations are explicitly permitted and encouraged 
 | 00022 | UniCORE AI Operational Playbook |
 | 00023 | UniCORE AI Training & Certification Framework |
 | 00024 | UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios) |
-| 00044 | UniCORE AI Multi Model Robotics Governance |
+| 00044 | UniCORE AI Multi-Model Robotics Governance |
 | 10001 | Singular Pairing Principle (mastered in TrueAI — mirror) |
 | 10002 | Certification Before Layered Governance (mastered in TrueAI — mirror) |
 

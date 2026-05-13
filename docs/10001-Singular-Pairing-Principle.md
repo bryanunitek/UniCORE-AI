@@ -1,7 +1,7 @@
 > **Canonical home:** [TrueAI — `docs/10001-Singular-Pairing-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-# ⭐ BC — Singular Pairing Principle
+# Singular Pairing Principle
 
 **Deployment topology for the production of TrueAI-aligned Solutions**
 

@@ -1,12 +1,16 @@
-⭐ S — UniCORE AI Enterprise Deployment Guide
+> **Canonical home:** [UniVERSE — `docs/00019-Enterprise-Deployment-Guide.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00019-Enterprise-Deployment-Guide.md)
+> This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-Version 1.0 — May 2026
+# UniCORE AI Enterprise Deployment Guide
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 This guide defines how to deploy UniCORE AI into:
 
@@ -26,15 +30,13 @@ deterministic
 
 governed
 
-truthanchored
+truth-anchored
 
-nonselfmodifying
+non-self-modifying
 
 compliant with the TrueAI Constitution
 
-
-
-2. DEPLOYMENT PRINCIPLES
+## 2. Deployment Principles
 
 2.1 Deterministic Execution
 
@@ -56,9 +58,9 @@ versioncontrolled
 
 externally stored
 
-humanauthored only
+human-authored only
 
-2.3 HumanAnchored Control
+2.3 Human-Anchored Control
 
 All write operations require:
 
@@ -68,7 +70,7 @@ human authorization
 
 human intent
 
-2.4 Zero SelfModification
+2.4 Zero Self-Modification
 
 UniCORE AI must not:
 
@@ -92,9 +94,7 @@ immutable
 
 exportable
 
-
-
-3. SYSTEM ARCHITECTURE
+## 3. System Architecture
 
 UniCORE AI is deployed as a threetier system:
 
@@ -106,13 +106,9 @@ Governance Layer (TrueAI Foundation + 12 Levels)
 
 Persistence Layer (XPO + SQL Server/PostgreSQL)
 
-
-
-4. DEPLOYMENT MODELS
+## 4. Deployment Models
 
 UniCORE AI supports four deployment models:
-
-
 
 4.1 OnPremise (Recommended for Government & Regulated Industries)
 
@@ -136,8 +132,6 @@ SQL Server 2022 or PostgreSQL 16
 
 XAF 25.2.7
 
-
-
 4.2 Hybrid Cloud
 
 Characteristics:
@@ -155,8 +149,6 @@ Azure App Service / Azure Kubernetes Service
 Azure SQL or onprem SQL
 
 secure VPN or ExpressRoute
-
-
 
 4.3 Full Cloud (Enterprise)
 
@@ -176,8 +168,6 @@ Azure SQL
 
 Azure Key Vault
 
-
-
 4.4 AirGapped Deployment (Defense / Space)
 
 Characteristics:
@@ -188,7 +178,7 @@ fully isolated
 
 deterministic environment
 
-longduration stability
+long-duration stability
 
 Requirements:
 
@@ -198,11 +188,7 @@ offline governance MD store
 
 offline audit export
 
-
-
-5. CORE COMPONENTS
-
-
+## 5. Core Components
 
 5.1 Governance Engine
 
@@ -218,9 +204,7 @@ drift detection
 
 Must run in readonly mode for governance files.
 
-
-
-5.2 InterLevel Messaging Bus
+5.2 Inter-Level Messaging Bus
 
 Implements ILMP (from section Q):
 
@@ -240,8 +224,6 @@ XPO message table
 
 Azure Service Bus (deterministic mode)
 
-
-
 5.3 Audit Engine
 
 Stores:
@@ -260,8 +242,6 @@ execution logs
 
 Audit tables must be appendonly.
 
-
-
 5.4 Override Engine
 
 Implements the Human Override Protocol:
@@ -274,11 +254,7 @@ no delay
 
 no reinterpretation
 
-
-
-6. SECURITY MODEL
-
-
+## 6. Security Model
 
 6.1 Authentication
 
@@ -288,13 +264,11 @@ Azure AD
 
 Active Directory
 
-ADFS
+## Adfs
 
 OAuth2
 
 All write operations require human identity.
-
-
 
 6.2 Authorization
 
@@ -314,8 +288,6 @@ Auditor
 
 AI cannot hold roles.
 
-
-
 6.3 Secrets Management
 
 Use:
@@ -327,8 +299,6 @@ HashiCorp Vault
 Onprem HSM
 
 AI cannot access secrets autonomously.
-
-
 
 6.4 Network Segmentation
 
@@ -342,11 +312,7 @@ Presentation Layer: DMZ or internal
 
 Database Layer: private subnet
 
-
-
-7. DEPLOYMENT STEPS
-
-
+## 7. Deployment Steps
 
 Step 1 — Provision Infrastructure
 
@@ -358,8 +324,6 @@ Deploy governance server
 
 Configure network segmentation
 
-
-
 Step 2 — Install UniCORE AI
 
 Deploy XAF modules
@@ -369,8 +333,6 @@ Deploy governance engine
 Deploy messaging bus
 
 Deploy audit engine
-
-
 
 Step 3 — Load Governance MD Files
 
@@ -388,13 +350,11 @@ Mission_Governance.md (if applicable)
 
 Files must be:
 
-humanauthored
+human-authored
 
 signed
 
 versioned
-
-
 
 Step 4 — Configure Thresholds
 
@@ -405,8 +365,6 @@ Reasonable Governance Threshold
 Drift thresholds
 
 Compliance thresholds
-
-
 
 Step 5 — Configure Roles
 
@@ -420,8 +378,6 @@ Administrators
 
 Override Officers
 
-
-
 Step 6 — Run Validation
 
 System performs:
@@ -434,8 +390,6 @@ messaging validation
 
 drift baseline creation
 
-
-
 Step 7 — Begin Operation
 
 UniCORE AI enters:
@@ -446,11 +400,7 @@ governed mode
 
 audit mode
 
-
-
-8. MONITORING & MAINTENANCE
-
-
+## 8. Monitoring & Maintenance
 
 8.1 Monitoring
 
@@ -465,8 +415,6 @@ compliance checks
 override frequency
 
 message flow
-
-
 
 8.2 Maintenance
 
@@ -486,11 +434,7 @@ modifying governance MD files without human approval
 
 modifying architecture
 
-
-
-9. DISASTER RECOVERY
-
-
+## 9. Disaster Recovery
 
 9.1 Backup Strategy
 
@@ -510,8 +454,6 @@ daily full
 
 hourly differential
 
-
-
 9.2 Restore Strategy
 
 Restores must:
@@ -522,9 +464,7 @@ preserve audit logs
 
 preserve governance versions
 
-
-
-10. WHY THIS GUIDE MATTERS
+## 10. Why This Guide Matters
 
 This deployment guide ensures UniCORE AI remains:
 
@@ -536,9 +476,9 @@ deterministic
 
 compliant
 
-humananchored
+human-anchored
 
-longduration stable
+long-duration stable
 
 It is suitable for:
 

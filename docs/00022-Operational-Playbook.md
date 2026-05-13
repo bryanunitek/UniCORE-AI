@@ -1,14 +1,18 @@
-⭐ V — UniCORE AI Operational Playbook
+> **Canonical home:** [UniVERSE — `docs/00022-Operational-Playbook.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00022-Operational-Playbook.md)
+> This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-Runbooks for Enterprise + Space Mission Operations
+# UniCORE AI Operational Playbook
 
-Version 1.0 — May 2026
+**Runbooks for Enterprise + Space Mission Operations**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 This playbook defines the standard operating procedures (SOPs) for running UniCORE AI in:
 
@@ -18,7 +22,7 @@ government systems
 
 regulated industries
 
-longduration space missions
+long-duration space missions
 
 human hibernation environments
 
@@ -28,9 +32,9 @@ deterministic
 
 governed
 
-truthanchored
+truth-anchored
 
-nonselfmodifying
+non-self-modifying
 
 humansovereign
 
@@ -38,9 +42,7 @@ auditready
 
 missionstable
 
-
-
-2. STRUCTURE OF THE PLAYBOOK
+## 2. Structure of the Playbook
 
 The playbook is divided into two domains:
 
@@ -70,11 +72,7 @@ Shutdown / Restart Procedures
 
 PostIncident Review Procedures
 
-
-
-3. ENTERPRISE OPERATIONS RUNBOOK
-
-
+## 3. Enterprise Operations Runbook
 
 3.1 Daily Runbook (Enterprise)
 
@@ -118,8 +116,6 @@ Review pending compliance checks
 
 Validate jurisdictional mapping
 
-
-
 3.2 Weekly Runbook (Enterprise)
 
 Step 1 — Governance Review
@@ -154,8 +150,6 @@ Confirm MD file backups
 
 Confirm audit log backups
 
-
-
 3.3 Monthly Governance Cycle (Enterprise)
 
 Step 1 — Governance Board Review
@@ -179,8 +173,6 @@ Step 3 — Drift Baseline Reset
 Recalculate drift baselines
 
 Validate sensor/metric stability
-
-
 
 3.4 Incident Response (Enterprise)
 
@@ -214,11 +206,9 @@ Restore from backup if needed
 
 Document incident
 
-
-
 3.5 Safe Mode (Enterprise)
 
-Safe Mode is humandefined and nonautonomous.
+Safe Mode is human-defined and non-autonomous.
 
 Triggers
 
@@ -237,8 +227,6 @@ Lock governance layer
 Restrict execution layer
 
 Maintain audit logging
-
-
 
 3.6 Restart Procedure (Enterprise)
 
@@ -260,13 +248,9 @@ Start presentation layer
 
 Run health checks
 
-
-
-4. SPACE MISSION OPERATIONS RUNBOOK
+## 4. Space Mission Operations Runbook
 
 This section is written in missiongrade format, similar to NASA/ESA flight rules.
-
-
 
 4.1 Daily Runbook (Space Mission)
 
@@ -302,15 +286,13 @@ Navigation drift
 
 Environmental drift
 
-Behavioral drift
+Behavioural drift
 
 Step 5 — Audit Review
 
 Review Highseverity events
 
 Confirm no unauthorized overrides
-
-
 
 4.2 Weekly Runbook (Space Mission)
 
@@ -338,8 +320,6 @@ Redundant system checks
 
 Radiation event logs
 
-
-
 4.3 Monthly Governance Cycle (Space Mission)
 
 Step 1 — Mission Board Review (Earth + Crew)
@@ -362,11 +342,7 @@ Validate medical thresholds
 
 Validate wake/sleep cycles
 
-
-
-5. SPACE MISSION INCIDENT RESPONSE
-
-
+## 5. Space Mission Incident Response
 
 5.1 Emergency Conditions
 
@@ -398,11 +374,9 @@ Log all events
 
 Notify Earth (if possible)
 
-
-
 5.2 Safe Mode (Space Mission)
 
-Safe Mode is humandefined and nonautonomous.
+Safe Mode is human-defined and non-autonomous.
 
 Triggers
 
@@ -426,8 +400,6 @@ isolate faulty modules
 
 maintain audit logging
 
-
-
 5.3 Restart Procedure (Space Mission)
 
 Enter manual control
@@ -446,9 +418,7 @@ Restart mission systems
 
 Run full health check
 
-
-
-6. POSTINCIDENT REVIEW
+## 6. Postincident Review
 
 Enterprise
 

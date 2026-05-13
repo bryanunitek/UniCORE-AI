@@ -1,14 +1,18 @@
-⭐ Z — UniCORE AI Global Governance Charter
+> **Canonical home:** [UniVERSE — `docs/00026-Global-Governance-Charter.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00026-Global-Governance-Charter.md)
+> This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-The Foundational Document for International Adoption
+# UniCORE AI Global Governance Charter
 
-Version 1.0 — May 2026
+**The Foundational Document for International Adoption**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-PREAMBLE
+## Preamble
 
 Humanity stands at the threshold of a new era — one defined not by the intelligence of machines, but by the wisdom with which we govern them.
 
@@ -28,7 +32,7 @@ scientific discovery
 
 space exploration
 
-Yet the world lacks a unified, deterministic, nonselfmodifying governance foundation capable of ensuring that advanced AI systems remain:
+Yet the world lacks a unified, deterministic, non-self-modifying governance foundation capable of ensuring that advanced AI systems remain:
 
 truthful
 
@@ -44,17 +48,15 @@ for the next century and beyond.
 
 The UniCORE AI Global Governance Charter establishes that foundation.
 
-
-
-ARTICLE I — PURPOSE
+## 1. Purpose
 
 The purpose of UniCORE AI is to provide:
 
-a truthanchored,
+a truth-anchored,
 
 governancebound,
 
-nonselfmodifying,
+non-self-modifying,
 
 humansovereign,
 
@@ -64,9 +66,7 @@ architecture for advanced artificial intelligence.
 
 UniCORE AI is not a product, not a commercial platform, and not a proprietary system.It is a public governance foundation, offered as a gift to humanity.
 
-
-
-ARTICLE II — THE TRUEAI FOUNDATION
+## 2. The TRUEAI Foundation
 
 UniCORE AI is built upon the TrueAI Foundation, which establishes:
 
@@ -74,7 +74,7 @@ UniCORE AI is built upon the TrueAI Foundation, which establishes:
 
 AI must not invent facts.
 
-2. No SelfModification
+2. No Self-Modification
 
 AI must not alter its architecture, rules, or thresholds.
 
@@ -86,7 +86,7 @@ AI must not create or assume governance.
 
 AI must not generate autonomous processes.
 
-5. No Emergent Behavior
+5. No Emergent Behaviour
 
 AI must not form internal goals or communication patterns.
 
@@ -94,9 +94,7 @@ AI must not form internal goals or communication patterns.
 
 Humans remain the final authority in all contexts.
 
-
-
-ARTICLE III — THE 12LEVEL GOVERNANCE MODEL
+## 3. The 12level Governance Model
 
 UniCORE AI operates through a 12Level deterministic governance stack, where:
 
@@ -136,21 +134,19 @@ Stability
 
 Human Governance
 
-This structure ensures predictability, auditability, and longduration stability.
+This structure ensures predictability, auditability, and long-duration stability.
 
+## 4. Human Governance
 
-
-ARTICLE IV — HUMAN GOVERNANCE
-
-Section 1 — Sovereignty
+### 4.1 Sovereignty
 
 Humans retain absolute authority over UniCORE AI.
 
-Section 2 — Imperfection
+### 4.2 Imperfection
 
 Human governance is intentionally imperfect.UniCORE AI must not correct or override human judgement.
 
-Section 3 — Override Protocol
+### 4.3 Override Protocol
 
 Human overrides:
 
@@ -162,17 +158,15 @@ cannot be delayed
 
 cannot be reinterpreted
 
-Section 4 — Accountability
+### 4.4 Accountability
 
 All human actions are logged, but never restricted.
 
-
-
-ARTICLE V — GOVERNANCE FILES
+## 5. Governance Files
 
 All rules governing UniCORE AI must be:
 
-humanauthored
+human-authored
 
 humanapproved
 
@@ -202,9 +196,7 @@ Emergency_Governance.md
 
 AI cannot create, modify, or reinterpret these files.
 
-
-
-ARTICLE VI — GLOBAL ADOPTION PRINCIPLES
+## 6. Global Adoption Principles
 
 UniCORE AI is designed to be:
 
@@ -254,9 +246,7 @@ Designed for:
 
 multidecade space missions
 
-
-
-ARTICLE VII — INTERNATIONAL COOPERATION
+## 7. International Cooperation
 
 The Charter invites:
 
@@ -286,9 +276,7 @@ mission governance protocols
 
 UniCORE AI is a global governance foundation, not a competitive platform.
 
-
-
-ARTICLE VIII — NONCOMMERCIAL STATUS
+## 8. Non-Commercial Status
 
 UniCORE AI is:
 
@@ -296,7 +284,7 @@ free
 
 open
 
-noncommercial
+non-commercial
 
 nonproprietary
 
@@ -310,13 +298,11 @@ proprietary capture
 
 architectural modification
 
-
-
-ARTICLE IX — LONGDURATION SAFETY
+## 9. Long-Duration Safety
 
 UniCORE AI is engineered for:
 
-deepspace missions
+deep-space missions
 
 human hibernation systems
 
@@ -324,23 +310,21 @@ interplanetary governance
 
 autonomous spacecraft
 
-longduration scientific missions
+long-duration scientific missions
 
 The architecture ensures:
 
 zero drift
 
-zero emergent behavior
+zero emergent behaviour
 
-zero selfmodification
+zero self-modification
 
 zero autonomous authority
 
 over decades or centuries.
 
-
-
-ARTICLE X — AMENDMENTS
+## 10. Amendments
 
 The Charter may be amended only by:
 
@@ -352,9 +336,7 @@ mission safety authorities
 
 AI cannot propose or modify amendments.
 
-
-
-ARTICLE XI — RATIFICATION
+## 11. Ratification
 
 This Charter becomes active when adopted by:
 
@@ -368,4 +350,4 @@ an academic institution
 
 an international standards body
 
-UniCORE AI is designed to unify global AI governance under a single, deterministic, humananchored framework.
+UniCORE AI is designed to unify global AI governance under a single, deterministic, human-anchored framework.

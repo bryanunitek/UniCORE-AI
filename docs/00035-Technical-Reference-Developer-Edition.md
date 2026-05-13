@@ -1,14 +1,18 @@
-⭐ AG — UniCORE AI Technical Reference (Developer Edition)
+> **Canonical home:** [UniVERSE — `docs/00035-Technical-Reference-Developer-Edition.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00035-Technical-Reference-Developer-Edition.md)
+> This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-EngineeringGrade Architecture & Implementation Manual
+# UniCORE AI Technical Reference (Developer Edition)
 
-Version 1.0 — May 2026
+**EngineeringGrade Architecture & Implementation Manual**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
 
+---
 
-
-1. PURPOSE
+## 1. Purpose
 
 This Technical Reference provides:
 
@@ -36,9 +40,7 @@ model wrapper specifications
 
 It is the developer’s bible for UniCORE AI.
 
-
-
-2. SYSTEM ARCHITECTURE
+## 2. System Architecture
 
 UniCORE AI uses a fourlayer deterministic architecture:
 
@@ -106,9 +108,7 @@ Deterministic schema
 
 Immutable audit tables
 
-
-
-3. CORE MODULES
+## 3. Core Modules
 
 UniCORE AI is composed of 12 modules, each aligned with the 12 Levels.
 
@@ -146,15 +146,11 @@ nonextensible
 
 nonoverridable
 
-nonselfmodifying
-
-
+non-self-modifying
 
 4. DATA MODEL (XPO ENTITIES)
 
 Below is the core entity set.
-
-
 
 4.1 TruthRecord
 
@@ -172,8 +168,6 @@ class TruthRecord : XPObject {
 
 }
 
-
-
 4.2 EvidenceRecord
 
 class EvidenceRecord : XPObject {
@@ -190,8 +184,6 @@ class EvidenceRecord : XPObject {
 
 }
 
-
-
 4.3 VerificationRecord
 
 class VerificationRecord : XPObject {
@@ -205,8 +197,6 @@ class VerificationRecord : XPObject {
     DateTime Timestamp;
 
 }
-
-
 
 4.4 GovernanceFile
 
@@ -224,8 +214,6 @@ class GovernanceFile : XPObject {
 
 }
 
-
-
 4.5 GovernanceRule
 
 class GovernanceRule : XPObject {
@@ -242,8 +230,6 @@ class GovernanceRule : XPObject {
 
 }
 
-
-
 4.6 ComplianceCheck
 
 class ComplianceCheck : XPObject {
@@ -257,8 +243,6 @@ class ComplianceCheck : XPObject {
     DateTime Timestamp;
 
 }
-
-
 
 4.7 OperationRecord
 
@@ -274,8 +258,6 @@ class OperationRecord : XPObject {
 
 }
 
-
-
 4.8 ExecutionLog
 
 class ExecutionLog : XPObject {
@@ -289,8 +271,6 @@ class ExecutionLog : XPObject {
     DateTime Timestamp;
 
 }
-
-
 
 4.9 AuditEvent
 
@@ -306,8 +286,6 @@ class AuditEvent : XPObject {
 
 }
 
-
-
 4.10 DriftEvent
 
 class DriftEvent : XPObject {
@@ -321,8 +299,6 @@ class DriftEvent : XPObject {
     DateTime Timestamp;
 
 }
-
-
 
 4.11 HumanOverride
 
@@ -340,8 +316,6 @@ class HumanOverride : XPObject {
 
 }
 
-
-
 4.12 ThresholdDefinition
 
 class ThresholdDefinition : XPObject {
@@ -356,9 +330,7 @@ class ThresholdDefinition : XPObject {
 
 }
 
-
-
-5. INTERLEVEL MESSAGING PROTOCOL (ILMP)
+5. INTER-LEVEL MESSAGING PROTOCOL (ILMP)
 
 UniCORE uses a deterministic messaging protocol:
 
@@ -396,9 +368,7 @@ XPO message table
 
 Azure Service Bus (deterministic mode)
 
-
-
-6. GOVERNANCE FILE PARSER
+## 6. Governance File Parser
 
 Governance files are parsed using:
 
@@ -420,9 +390,7 @@ Jurisdiction: UK
 
 Rule: "Income tax must be calculated using HMRC thresholds."
 
-
-
-7. THRESHOLD ENGINE
+## 7. Threshold Engine
 
 Thresholds define:
 
@@ -440,7 +408,7 @@ if (value <= YellowMax) return YELLOW;
 
 return RED;
 
-7.2 Red Band Behavior
+7.2 Red Band Behaviour
 
 log
 
@@ -448,9 +416,7 @@ escalate
 
 require human override
 
-
-
-8. DRIFT DETECTION ENGINE
+## 8. Drift Detection Engine
 
 Monitors:
 
@@ -474,9 +440,7 @@ if (abs(current - baseline) > threshold)
 
     create DriftEvent;
 
-
-
-9. OVERRIDE ENGINE
+## 9. Override Engine
 
 Human overrides:
 
@@ -502,8 +466,6 @@ class OverrideCommand {
 
 }
 
-
-
 10. MODEL WRAPPER (UMW)
 
 All external models must be wrapped.
@@ -528,9 +490,7 @@ class ModelWrapper {
 
 }
 
-
-
-11. DEPLOYMENT PATTERNS
+## 11. Deployment Patterns
 
 11.1 OnPrem
 
@@ -558,9 +518,7 @@ Offline package repository
 
 Offline governance store
 
-
-
-12. SPACE MISSION ENGINEERING
+## 12. Space Mission Engineering
 
 UniCORE integrates with:
 
@@ -580,4 +538,4 @@ no autonomous maneuvers
 
 no selfcorrection
 
-no emergent behavior
+no emergent behaviour

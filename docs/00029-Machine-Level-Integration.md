@@ -1,16 +1,20 @@
-⭐ AA-2 — Machine-Level Integration (C++ and Other Machine Languages)
+> **Canonical home:** [UniVERSE — `docs/00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)
+> This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
-Addendum to the UniVERSE Document Collection
+# Machine-Level Integration (C++ and Other Machine Languages)
 
-Version 1.0 — May 2026
+**Addendum to the UniVERSE Document Collection**
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+First published: May 2026
+Status: Public. Given, not sold. Irrevocable.
+Version: 1.0 — May 2026
+
+---
 
 Captured from: User directive, Fri 2026-05-08 02:46 UTC
 
-
-
-1. THE PRINCIPLE
+## 1. The Principle
 
 The TrueAI Foundation and UniCORE AI are not bound to a single language or runtime.
 
@@ -29,9 +33,7 @@ This extends UniCORE AI from an enterprise-software architecture into a substrat
 - AI accelerators (GPU/TPU/NPU firmware)
 - any system where governance must exist below the application layer
 
-
-
-2. WHY MACHINE-LEVEL INTEGRATION MATTERS
+## 2. Why Machine-Level Integration Matters
 
 2.1 Software-Level Governance Is Not Enough
 
@@ -55,11 +57,9 @@ Robotic actuators, life-support controllers, and emergency systems operate on mi
 
 2.4 Hardware-Level AI Accelerators Need Hardware-Level Governance
 
-Modern AI runs on GPUs, TPUs, NPUs, and custom silicon. To prevent fabrication, self-modification, and emergent behavior at the model-execution layer, UniCORE AI must reach into the runtime that schedules and executes those models.
+Modern AI runs on GPUs, TPUs, NPUs, and custom silicon. To prevent fabrication, self-modification, and emergent behaviour at the model-execution layer, UniCORE AI must reach into the runtime that schedules and executes those models.
 
-
-
-3. SUPPORTED LANGUAGES AND TARGETS
+## 3. Supported Languages and Targets
 
 The TrueAI Foundation is language-neutral. Machine-level reference implementations are explicitly permitted in:
 
@@ -77,9 +77,7 @@ The C++ implementation will be the **machine-level reference implementation**.
 
 Both are subordinate to the same TrueAI Foundation and the same 12-Level Governance Model.
 
-
-
-4. ARCHITECTURAL RULES FOR MACHINE-LEVEL IMPLEMENTATIONS
+## 4. Architectural Rules for Machine-Level Implementations
 
 All machine-level implementations must:
 
@@ -89,7 +87,7 @@ All machine-level implementations must:
 - no self-modification
 - no autonomous authority
 - no internal heartbeat
-- no emergent behavior
+- no emergent behaviour
 - human sovereignty at Level 12
 
 4.2 Preserve the 12-Level Model
@@ -123,9 +121,7 @@ Every machine-level action must produce an audit record, even if logged via ring
 
 Machine-level systems must accept human overrides immediately, with no challenge, no delay, no reinterpretation. Override paths must be hardware-reachable where possible (physical switches, signed override channels).
 
-
-
-5. WHAT MACHINE-LEVEL UNICORE LOOKS LIKE
+## 5. What Machine-Level UNICORE Looks Like
 
 5.1 The TrueAI Core Library (libtrueai)
 
@@ -169,9 +165,7 @@ Where adopted, governance may be enforced in hardware via:
 
 This is permitted but not required.
 
-
-
-6. WHAT MACHINE-LEVEL UNICORE IS NOT
+## 6. What Machine-Level UNICORE Is Not
 
 It is not:
 
@@ -182,9 +176,7 @@ It is not:
 
 Machine-level integration **increases** the reach of governance, not the reach of AI autonomy.
 
-
-
-7. RELATIONSHIP TO EXISTING DOCUMENTS
+## 7. Relationship to Existing Documents
 
 - Document E (Architecture Diagram): the 12-level stack applies identically.
 - Document O (API Specification): machine-level systems expose equivalent endpoints via local IPC, shared memory, or hardware mailboxes.
@@ -194,17 +186,13 @@ Machine-level integration **increases** the reach of governance, not the reach o
 - Document S (Enterprise Deployment): machine-level integration extends the air-gapped and defense deployment models.
 - Document Y (Multi-Model Integration): the model wrapper has a machine-level twin (UMW-M).
 
-
-
-8. WHY THIS MUST BE RECORDED NOW
+## 8. Why This Must Be Recorded Now
 
 The current generation of AI systems lives almost entirely at the software layer. The next generation — robotics, autonomous vehicles, spacecraft, embedded LLM accelerators, hibernation systems — will live at the machine layer.
 
 If UniCORE AI is not extended to the machine layer **now**, governance will arrive after the substrate is already ungoverned. That is the failure mode this document exists to prevent.
 
-
-
-9. SUMMARY
+## 9. Summary
 
 The TrueAI Foundation and UniCORE AI:
 
@@ -217,7 +205,5 @@ The TrueAI Foundation and UniCORE AI:
 - preserve the same Foundation, the same 12 Levels, the same ILMP, the same Human Sovereignty
 
 Machine-level integration is not a fork.It is not an extension of authority.It is the same governance, reaching deeper.
-
-
 
 — End of Addendum AA-2 —
