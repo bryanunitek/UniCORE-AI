@@ -8,7 +8,7 @@
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 First published: 2026-05-13
 Status: Public. Given, not sold. Irrevocable.
-Version: 1.1
+Version: 1.2
 
 ---
 
@@ -108,7 +108,7 @@ This is a deliberate architectural choice. Frameworks that try to project author
 
 Three reasons the long horizon is documented here, alongside the near horizon, rather than left implicit.
 
-First, the architectural choices made today determine whether the long horizon is reachable. The Singular Pairing Principle, the Generation IT Succession charter, the Gift Principle, and the gift propagation rule for derived CORE work together as a coherent system designed to remain stable across decades and across scopes. None of those choices makes sense if the long horizon is not in view.
+First, the architectural choices made today determine whether the long horizon is reachable. The Singular Pairing Principle, the Generation IT Succession charter, the Gift Principle, and the gift propagation rule for derived CORE work together as a coherent system designed to remain stable across decades and across scopes. None of those choices makes sense if the long horizon is not in view. The same long horizon applies to Enterprise Solutions built on Foundation-aligned CORE. Today's ten-to-twenty year enterprise software lifecycle is the beginning. An Enterprise Solution produced by a Generation IT pair, on Foundation-aligned CORE, is meant to last one hundred years, one thousand years — carrying critical decision work across many human generations. See the Layered CORE Model document at `docs/00057-Layered-CORE-Model.md` for the detail of how Generation IT Succession and the Foundation's commitment to harmony, mutual respect, and peace sustain that horizon.
 
 Second, parts of the substrate are being built today, in parallel, by other parties. The Interplanetary Internet (Delay-Tolerant Networking) has been under development by NASA and the IETF for roughly twenty years. The Foundation's long-horizon architecture is intended to be compatible with that work, not to compete with it.
 
