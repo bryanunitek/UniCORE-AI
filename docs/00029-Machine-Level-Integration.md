@@ -206,4 +206,4 @@ The TrueAI Foundation and UniCORE AI:
 
 Machine-level integration is not a fork.It is not an extension of authority.It is the same governance, reaching deeper.
 
-— End of Addendum AA-2 —
+— End of Addendum —

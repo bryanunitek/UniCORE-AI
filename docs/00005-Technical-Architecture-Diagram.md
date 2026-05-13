@@ -244,7 +244,7 @@ Version: 1.0 — May 2026
 
 └────────────────────────────────────────────────────────────────────────────────┘
 
-⭐ What This Diagram Communicates
+What This Diagram Communicates
 
 This architecture diagram makes the following clear to any AI company:
 
