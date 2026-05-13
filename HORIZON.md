@@ -42,9 +42,9 @@ These are the written-down artefacts. They exist.
 
 ## Evolution and versioning
 
-The documents in the UniVERSE, TrueAI, and UniCORE-AI repositories are evolving material. They are being written, refined, and extended as the programme develops — in particular as the **UniCORE Enterprise Solution**, powered by **UniCORE AI** and built on the **TrueAI Foundation**, is itself being built.
+The documents in the UniVERSE, TrueAI, and UniCORE-AI repositories are evolving material. They are being written, refined, and extended as the programme develops — in particular as **UniCORE-Claw**, the first reference library for the Law sector, powered by **UniCORE AI** and built on the **TrueAI Foundation**, is itself being built. See the Long horizon section below for the Layered CORE model that frames this work.
 
-Individual documents carry a `Version` line in their header block. That is the revision number of the written statement, not a release version of the programme or of any Solution. Formal programme-level versioning — stable version numbers, frozen release snapshots, co-ordinated document tags across the three repositories — belongs much later in the project's life. Today the work is in its early publishing phase. Expect additions, clarifications, and new documents as the programme and the first Enterprise Solution take shape.
+Individual documents carry a `Version` line in their header block. That is the revision number of the written statement, not a release version of the programme or of any Solution. Formal programme-level versioning — stable version numbers, frozen release snapshots, co-ordinated document tags across the three repositories — belongs much later in the project's life. Today the work is in its early publishing phase. Expect additions, clarifications, and new documents as the programme and the first reference library take shape.
 
 What will not change is the written foundation itself. The Nine Invariants of the TrueAI Foundation, the Gift Principle, the Singular Pairing Principle, and the Certification Before Layered Governance rule are locked. Everything else is development on top of them.
 
