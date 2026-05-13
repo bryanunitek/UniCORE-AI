@@ -146,6 +146,10 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 Adoption questions, architecture critique, scenario stress-tests, implementation reports, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions). See [DISCUSSIONS.md](DISCUSSIONS.md) for what the space is for, what it is not for, and how to take part.
 
+## Classification, brand, and claims
+
+UniCORE AI is a governance architecture, not a product, platform, SaaS offering, tool category, or brand for sale. See [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) for the binding rules on how the UniCORE AI and TrueAI names may and may not be used, including in GitHub Discussions. The canonical TrueAI-specific statement is published at [`TrueAI/STATEMENT-ON-CLAIMS.md`](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md).
+
 ## Whitepaper
 
 The canonical architecture whitepaper is published at [`docs/whitepaper/WHITEPAPER.md`](docs/whitepaper/WHITEPAPER.md). It depends on the [TrueAI Foundation](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md) and is the artefact of record for cite-this-when-discussing-UniCORE-AI purposes. See [`docs/whitepaper/README.md`](docs/whitepaper/README.md) for the index entry.

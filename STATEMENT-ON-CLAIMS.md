@@ -1,0 +1,99 @@
+# Statement on UniCORE AI Classification, Brand, and Claims
+
+Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+Status: Public. Given, not sold. Irrevocable.
+First published: 2026-05-13
+
+---
+
+## Scope
+
+This statement defines how the **UniCORE AI** name and the **TrueAI** name may and may not be used in public, and sets binding rules for the UniCORE AI GitHub Discussions space.
+
+The canonical statement for TrueAI-specific classification and claims is published in the TrueAI repository at [`STATEMENT-ON-CLAIMS.md`](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md). This file extends the same rules to the UniCORE AI reference architecture.
+
+## What UniCORE AI is
+
+The hierarchy is:
+
+- **UniVERSE** — the civilisational vision and programme.
+- **TrueAI** — the immutable governing truth principle, grounded in a simple truth model: AI claims must resolve to **TRUE**, **FALSE**, or **UNVERIFIED**.
+- **UniCORE AI** — the 12-level reference implementation architecture.
+
+UniCORE AI is a governance architecture — a 12-level vertical stack that translates the TrueAI Foundation invariants into something organisations can adopt, audit, and extend.
+
+UniCORE AI is not a product.
+UniCORE AI is not a platform.
+UniCORE AI is not a software package.
+UniCORE AI is not a SaaS offering.
+UniCORE AI is not a tool category.
+UniCORE AI is not a brand for sale.
+UniCORE AI is not a certification scheme.
+UniCORE AI is not for commercial licensing by any party other than the author.
+
+It is a governance architecture. It is given, not sold. It is irrevocable.
+
+## Claims that are not permitted
+
+No person, company, consortium, standards body, regulator, or research group may:
+
+- Represent UniCORE AI as their own framework, product, platform, or service.
+- Sell, licence, or sublicense the UniCORE AI name, the 12-Level Governance Model, the Inter-Level Messaging Protocol, the Reasonable Governance Threshold, the Human Override Protocol, or the TrueAI Foundation invariants as proprietary intellectual property.
+- Offer "UniCORE AI" or "TrueAI" certification, compliance, accreditation, partnership, or endorsement services without written authority from Unitek Systems Limited.
+- Market a product, service, or agent as "UniCORE AI", "UniCORE-AI-certified", "UniCORE-AI-compliant", "TrueAI-aligned", "TrueAI-powered", or any variation implying official status, without written authority from Unitek Systems Limited.
+- Use the UniCORE AI or TrueAI name in a way that suggests the author or Unitek Systems Limited endorses the user, the user's product, or the user's claims.
+- Publish a reformulation of the TrueAI Foundation invariants under the TrueAI name — or of the 12-Level Governance Model under the UniCORE AI name — that softens, inverts, or silently modifies them.
+
+These restrictions do not prevent:
+
+- Implementation of systems that satisfy the TrueAI Foundation invariants and the UniCORE AI architecture. This is encouraged.
+- Commercial work performed around such an implementation — integration, training, support, extensions outside the core. This is permitted.
+- Academic, policy, and public-interest citation of the architecture. This is welcomed, subject to CC BY 4.0 attribution.
+- Public challenge, correction, stress-testing, and implementation reports on the UniCORE AI Discussions tab.
+
+## Application to GitHub Discussions
+
+This statement is a binding rule of the UniCORE AI Discussions space, in addition to the rules at [DISCUSSIONS.md](DISCUSSIONS.md).
+
+In Discussions on this repository, participants may not:
+
+- Post threads or replies that present UniCORE AI or TrueAI as a product, platform, SaaS offering, agent, or tool category.
+- Post threads or replies that advertise, market, or solicit business for "UniCORE AI" or "TrueAI" services, certification, partnership, or compliance.
+- Post threads or replies that use the UniCORE AI or TrueAI name to suggest endorsement of any external product, service, or organisation.
+- Post threads or replies that publish a reformulation of the TrueAI Foundation invariants — under the TrueAI name — or of the 12-Level Governance Model — under the UniCORE AI name — that softens, inverts, or silently modifies them.
+- Post threads or replies that misclassify the UniVERSE / TrueAI / UniCORE AI hierarchy in a way that invites confusion with a commercial offering.
+
+Threads and replies of this kind will be removed without notice. Repeat behaviour will lead to participation being withdrawn. The author or moderators will, where useful, reply with a short pointer to this statement before removal.
+
+This is not a restriction on debate. Architecture critique, scenario stress-tests, implementation reports, adoption questions, translation, correction, and adaptation under CC BY 4.0 remain welcome and are the primary purpose of the Discussions space — see [DISCUSSIONS.md](DISCUSSIONS.md).
+
+## Why this matters
+
+UniCORE AI is a governance architecture for the critical path of consequential decisions made by or with AI systems. If the name becomes a marketing surface, the architecture is no longer load-bearing. Keeping the boundary between "UniCORE AI as architecture" and "UniCORE AI as product label" is itself part of the governance contract.
+
+The author publishes this statement as a durable correction to any existing or future public misclassification.
+
+## Enforcement and correction
+
+If you observe a commercial or public-facing claim that uses the UniCORE AI or TrueAI name outside the boundaries set here, the correct response is:
+
+- Raise the claim on the appropriate Discussions tab, with a link to the claim and a brief description:
+  - UniCORE AI: https://github.com/bryanunitek/UniCORE-AI/discussions
+  - TrueAI: https://github.com/bryanunitek/TrueAI/discussions
+  - UniVERSE: https://github.com/bryanunitek/UniVERSE/discussions
+- Do not contact the offender directly on the author's behalf.
+
+The author reserves the right to issue public corrections, to request that the claim be withdrawn, and — where the claim rises to misrepresentation, passing-off, or trademark misuse — to pursue remedies through Unitek Systems Limited.
+
+## Contact
+
+- **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions)
+- **Private contact / connection request:** [LinkedIn](https://www.linkedin.com/in/bryan-fred-02209753/)
+
+---
+
+## Declaration
+
+UniCORE AI is the 12-level reference architecture that implements the TrueAI Foundation. It is grounded in a simple truth model: AI claims must resolve to TRUE, FALSE, or UNVERIFIED. It is not a product. It is not a platform. It is not for sale. It is given, not sold. A gift to humanity for the next century of AI.
+
+— Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
