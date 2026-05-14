@@ -52,7 +52,7 @@ You may not:
 
 ## The Monopoly Clause and Its Exemption
 
-Classification of conduct as monopolisation under the clause above is made at the **sole discretion of Unitek Systems Limited** (UK Companies House 04228041), acting as the programme's certifying authority and the originator of the materials covered by this licence. An [appeals process](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md) is provided where Unitek Systems Limited proposes to withdraw the licence (or any expert certification derived from it) on this ground.
+Classification of conduct as monopolisation under the clause above is made at the **sole discretion of Unitek Systems Limited** (UK Companies House 04228041), acting as the programme's certifying authority and the originator of the materials covered by this licence. An [appeals process](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md#43-appeals) is provided where Unitek Systems Limited proposes to withdraw the licence (or any expert certification derived from it) on this ground.
 
 ### Conditional exemption — activity-based, not identity-based
 
