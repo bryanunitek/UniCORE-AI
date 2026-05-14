@@ -33,6 +33,10 @@ The programme is intended to remain reachable for humans who want to be part of 
 
 **This is encouragement, not a licence requirement.** Failure to offer apprenticeships is **not** a licence violation, is **not** grounds for revocation of any expert certification, and is **not** classified as monopolisation under the monopoly clause below. The programme records this commitment because what a licence encourages, not only what it forbids, is part of how the gift propagates. Organisations using the CORE that do offer apprenticeship places carry that fact on their public record as part of how the wider community recognises them.
 
+**Apprenticeships offered under this commitment should be paid and provide a liveable wage.** An unpaid or below-liveable-wage apprenticeship excludes the very humans the encouragement is designed to reach — practitioners who cannot work without an income because they could not fund higher education in the first place. The economic basis for the wage is that **the use of AI and the CORE pays for apprenticeships over time through the cost savings the CORE generates** for the organisations using it. The gift propagates by paying the next generation of practitioners out of the savings the CORE itself produced.
+
+The encourage-not-require guardrail above applies here too: offering an unpaid or below-liveable-wage apprenticeship is **not** a licence violation, is **not** grounds for revocation of any expert certification, and is **not** classified as monopolisation. The programme simply treats such arrangements as **not honouring this commitment**, and the public-record recognition described above is offered only to organisations whose apprenticeship places are paid and liveable. Reputational recognition is the mechanism, not enforcement.
+
 ---
 
 ## What This License Does Not Permit
