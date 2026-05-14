@@ -27,6 +27,14 @@ The gift may not be revoked by its giver. It can be withdrawn from a violator of
 
 ---
 
+## Programme commitment: apprenticeships
+
+The programme is intended to remain reachable for humans who want to be part of this but may not be able to attend university. **Those using the CORE are encouraged to offer apprenticeship opportunities** to high school graduates and other practitioners entering the programme without a university route. The intent is to keep the gift principle (above) and the [certification scheme](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md) reachable by humans the conventional pathway excludes — a CORE built on a gift should not, in practice, only be accessible to people whose families could fund three to four years of higher education.
+
+**This is encouragement, not a licence requirement.** Failure to offer apprenticeships is **not** a licence violation, is **not** grounds for revocation of any expert certification, and is **not** classified as monopolisation under the monopoly clause below. The programme records this commitment because what a licence encourages, not only what it forbids, is part of how the gift propagates. Organisations using the CORE that do offer apprenticeship places carry that fact on their public record as part of how the wider community recognises them.
+
+---
+
 ## What This License Does Not Permit
 
 You may not:
