@@ -34,6 +34,49 @@ You may not:
 - Patent, proprietarily capture, or commercially license the TrueAI Foundation invariants, the 12-Level Governance Model, the Inter-Level Messaging Protocol, the Reasonable Governance Threshold, or the Human Override Protocol as your own exclusive intellectual property
 - Misrepresent this work as your own creation
 - Use the TrueAI Foundation name or UniCORE AI branding in a way that implies official endorsement without written permission from Unitek Systems Limited
+- **Monopolise programme-derived materials.** Producing, marketing, or selling a product that incorporates the CORE — the TrueAI Foundation invariants, the UniCORE AI architecture, an L3 Scope-Domain CORE, or any other layer of the Layered CORE Model — in a form intended to capture, suppress, or exclude other practitioners' lawful use of the same CORE, or to establish a single-supplier position over a CORE-derived market, is a violation of this licence. The licence exists to keep the CORE in the gift. Monopolisation breaks the gift; the gift is therefore withdrawn from the violator. Lawful commercial activity that does not seek to capture a CORE-derived market is unaffected by this clause; commercial competition is not monopolisation, and is expressly not a licence violation.
+
+---
+
+## The Monopoly Clause and Its Exemption
+
+Classification of conduct as monopolisation under the clause above is made at the **sole discretion of Unitek Systems Limited** (UK Companies House 04228041), acting as the programme's certifying authority and the originator of the materials covered by this licence. An [appeals process](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md) is provided where Unitek Systems Limited proposes to withdraw the licence (or any expert certification derived from it) on this ground.
+
+### Conditional exemption — activity-based, not identity-based
+
+The following parties are exempt from classification as monopolists under this clause, **only for so long as their activity in respect of the programme remains non-product**:
+
+- **Bryan Fred**, as Author and Creator of UniVERSE, TrueAI, and UniCORE-AI.
+- **Any future named successor** under the [TrueAI whitepaper succession statement](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship).
+- **Unitek Systems Limited** (UK Companies House 04228041), as the programme's parent organisation.
+- **Each Unitek Systems Limited group subsidiary**, while it conducts only non-product programme activity:
+  - Unitek Systems USA Inc
+  - Unitek UniVERSE Ltd (UK)
+  - Unitek TrueAI Ltd (UK)
+  - Unitek UniCORE-AI Ltd (UK)
+  - Unitek UniVERSE USA Inc
+  - Unitek TrueAI USA Inc
+  - Unitek UniCORE-AI USA Inc
+
+### What "non-product activity" means for the exemption
+
+The exemption applies because the named parties **do not produce or sell products incorporating the CORE**. The programme exists as a public, freely-given gift; the named parties' role is to author, steward, certify, and support that gift, not to capture its commercial yield. The activities listed below are within the exemption:
+
+- **Prototypes** — reference implementations published to demonstrate the architecture, including the prototypes referenced in the certification scheme.
+- **Services** — consulting, integration, advisory, and Solution Review work performed on behalf of clients who hold their own CORE-derived solutions.
+- **Support** — maintenance, troubleshooting, and advisory work in respect of programme materials and CORE-derived solutions.
+- **Training and certification** — educational delivery, accreditation, and the operation of the certification scheme itself.
+- **Stewardship of programme materials** — authoring, editing, publishing, and version control of the programme documents themselves.
+
+### When the exemption stops applying
+
+**The exemption is conditional on activity, not on identity.** If any named party — Bryan Fred, a future named successor, Unitek Systems Limited, or any of its group subsidiaries listed above — begins **producing or selling a product** that incorporates the CORE in a form that captures, suppresses, or excludes other practitioners' lawful use of the same CORE, the exemption ceases to apply **to that party in respect of that product**, and that party is subject to the monopoly clause on the same terms as any other licensee.
+
+The exemption protects the programme's stewards from being weaponised against the programme by a hostile party invoking the monopoly clause against them; it is not a permission to bypass the clause by entering the very market the clause exists to keep open. Stewards remain stewards as long as they remain stewards.
+
+### Why this exemption exists
+
+Without an exemption for the programme's stewards, a hostile party could attempt to use the monopoly clause itself as a takeover instrument — for example, by classifying the act of *stewarding the programme* as a form of single-supplier capture and using the clause to revoke the stewards' licence and certification. The exemption closes that route. The conditional restriction on the exemption closes the reverse route: the stewards cannot use their exempt status as cover for becoming the very thing the clause was written to prevent.
 
 ---
 
