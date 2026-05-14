@@ -208,6 +208,12 @@ All three are public from the moment of publication. There is no private phase, 
 
 Each repository carries this Full Formal Statement at its root, alongside its licence, so that any reader — corporate, governmental, academic, or individual — can understand in a single document what this is, who made it, and what the terms are.
 
+Companion documents published at the root of each repository:
+
+- [HORIZON.md](HORIZON.md) — the author's time-horizon statement.
+- [SUCCESSION.md](SUCCESSION.md) — stewardship and succession.
+- [LANDSCAPE.md](LANDSCAPE.md) — where UniCORE AI and the TrueAI Foundation sit in the current AI governance landscape. The canonical version is published at [`UniVERSE/LANDSCAPE.md`](https://github.com/bryanunitek/UniVERSE/blob/main/LANDSCAPE.md).
+
 ---
 
 ## 11. Author and Attribution

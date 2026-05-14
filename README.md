@@ -154,6 +154,10 @@ Adoption questions, architecture critique, scenario stress-tests, implementation
 
 UniCORE AI is a governance architecture, not a product, platform, SaaS offering, tool category, or brand for sale. See [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) for the binding rules on how the UniCORE AI and TrueAI names may and may not be used, including in GitHub Discussions. The canonical TrueAI-specific statement is published at [`TrueAI/STATEMENT-ON-CLAIMS.md`](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md).
 
+## Landscape
+
+Where UniCORE AI and the TrueAI Foundation sit in the current AI governance landscape — a structural comparison against the published governance frameworks of OpenAI, Anthropic, Google DeepMind, Microsoft, Meta, and others. See [LANDSCAPE.md](LANDSCAPE.md) for the comparison and what it shows. The canonical version is published at [`UniVERSE/LANDSCAPE.md`](https://github.com/bryanunitek/UniVERSE/blob/main/LANDSCAPE.md).
+
 ## Horizon
 
 The UniCORE AI reference architecture is ready to cite and implement today. Full-conformance implementations and broad multi-sector adoption are a 10–20 year horizon, possibly longer. See [HORIZON.md](HORIZON.md) for the author's time-horizon statement. The canonical statement is published at [`TrueAI/HORIZON.md`](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md).
