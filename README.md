@@ -71,6 +71,8 @@ Machine-level reference implementations are explicitly permitted and encouraged 
 | 00027 | UniCORE AI Master Document |
 | 00029 | Machine-Level Integration (C++ and Other Machine Languages) |
 | 00035 | UniCORE AI Technical Reference (Developer Edition) |
+| 20001 | Why the Rules Don't Live in the Prompt |
+| 20002 | Compaction and Durable Continuity |
 
 ---
 
