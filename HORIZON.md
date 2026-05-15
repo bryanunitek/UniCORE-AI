@@ -27,6 +27,7 @@ The same horizon applies to all three. They were published together, are intende
 - The **UniVERSE** programme materials — whitepapers, founding statement, governance model, succession charter — are published and citable.
 - The **TrueAI Foundation** invariants are stable, published, and usable now as a reference standard against which any AI system can be assessed.
 - The **UniCORE AI** reference architecture — the 12-level governance stack, inter-level messaging protocol, reasonable governance threshold specification, human override protocol — is published in full.
+- The first **UniCORE-AI substrate documents** in the 20xxx series are published, naming where governance lives at runtime: [`20001 — Why the Rules Don't Live in the Prompt`](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md) and [`20002 — Compaction and Durable Continuity`](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20002-Compaction-And-Durable-Continuity.md). The first **TrueAI** operational reading of Invariant 7 is published as [`10004 — Reversibility, How TrueAI Handles a False TRUE`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md).
 - All programme materials are open for challenge, translation, adaptation, and implementation under CC BY 4.0.
 
 These are the written-down artefacts. They exist.
