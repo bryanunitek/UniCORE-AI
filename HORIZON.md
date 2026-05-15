@@ -43,7 +43,7 @@ These are the written-down artefacts. They exist.
 
 ## Evolution and versioning
 
-The documents in the UniVERSE, TrueAI, and UniCORE-AI repositories are evolving material. They are being written, refined, and extended as the programme develops — in particular as **UniCORE-Claw**, the first reference library for the Law sector, powered by **UniCORE AI** and built on the **TrueAI Foundation**, is itself being built. See the Long horizon section below for the Layered CORE model that frames this work.
+The documents in the UniVERSE, TrueAI, and UniCORE-AI repositories are evolving material. They are being written, refined, and extended as the programme develops — in particular as **UniCORE-Law-Claw**, the first reference library for the Law sector, powered by **UniCORE AI** and built on the **TrueAI Foundation**, is itself being built. See the Long horizon section below for the Layered CORE model that frames this work.
 
 ### Versioning is not yet enabled
 
@@ -93,7 +93,7 @@ The Foundation supports a layered model with three levels of CORE (reference lib
 
 - **Level 1 CORE — TrueAI Foundation.** The Nine Invariants and the governance principles that any AI system in a critical decision path must satisfy. Universal. Gift.
 - **Level 2 CORE — UniCORE AI.** The 12-level reference architecture that implements the Foundation in working form. Universal. Gift.
-- **Level 3 CORE — Scope-Domain CORE.** A reference library specific to a particular scope domain (an industry vertical, a jurisdiction, a body, a network fabric). Multiple peers can exist per scope. Examples: UniCORE-Claw is the first Vertical CORE for the Law sector. Future Vertical COREs may exist for other sectors. Government COREs may exist for jurisdictions that adopt the Foundation. All gifted.
+- **Level 3 CORE — Scope-Domain CORE.** A reference library specific to a particular scope domain (an industry vertical, a jurisdiction, a body, a network fabric). Multiple peers can exist per scope. Examples: UniCORE-Law-Claw is the first Vertical CORE for the Law sector. Future Vertical COREs may exist for other sectors. Government COREs may exist for jurisdictions that adopt the Foundation. All gifted.
 - **Solutions tier (not CORE).** A specific client's working implementation, built by a Generation IT producer pair on top of the relevant CORE layers. Sellable as services-built deliverables. Must attribute its CORE origins.
 
 A derivative of CORE is itself CORE and is itself gifted. This is called gift propagation. It is the architectural mechanism that prevents anyone — including the original producer — from converting shared CORE into private property.
