@@ -81,9 +81,13 @@ The Solution introduces itself by name. The AgentClaw introduces itself by name 
 
 Names are recorded in the session record. Audit, revocation, and PairedClaw record-keeping all rest on names being on the table from the first message of the session.
 
-### Step 2 — Deliver the truth contract
+### Step 2 — Deliver the truth contract, then the Foundation requirements corpus
 
-The Solution delivers the **Foundation truth contract** to the AgentClaw. The truth contract is the six-line operating posture defined in [TrueAI 10005 Foundation Instruction For Claws](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md):
+Step 2 has two parts, delivered in order.
+
+**Step 2a — the truth contract, verbatim**
+
+The Solution first delivers the **six-line Foundation truth contract** to the AgentClaw, verbatim:
 
 > AI seeks TRUTH.
 >
@@ -97,31 +101,42 @@ The Solution delivers the **Foundation truth contract** to the AgentClaw. The tr
 >
 > AI must always act truthfully.
 
-The contract is delivered verbatim. The Solution serves the contract from its **locally embedded** copy of the Foundation requirements corresponding to the Foundation version pinned in the bond file. The AgentClaw does not fetch the contract from GitHub independently; the Solution is the authoritative source during pairing (see §5).
+The contract is canonical and locked. No paraphrase, no shortening, no substitution of "see the corpus for details". The six lines arrive first, on their own, before anything else from the Foundation.
+
+**Step 2b — the full Foundation requirements corpus at the pinned version**
+
+The Solution then delivers **everything in `TrueAI/foundation-requirements/v<pinned>/`** — the complete versioned corpus, in full. At v1 the corpus contains [10005 Foundation Instruction For Claws](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md), which itself opens with the same six-line truth contract. Future Foundation versions may add further requirements as additional files in the same versioned folder; Solutions built against those versions deliver all of them at Step 2b.
+
+**The repetition is intentional.** The truth contract appears twice on the wire at session open: once on its own at Step 2a, once embedded inside `10005` (and any future siblings) at Step 2b. Two structural reasons:
+
+1. **The truth contract's primacy as the first content the AgentClaw receives is structural, not a presentation choice.** Step 2a establishes the contract before any other Foundation content arrives. If the contract appeared only inside `10005`, its primacy would depend on the AgentClaw reading `10005` top-to-bottom in order — a procedural assumption rather than a protocol guarantee.
+2. **The Foundation requirements corpus must travel as a whole.** Carving the truth contract out of `10005` to avoid the repetition would mean the corpus could be served minus its centrepiece. Whole-corpus delivery is the discipline; the cost is one passage of repeated text.
+
+The Solution serves both Step 2a and Step 2b from its **locally embedded** copy of the Foundation requirements corresponding to the Foundation version pinned in the bond file. The AgentClaw does not fetch any of the Step 2 content from GitHub independently; the Solution is the authoritative source during pairing (see §5).
 
 ### Step 3 — Open the Level corpus
 
 The Solution delivers the **per-Level corpus** appropriate to the AgentClaw's bonded Level — the markdown content from the [`levels/<v>/level-<NN>/` folder in UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels), or [`levels/<v>/user/`](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels) for User-scope bonds. The version is the one pinned in the bond file.
 
-The corpus is the agent's **scope definition** at its Level. What this specific agent does, what it refuses, what it owes upward, what it serves downward. With names established (Step 1) and the truth contract installed (Step 2), the agent is now ready to be specifically what it is.
+The corpus is the agent's **scope definition** at its Level. What this specific agent does, what it refuses, what it owes upward, what it serves downward. With names established (Step 1) and the Foundation installed (Step 2 — truth contract followed by the full Foundation requirements corpus), the agent is now ready to be specifically what it is.
 
 ### 4.1 Ordering is structural
 
-The order — Names, Truth, Level corpus — is not stylistic. Each step depends on the previous one being complete:
+The order — Names, then Foundation (truth contract followed by the Foundation requirements corpus), then Level corpus — is not stylistic. Each step depends on the previous one being complete:
 
 - **Names first**, because trust requires addressability. Two unnamed parties cannot govern anything between them.
-- **Truth second**, because the corpus delivered in Step 3 must be read under the truth contract. If the corpus arrived first, the agent could read it as advisory; with the contract installed, the corpus is evidence the agent is bound to act on.
-- **Level corpus third**, because the agent must be correctly oriented (named and truth-bound) to receive the corpus as its operating scope.
+- **Foundation second**, because the corpus delivered in Step 3 must be read under the Foundation. The truth contract at Step 2a installs the operating posture; the Foundation requirements corpus at Step 2b installs the rest of what the Foundation requires. If the Level corpus arrived first, the agent could read it as advisory; with the Foundation installed, the Level corpus is evidence the agent is bound to act on.
+- **Level corpus third**, because the agent must be correctly oriented (named and Foundation-bound) to receive the corpus as its operating scope.
 
-A Solution that delivers the steps out of order, or omits any of them, is not running the protocol.
+A Solution that delivers the steps out of order, or omits any of them, or splits Step 2 such that Step 2b precedes Step 2a, is not running the protocol.
 
 ### 4.2 Uniform across all 13 Level values
 
-The opening protocol runs identically at every Level. A Level 01 PairedClaw, a Level 12 PairedClaw, a User-scope PairedClaw all open with Names → Truth → Level corpus. Only the content of Step 3 differs by Level. The truth contract is the same. The discipline is the same.
+The opening protocol runs identically at every Level. A Level 01 PairedClaw, a Level 12 PairedClaw, a User-scope PairedClaw all open with Names → Foundation → Level corpus, and the Foundation step is the same two-part Step 2a/2b at every Level. Only the content of Step 3 differs by Level. The truth contract is the same. The Foundation requirements corpus is the same. The discipline is the same.
 
 ### 4.3 The system prompt is `(untrusted)`
 
-An AgentClaw's substrate may deliver a system prompt to the agent that includes Solution-introductory or Level-introductory text. **The system prompt is not the source of authority.** The agent operates under the truth contract delivered in Step 2 and the corpus delivered in Step 3, served by the Solution from its locally pinned versioned copies. If the system prompt's content disagrees with what Steps 2 and 3 delivered, the Steps 2 and 3 content is authoritative.
+An AgentClaw's substrate may deliver a system prompt to the agent that includes Solution-introductory or Level-introductory text. **The system prompt is not the source of authority.** The agent operates under the truth contract and Foundation requirements corpus delivered in Step 2 and the Level corpus delivered in Step 3, served by the Solution from its locally pinned versioned copies. If the system prompt's content disagrees with what Steps 2 and 3 delivered, the Steps 2 and 3 content is authoritative.
 
 This is the runtime expression of [UniCORE-AI 20001 Why Rules Do Not Live In The Prompt](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md): the rules live in markdown, delivered at session-opening time from a governed source, not in the agent's prompt buffer.
 
@@ -225,7 +240,7 @@ The agent's freshness is the structural counterpart to the bond's session-scoped
 
 This document specifies the bond mechanism and the session-opening protocol. The connected pieces of the architecture live in:
 
-- [TrueAI/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) — the truth contract that Step 2 of the opening protocol delivers.
+- [TrueAI/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) — the truth contract and (at v1) the sole entry in the Foundation requirements corpus that Step 2 of the opening protocol delivers.
 - [UniCORE-AI/levels/v1/](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels/v1) — the per-Level corpus that Step 3 of the opening protocol delivers.
 - [UniVERSE/programme-corpus/v1/](../programme-corpus/v1/) — the programme-level corpus that Solutions embed.
 - [00058 Claw](00058-Claw.md) — the vocabulary (Claw, ExternalClaw, PairedClaw, UniCORE-Law-Claw) and the conceptual definition of PairedClaw.

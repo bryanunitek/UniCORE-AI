@@ -14,7 +14,7 @@ Version: 1.0
 
 ## 1. Purpose
 
-[00061 PairedClaw Bond File And Session Protocol](00061-PairedClaw-Bond-File-And-Session-Protocol.md) specifies what happens when a bond is healthy — names exchanged, truth contract delivered, Level corpus opened, bond verified to `TRUE`, work proceeds. This document specifies what happens when bonds **cannot be maintained**, at any tier from a single failing session up to the entire Solution stopping work and waiting for Humans.
+[00061 PairedClaw Bond File And Session Protocol](00061-PairedClaw-Bond-File-And-Session-Protocol.md) specifies what happens when a bond is healthy — names exchanged, Foundation installed (truth contract followed by the full Foundation requirements corpus), Level corpus opened, bond verified to `TRUE`, work proceeds. This document specifies what happens when bonds **cannot be maintained**, at any tier from a single failing session up to the entire Solution stopping work and waiting for Humans.
 
 The failure ladder is governed at every tier. At every tier the rules live in markdown authored by the layer above. No tier self-authorises. No AI in this architecture rewrites its own rules. The Foundation's commitment that *rules do not live in the prompt* (per [UniCORE-AI 20001](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md)) extends here: rules at every governance tier live in inspectable markdown, read by the tier they govern, authored by the tier above.
 
