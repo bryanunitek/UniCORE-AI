@@ -1,3 +1,21 @@
+UniCORE is the public foundation for advanced AI.
+
+We design the governance, write the code, and train the people who can do both. The foundation is gifted to humanity under permissive licences. The producers who maintain it earn their authority through a 30-year apprenticeship: not bought, not granted, earned.
+
+The result is infrastructure no single company can monopolise, built and maintained by people from every background.
+
+The future is coming. Advanced AI will shape the world ahead, whether we are ready or not. The question is who builds it, who controls it, and who benefits. UniCORE answers all three the same way: humanity does.
+
+If you want to spend a career building advanced AI for humanity rather than for shareholders, UniCORE is the path.
+
+A 30-year programme from apprentice to certified producer. A public foundation given away under permissive licences. No monopoly. The work belongs to everyone, including you.
+
+---
+
+*This is **UniCORE-AI**, the 12-level reference architecture layer of UniCORE. The implementation pattern that satisfies the TrueAI Nine Invariants. Sister repositories: [UniVERSE](https://github.com/bryanunitek/UniVERSE) (the programme) and [TrueAI](https://github.com/bryanunitek/TrueAI) (the immutable Foundation).*
+
+---
+
 # UniCORE AI
 
 **Multi-Level Governance Architecture for truth-anchored, human-sovereign artificial intelligence.**
