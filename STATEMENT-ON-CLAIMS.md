@@ -29,7 +29,8 @@ UniCORE AI is not a SaaS offering.
 UniCORE AI is not a tool category.
 UniCORE AI is not a brand for sale.
 UniCORE AI is not a certification scheme.
-UniCORE AI is not for commercial licensing by any party other than the author.
+
+The UniCORE AI architecture is licensed under CC BY 4.0 and may be used commercially by anyone, with attribution. The name **UniCORE AI** itself is not available for commercial brand licensing, sublicensing, or resale by any party other than Unitek Systems Limited; see [Claims that are not permitted](#claims-that-are-not-permitted) for the binding brand and naming rules.
 
 It is a governance architecture. It is given, not sold. It is irrevocable.
 
