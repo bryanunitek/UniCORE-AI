@@ -251,7 +251,7 @@ These components produce the best supported development experience and the deepe
 
 UniTEKClaw is not constrained to Visual Studio and DevExpress. Where a Certified Expert has alternative Windows-compatible compilers and IDEs installed, UniTEKClaw's Claws operate with those alternatives.
 
-The compatible-tooling list is maintained as a separate companion document: [`00063-UniTEKClaw-Compatible-Windows-Tooling.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00063-UniTEKClaw-Compatible-Windows-Tooling.md). The list covers compilers and IDEs for the language and platform areas in which UniTEKClaw operates, including non-.NET areas such as machine-level programming (per [`00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §3), where Visual Studio and DevExpress are neither the natural nor the only choice.
+The compatible-tooling list is maintained as a separate companion document: [`90001-UniTEKClaw-Compatible-Windows-Tooling.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/90001-UniTEKClaw-Compatible-Windows-Tooling.md). The list covers compilers and IDEs for the language and platform areas in which UniTEKClaw operates, including non-.NET areas such as machine-level programming (per [`00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §3), where Visual Studio and DevExpress are neither the natural nor the only choice.
 
 ---
 
