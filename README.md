@@ -142,7 +142,7 @@ Attribution required wherever UniCORE AI, the TrueAI Foundation, or the 12-Level
 
 ## Declaration
 
-UniCORE AI is truth-anchored, governance-bound, non-self-modifying, non-self-creating, non-autonomous in authority, human-sovereign, deterministic, auditable, long-duration stable, free, public, open, non-commercial, non-proprietary, irrevocable, and **given, not sold**.
+UniCORE AI is truth-anchored, governance-bound, non-self-modifying, non-self-creating, non-autonomous in authority, human-sovereign, deterministic, auditable, long-duration stable, free, public, open, non-proprietary, irrevocable, and **given, not sold** — released under CC BY 4.0 in `LICENSE.md`. Commercial use of the architecture is permitted under that licence with attribution preserved; the names and certifications are protected separately by trademark and the Brand and Trademark Use Policy.
 
 The next century of artificial intelligence will be defined not by the power of its models, but by the integrity of its governance.
 
