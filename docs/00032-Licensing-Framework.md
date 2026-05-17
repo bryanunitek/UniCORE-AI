@@ -126,4 +126,4 @@ The TrueAI Foundation and the UniCORE Foundation, once constituted, will be inde
 | Architectural principles | Documented; licensed CC BY 4.0 | Modifications permitted; modified works cannot use the canonical names |
 | Misuse, passing-off, weaponisation | General law + Foundation oversight | Enforced through general law; non-endorsement is the authors' lever |
 
-For the legal terms of the licence, read `LICENSE.md`. For brand and trademark detail, read `BRAND-AND-TRADEMARK-USE-POLICY.md`. For the philosophy behind the licence choice, read `docs/00009-Licensing-Philosophy.md`.
+For the legal terms of the licence, read `LICENSE.md`. For brand and trademark detail, read `BRAND-AND-TRADEMARK-USE-POLICY.md`. For the philosophy behind the licence choice, read `docs/00009-Licensing-Philosophy.md`. For the formal declaration that the licence is irrevocable and may not be changed by any future custodian, read `IRREVOCABLE-LICENCE-DECLARATION.md`.
