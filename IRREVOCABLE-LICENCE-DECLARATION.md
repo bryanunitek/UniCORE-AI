@@ -112,7 +112,63 @@ This declaration is intended to take effect on the date issued (section above) a
 
 In the event that any provision of this declaration is held by a court of competent jurisdiction to be unenforceable, the remaining provisions remain in full force. The intent of the declaration is to provide the maximum public commitment to irrevocability that is legally and practically achievable; that intent guides the interpretation of any individual provision.
 
-## 7. Reference framework
+This declaration is itself a living document that may be clarified and refined by the present custodian, subject to the limits set out in section 7. Such clarifications must strengthen, not weaken, the irrevocability commitment.
+
+## 7. What the present custodian can and cannot do
+
+The irrevocability of the licence does not freeze the framework around it. The framework needs to be living so that unforeseen questions can be answered, edge cases can be resolved, and the practical guidance for users can be kept current. This section sets out what the present custodian, and any future custodian, may do to keep the framework alive, and where the limits lie.
+
+### 7.1 What custodians may do
+
+Unitek Systems Limited, as present custodian (and any future successor custodian acting within the bounds of this declaration), may:
+
+- Publish **clarifications** that explain how the existing rights under CC BY 4.0 apply to new situations, technologies, or use cases that were not specifically anticipated when the licence was granted.
+- Publish **interpretive guidance** that answers user questions about edge cases, recommended attribution formats, best practices for derivative works, and similar matters.
+- Refine the **Brand and Trademark Use Policy** to address new edge cases, new jurisdictions, new sectors, and new patterns of use, provided that refinements relate to the names, marks, and certifications and do not reach back into the architectural content licensed under CC BY 4.0.
+- Update **companion documents** (this declaration, the Licensing Philosophy, the Licensing Framework, the Gift Principle document, the Statement on Claims) to improve clarity, fix errors, reflect lessons learned, and incorporate community feedback.
+- Publish **versioned positions** on emerging questions (for example, the relationship between the licence and AI training, the appropriate handling of multi-step derivative chains, the treatment of mirrors and forks) that articulate Unitek's understanding without changing the substantive rights granted.
+- Publish **enforcement statements** noting public misuse, passing-off, or certification fraud, consistent with the Brand and Trademark Use Policy and general law.
+- Adopt a **subsequent version** of the CC BY licence family for new content (for example, if Creative Commons publishes a CC BY 5.0 in the future), provided that the new version does not reduce the substantive rights granted under CC BY 4.0. Past content remains under CC BY 4.0; new content may be released under a newer-version CC BY licence only if that newer version preserves the same substantive grant.
+
+### 7.2 What custodians may not do
+
+No present or future custodian may, under the guise of clarification, interpretation, refinement, or versioning:
+
+- Reduce the substantive rights granted by CC BY 4.0 over the architectural content.
+- Add restrictions that CC BY 4.0 does not contain (registration requirements, fees, membership conditions, geographic or sectoral gating, restrictions on commercial use, restrictions on derivatives, restrictions on closed-source derivatives, restrictions on use in particular industries).
+- Withdraw rights from any class of recipients (existing or future).
+- Move the architectural content to a more-restrictive licence (CC BY-NC, CC BY-ND, CC BY-SA where it would impose share-alike not present in 4.0, or any proprietary licence).
+- Make access conditional on agreement to additional terms beyond CC BY 4.0.
+
+These acts are not clarifications. They are reductions, and they are prohibited by sections 2.1 to 2.6 of this declaration.
+
+### 7.3 The test
+
+The test that distinguishes a permitted clarification from a prohibited reduction is straightforward:
+
+> **Does the proposed change make rights more clear, or does it make rights smaller?**
+
+A change that helps a user understand whether their proposed use is covered (and either confirms it is, or explains exactly which part of CC BY 4.0 already addresses it) is a clarification. A change that limits a use that CC BY 4.0 already permits, by any mechanism (additional terms, supplementary policy, conditional access, gating, fees), is a reduction.
+
+In cases of doubt, the test is to ask: **would a recipient relying on CC BY 4.0 today, after the proposed change, hold fewer rights than they hold before the change?** If the answer is yes, the change is a reduction. If the answer is no, the change is a clarification or a refinement.
+
+### 7.4 Process for clarifications and refinements
+
+Clarifications and refinements should be:
+
+- Published in the canonical public repositories alongside the existing licence framework documents.
+- Dated and versioned, so that the development of the framework is transparent and traceable.
+- Cross-referenced from the relevant existing documents (this declaration, the Licensing Framework, the Brand and Trademark Use Policy) so that users find them.
+- Subject to a public comment period where the change is significant, before being adopted as the operative position. Minor corrections (typographical, formatting, cross-reference accuracy) do not require public comment.
+- Available in their previous form in the version history of the repository, so that users can see how the framework has developed.
+
+### 7.5 Application to this declaration
+
+This declaration itself may be clarified and refined by the present custodian (and by future custodians acting within its bounds), subject to the same test in section 7.3. Clarifications must make the irrevocability commitment clearer, not weaker.
+
+A future custodian who attempts to weaken this declaration, withdraw it, or replace it with a less-protective version is acting contrary to the founding intent. Such an attempt is itself contrary to section 2.2 of this declaration and is prohibited.
+
+## 8. Reference framework
 
 This declaration sits within a wider framework of licence, brand, and governance documents:
 
