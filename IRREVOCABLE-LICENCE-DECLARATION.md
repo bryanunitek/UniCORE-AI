@@ -5,7 +5,7 @@
 Issued by: Unitek Systems Limited, Bedford, United Kingdom — present custodian.
 Date of declaration: 17 May 2026.
 Status: Public. Irrevocable.
-Version: 1.0
+Version: 1.2 (17 May 2026 — structural correction: IP custody sits with the six programme subsidiaries, not with the Foundations; substantive irrevocability and Section 7 living-framework clauses unchanged)
 
 ---
 
@@ -70,7 +70,7 @@ If at any time the canonical public repositories cease to be maintained, are del
 
 ### 2.6 Transfer of copyright
 
-If at any time copyright in the architectural content is transferred from Unitek Systems Limited or its subsidiaries to another entity (including, for example, to the TrueAI Foundation or the UniCORE Foundation on their constitution), such transfer must preserve CC BY 4.0 as the licence on the transferred work. A transfer of copyright that purports to change the licence is contrary to this declaration and is, to the extent of any such purported change, void as against the public.
+If at any time copyright in the architectural content is transferred from one entity to another within the Unitek group, or to any third party, such transfer must preserve CC BY 4.0 as the licence on the transferred work. A transfer of copyright that purports to change the licence is contrary to this declaration and is, to the extent of any such purported change, void as against the public.
 
 ## 3. Authority and intent
 
@@ -78,31 +78,38 @@ This declaration is issued by Unitek Systems Limited as the present custodian of
 
 The founding intent is recorded in the Foundational Acknowledgment of Bryan Fred (Principal Architect and founding Director of Unitek Systems Limited): the architecture is given, not sold, and the grant is intended to bind not only the present custodian but every successor custodian of the work.
 
+Copyright in the architectural content sits with the relevant programme subsidiary of Unitek Systems Limited: Unitek UniVERSE Ltd and Unitek UniVERSE USA Inc for the UniVERSE content; Unitek TrueAI Ltd and Unitek TrueAI USA Inc for the TrueAI content; Unitek UniCORE-AI Ltd and Unitek UniCORE-AI USA Inc for the UniCORE-AI content. Each programme subsidiary is a 100%-owned, single-purpose IP-custodian company. This placement is deliberate: a single-purpose corporate subsidiary is the appropriate vehicle to hold, defend, and enforce IP, and is more resistant to dilution than other structural alternatives.
+
 ## 4. Public commitment
 
-This declaration is published in the canonical public repositories. It is intended as a public commitment, recorded in writing and dated, to which the public, the user community, the producers building on the work, the Foundations once constituted, and any future custodian may refer.
+This declaration is published in the canonical public repositories. It is intended as a public commitment, recorded in writing and dated, to which the public, the user community, the producers building on the work, and any future custodian may refer.
 
 Any future attempt to change, restrict, or withdraw the licence stands in contradiction to this public commitment. Such attempts will be:
 
 - Publicly identified as contrary to the founding intent.
-- Resisted through every available legal mechanism, including the irrevocability built into CC BY 4.0 itself, the public-record evidence of authorial intent provided by this declaration, and the surrounding governance instruments (Articles of Association, Foundation constitutions, trademark filings).
+- Resisted through every available legal mechanism, including the irrevocability built into CC BY 4.0 itself, the public-record evidence of authorial intent provided by this declaration, and the surrounding governance instruments (Articles of Association of the IP-custodian subsidiaries and their parent, and trademark registrations).
 - Treated by the community as a breach of trust and a forfeiture of the moral authority of the custodian making the attempt.
 
 ## 5. Layered protection
 
-This declaration is the public, contemporaneous layer of protection. It works alongside three further structural layers, which Unitek Systems Limited is committed to putting in place:
+This declaration is the public, contemporaneous layer of protection. It works alongside three further structural layers, which Unitek Systems Limited is committed to putting in place.
 
-### 5.1 Entrenched provisions in Articles of Association
+### 5.1 Entrenched provisions in Articles of Association of the IP-custodian subsidiaries
 
-Unitek Systems Limited and each of the seven subsidiaries will, as part of the Foundation incorporation work, adopt entrenched provisions in their respective Articles of Association under section 22 of the UK Companies Act 2006 (or US-state equivalents for the Inc entities). These provisions will require unanimous shareholder consent for any decision that would change the licence, transfer copyright on terms that change the licence, or otherwise act contrary to this declaration.
+Each of the six programme subsidiaries that holds IP — Unitek UniVERSE Ltd (UK), Unitek UniVERSE USA Inc, Unitek TrueAI Ltd (UK), Unitek TrueAI USA Inc, Unitek UniCORE-AI Ltd (UK), and Unitek UniCORE-AI USA Inc — will adopt entrenched provisions in its Articles of Association (UK CA 2006 s.22) or Certificate of Incorporation (Delaware GCL equivalent). The entrenched provisions will specify that:
 
-### 5.2 Transfer to the Foundations
+- The company exists solely to hold, defend, and enforce the IP of the programme it serves.
+- The licence under which the IP is granted to the public is CC BY 4.0 and may not be changed.
+- The IP may not be transferred to any entity whose constitution does not contain equivalent provisions.
+- Decisions to change these provisions require unanimous shareholder consent.
 
-On constitution of the TrueAI Foundation and the UniCORE Foundation, copyright in the architectural content will be transferred to the relevant Foundation, with the licence preserved as CC BY 4.0 in the Foundation's constitution. Once transferred, no change of ownership in Unitek Systems Limited or any subsidiary can affect the licence, because the licensor is no longer the Unitek group.
+### 5.2 Entrenched provisions in Articles of Association of Unitek Systems Limited
+
+Unitek Systems Limited will adopt a matching entrenched provision in its own Articles, preventing it from voting in favour of any change to any IP-custodian subsidiary's Articles that would alter the licence, the transfer restrictions, or the entrenchment itself. This creates a self-locking chain: subsidiary Articles bind the subsidiary; parent Articles bind the parent's vote on the subsidiary; both are entrenched.
 
 ### 5.3 Trademark protection
 
-Trademark registration for the protected names is in progress. Once registered, the marks are held by the relevant programme subsidiaries (for the present) and will be assigned to the relevant Foundations on their constitution. Trademark provides independent protection of the names and certifications, separate from the copyright licence, and survives changes in copyright ownership.
+Trademark registration for the protected names is in progress. The marks are held by the relevant programme subsidiaries, alongside the copyright they hold. Trademark provides independent protection of the names and certifications, separate from the copyright licence, and survives every kind of ownership and governance change.
 
 The three structural layers, together with this public declaration and the irrevocability built into CC BY 4.0 itself, are intended to make the licence robust against every reasonably foreseeable attempt to change it.
 
