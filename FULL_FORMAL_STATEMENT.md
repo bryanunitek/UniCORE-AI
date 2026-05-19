@@ -266,7 +266,6 @@ UniCORE AI is:
 - free
 - public
 - open
-- non-commercial
 - non-proprietary
 - irrevocable
 - **given, not sold**
