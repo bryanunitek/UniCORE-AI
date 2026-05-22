@@ -28,7 +28,7 @@ whose models may power a **Claw** as defined in
   ([00058 §2.4](00058-Claw.md#24-pairedclaw)) inside any
   `UniCORE-<vertical>-Claw` Solution
   (for example,
-  [UniCORE-Law-Claw](https://github.com/bryanunitek/UniCORE-Law-Claw)
+  [UniCORE.Law-Claw](https://github.com/bryanunitek/UniCORE.Law-Claw)
   for the Law sector).
 
 The provider is the substrate; the Claw is the governed interface

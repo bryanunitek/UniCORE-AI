@@ -35,7 +35,7 @@ The bond file is the credential. The presence of a valid bond file, with UNICORE
 A bond file carries the following:
 
 - **Identity of the ExternalClaw side** — the Claw's name (for example `UniCORE-Claw-Level01`), its substrate (which AI provider family per [00060](00060-Supported-AI-Provider-List.md), or MyClaw), and the underlying model identity.
-- **Identity of the Solution side** — the Solution name (for example `UniCORE-Law-Claw`) and the specific Solution instance.
+- **Identity of the Solution side** — the Solution name (for example `UniCORE.Law-Claw`) and the specific Solution instance.
 - **Bond metadata** — a UNICOREMASTER-generated bond identifier, the issuing authority (`UNICOREMASTER`), the issue timestamp, and the badge string (see §3).
 - **Level assignment** — one value drawn from the set `Level 01`, `Level 02`, ..., `Level 12`, `User`. Thirteen valid values across the operator-scope range. A bond file names exactly one.
 - **Foundation version pin** — the version of the [Foundation requirements](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements) the Solution is operating against (for example `v1`).
@@ -243,7 +243,7 @@ This document specifies the bond mechanism and the session-opening protocol. The
 - [TrueAI/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) — the truth contract and (at v1) the sole entry in the Foundation requirements corpus that Step 2 of the opening protocol delivers.
 - [UniCORE-AI/levels/v1/](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels/v1) — the per-Level corpus that Step 3 of the opening protocol delivers.
 - [UniVERSE/programme-corpus/v1/](../programme-corpus/v1/) — the programme-level corpus that Solutions embed.
-- [00058 Claw](00058-Claw.md) — the vocabulary (Claw, ExternalClaw, PairedClaw, UniCORE-Law-Claw) and the conceptual definition of PairedClaw.
+- [00058 Claw](00058-Claw.md) — the vocabulary (Claw, ExternalClaw, PairedClaw, UniCORE.Law-Claw) and the conceptual definition of PairedClaw.
 - [00060 Supported AI Provider List](00060-Supported-AI-Provider-List.md) — the 12 provider families whose AgentClaws can be paired.
 - [00062 Pairing Failure Ladder, PAUSE Mode And EMERGENCY](00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) — what happens when bonds fail repeatedly.
 - [10001 Singular Pairing Principle](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md) — the rule that PairedClaw bonds are singular per workstream.

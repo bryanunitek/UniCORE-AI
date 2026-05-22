@@ -198,13 +198,20 @@ It does not rely on goodwill. It relies on structure.
 
 ## 10. Repositories
 
-UniCORE AI is published across three public repositories:
+UniCORE AI is published across five public repositories under CC BY 4.0:
+
+**Foundation triad** (programme / Foundation / architecture):
 
 - **`UniVERSE`** — the wider vision, whitepapers, strategy, roadmap, outreach, and public announcement material.
 - **`TrueAI`** — the immutable Foundation. Small. Stable. Never commercial. Never forked.
 - **`UniCORE-AI`** — the 12-Level Governance Architecture, reference specifications, governance MD templates, and the reference implementation.
 
-All three are public from the moment of publication. There is no private phase, no paid tier, no delayed release.
+**Gift-layer extension** (locked 2026-05-21; implementation reference and substrate-services):
+
+- **`UniCORE`** — the implementation reference layer; the working code substrate that satisfies the UniCORE-AI 12-Level reference architecture.
+- **`UniCORE.GVB`** — the substrate-services layer; the Global Virtual Bridge that any Vertical Solution may run on.
+
+All five are public from the moment of publication. There is no private phase, no paid tier, no delayed release.
 
 Each repository carries this Full Formal Statement at its root, alongside its licence, so that any reader — corporate, governmental, academic, or individual — can understand in a single document what this is, who made it, and what the terms are.
 

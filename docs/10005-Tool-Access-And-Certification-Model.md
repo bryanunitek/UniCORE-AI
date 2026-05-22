@@ -192,7 +192,7 @@ A human may hold:
 
 Practitioners who do not hold a UniTEKClaw EUL produce Foundation-aligned work through two paths:
 
-1. **Discussions.** The public Discussion forums on UniVERSE, TrueAI, and UniCORE-AI are open to all. Contributions through Discussions — ideas, reviews, proposals, questions, analysis — count as produced work for certification purposes. No tool is required.
+1. **Discussions.** The public Discussion forums on UniVERSE, TrueAI, UniCORE-AI, UniCORE, and UniCORE.GVB are open to all. Contributions through Discussions — ideas, reviews, proposals, questions, analysis — count as produced work for certification purposes. No tool is required.
 
 2. **Paired work under a senior.** A junior practitioner may work alongside an EUL-holding senior, contributing to the work produced on the senior's UniTEKClaw installation under the [Generation IT Succession](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md) model. The junior's contributions are recorded and attested by the senior. The produced work counts toward the junior's certification at the appropriate level.
 

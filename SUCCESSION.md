@@ -66,7 +66,7 @@ Updates to the nominated successor's name may be made only by Bryan Fred during 
 
 If Bryan Fred does not name a successor before becoming unable to continue, Unitek Systems Limited shall designate a successor by **public process within 12 months**. The public process shall, at minimum:
 
-1. Be announced through the GitHub Discussions of all three programme repositories (UniVERSE, TrueAI, UniCORE-AI).
+1. Be announced through the GitHub Discussions of all five public repositories (UniVERSE, TrueAI, UniCORE-AI, UniCORE, UniCORE.GVB).
 2. Solicit nominations from the research, standards, and adopter communities.
 3. Apply a clear, published rubric for selection — including respect for the gift principle, the Nine Invariants, and the programme's stated independence from any single commercial entity.
 4. Record the final designation in this document by amendment under the same git-history-preserved process used for all programme changes.

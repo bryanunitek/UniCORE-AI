@@ -43,23 +43,23 @@ These are the written-down artefacts. They exist.
 
 ## Evolution and versioning
 
-The documents in the UniVERSE, TrueAI, and UniCORE-AI repositories are evolving material. They are being written, refined, and extended as the programme develops — in particular as **UniCORE-Law-Claw**, the first reference library for the Law sector, powered by **UniCORE AI** and built on the **TrueAI Foundation**, is itself being built. See the Long horizon section below for the Layered CORE model that frames this work.
+The documents in the UniVERSE, TrueAI, and UniCORE-AI repositories are evolving material. They are being written, refined, and extended as the programme develops — in particular as **UniCORE.Law-Claw**, the first reference library for the Law sector, powered by **UniCORE AI** and built on the **TrueAI Foundation**, is itself being built. See the Long horizon section below for the Layered CORE model that frames this work.
 
 ### Versioning is not yet enabled
 
-Every `.md` file across the three repositories carries `Version: 1.0` in its header block as a placeholder. **Programme-level versioning is not yet enabled.** While versioning is off, every document remains at `1.0` regardless of how often the content is revised. Revisions to the written material are recorded in the git history of each repository, not in the `Version` line.
+Every `.md` file across the five public repositories (the Foundation triad plus the gift-layer extension `UniCORE` and `UniCORE.GVB`) carries `Version: 1.0` in its header block as a placeholder. **Programme-level versioning is not yet enabled.** While versioning is off, every document remains at `1.0` regardless of how often the content is revised. Revisions to the written material are recorded in the git history of each repository, not in the `Version` line.
 
 The `Version: 1.0` placeholder means: *draft, subject to change, not yet under formal versioning*.
 
 ### When versioning turns on
 
-Programme-level versioning will be enabled when the first **GitHub Discussion** is opened in any of the three public repositories — UniVERSE, TrueAI, or UniCORE-AI. The first Discussion marks the point at which the published material begins to attract sustained external engagement and the documents need stable, citable revision numbers. Until that moment the corpus is treated as a single living draft.
+Programme-level versioning will be enabled when the first **GitHub Discussion** is opened in any of the five public repositories — UniVERSE, TrueAI, UniCORE-AI, UniCORE, or UniCORE.GVB. The first Discussion marks the point at which the published material begins to attract sustained external engagement and the documents need stable, citable revision numbers. Until that moment the corpus is treated as a single living draft.
 
 When versioning turns on:
 
 - The `Version` line on every document moves from the `1.0` placeholder to a real revision number.
 - Subsequent material changes bump the `Version` line according to the convention recorded at that point.
-- Frozen release snapshots and co-ordinated document tags across the three repositories become possible.
+- Frozen release snapshots and co-ordinated document tags across the five repositories become possible.
 
 ### What is locked even before versioning turns on
 
@@ -93,7 +93,7 @@ The Foundation supports a layered model with three levels of CORE (reference lib
 
 - **Level 1 CORE — TrueAI Foundation.** The Nine Invariants and the governance principles that any AI system in a critical decision path must satisfy. Universal. Gift.
 - **Level 2 CORE — UniCORE AI.** The 12-level reference architecture that implements the Foundation in working form. Universal. Gift.
-- **Level 3 CORE — Scope-Domain CORE.** A reference library specific to a particular scope domain (an industry vertical, a jurisdiction, a body, a network fabric). Multiple peers can exist per scope. Examples: UniCORE-Law-Claw is the first Vertical CORE for the Law sector. Future Vertical COREs may exist for other sectors. Government COREs may exist for jurisdictions that adopt the Foundation. All gifted.
+- **Level 3 CORE — Scope-Domain CORE.** A reference library specific to a particular scope domain (an industry vertical, a jurisdiction, a body, a network fabric). Multiple peers can exist per scope. Examples: UniCORE.Law-Claw is the first Vertical CORE for the Law sector. Future Vertical COREs may exist for other sectors. Government COREs may exist for jurisdictions that adopt the Foundation. All gifted.
 - **Solutions tier (not CORE).** A specific client's working implementation, built by a Generation IT producer pair on top of the relevant CORE layers. Sellable as services-built deliverables. Must attribute its CORE origins.
 
 A derivative of CORE is itself CORE and is itself gifted. This is called gift propagation. It is the architectural mechanism that prevents anyone — including the original producer — from converting shared CORE into private property.
@@ -155,7 +155,7 @@ Second, this is the author's considered view of where humanity will need to be i
 - **If you are looking for a reference architecture to assess existing or planned AI systems against:** the UniCORE AI 12-level stack is ready now. Use it.
 - **If you are a government, regulator, standards body, or multilateral organisation:** the programme is public and free to adopt, reference, or build upon under CC BY 4.0. The author is not selling anything. See [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md).
 - **If you are building a governed AI system:** the architecture, the messaging protocol, the threshold specification, and the override protocol are all public and free to implement under CC BY 4.0.
-- **If you are looking to contribute:** challenge the programme in the Discussions tab of any of the three repositories — [UniVERSE](https://github.com/bryanunitek/UniVERSE/discussions), [TrueAI](https://github.com/bryanunitek/TrueAI/discussions), [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI/discussions). Translations, adaptations, implementation reports, architecture critique, and scenario stress-tests are all welcome.
+- **If you are looking to contribute:** challenge the programme in the Discussions tab of any of the five public repositories — [UniVERSE](https://github.com/bryanunitek/UniVERSE/discussions), [TrueAI](https://github.com/bryanunitek/TrueAI/discussions), [UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI/discussions), [UniCORE](https://github.com/bryanunitek/UniCORE/discussions), [UniCORE.GVB](https://github.com/bryanunitek/UniCORE.GVB/discussions). Translations, adaptations, implementation reports, architecture critique, and scenario stress-tests are all welcome.
 - **If you are hoping the author will monetise this:** the programme is given, not sold. That is not a future plan that might change. It is structural. See [LICENSE.md](LICENSE.md), [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md), and [SUCCESSION.md](https://github.com/bryanunitek/UniVERSE/blob/main/SUCCESSION.md).
 
 ## Author's note

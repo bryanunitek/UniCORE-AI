@@ -4,7 +4,7 @@
 
 Published: 2026-05-16
 
-This is the version that the first generation of Solutions — beginning with `UniCORE-Law-Claw` — is built against.
+This is the version that the first generation of Solutions — beginning with `UniCORE.Law-Claw` — is built against.
 
 ## Contents
 
