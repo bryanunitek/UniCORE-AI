@@ -5,7 +5,7 @@
 Issued by: Unitek Systems Limited, Bedford, United Kingdom — present custodian.
 Date of declaration: 17 May 2026.
 Status: Public. Irrevocable.
-Version: 1.2 (17 May 2026 — structural correction: IP custody sits with the six programme subsidiaries, not with the Foundations; substantive irrevocability and Section 7 living-framework clauses unchanged)
+Amendment history (in this published text): 2026-05-17 — clarified the living-framework principle (Section 7); 2026-05-17 — structural correction noting IP custody sits with the six programme subsidiaries, not with the Foundations. Substantive irrevocability and Section 7 living-framework clauses unchanged across both amendments.
 
 ---
 
