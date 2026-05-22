@@ -1,8 +1,6 @@
 ---
 title: "License Examples — Formal Statement and Worked Scenarios"
 author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-version: "DRAFT v0.04 · May 2026"
-status: DRAFT v0.04
 licence: CC BY 4.0
 ---
 
@@ -10,7 +8,7 @@ licence: CC BY 4.0
 
 **Author:** Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 **First published:** May 2026
-**Status:** DRAFT v0.04 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions)
+**Living document.** Corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions)
 **Licence of this document:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 > This document is plain-English guidance for Partners, Clients, and Software Providers. Where this document and the canonical [LICENSE.md](LICENSE.md) disagree, the canonical licence text wins.
@@ -830,9 +828,8 @@ That's the elevator answer. Send them this document for the detail.
 
 | Field | Value |
 |---|---|
-| Document version | DRAFT v0.04 |
 | First published | May 2026 |
 | Author | Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom |
 | Licence of this document | Creative Commons Attribution 4.0 International (CC BY 4.0) |
-| Review status | DRAFT v0.04 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions) |
+| Review status | Living document — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions) |
 | Companion documents | [LICENSE.md](LICENSE.md) · [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) · [ROADMAP.md](ROADMAP.md) · [IRREVOCABLE-LICENCE-DECLARATION.md](IRREVOCABLE-LICENCE-DECLARATION.md) |
