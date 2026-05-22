@@ -1,8 +1,8 @@
 ---
 title: "License Examples — Formal Statement and Worked Scenarios"
 author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-version: "DRAFT v0.02 · May 2026"
-status: DRAFT v0.02
+version: "DRAFT v0.03 · May 2026"
+status: DRAFT v0.03
 licence: CC BY 4.0
 ---
 
@@ -10,7 +10,7 @@ licence: CC BY 4.0
 
 **Author:** Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 **First published:** May 2026
-**Status:** DRAFT v0.02 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions)
+**Status:** DRAFT v0.03 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions)
 **Licence of this document:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 > This document is plain-English guidance for Partners, Clients, and Software Providers. Where this document and the canonical [LICENSE.md](LICENSE.md) disagree, the canonical licence text wins.
@@ -33,6 +33,7 @@ It explains the licensing of the public CORE corpus, walks through each layer of
 - Organisations that need **fewer than 4 Levels of Governance** (<4)
 - A vendor that forks the CORE and builds proprietary AI on top
 - How the licensing structure prevents monopoly capture
+- UniCORE.GVB and UniCORE.Desktop — substrate-layer gift, chain-locked, cannot be monopolised, forced, or sold
 - Each named industry: Law, Banking, Healthcare, Government, Space Industry
 
 Where this document and the canonical license text disagree, the canonical licence text wins.
@@ -501,6 +502,77 @@ The code is gift under CC BY 4.0. The Truth — the Nine Invariants, the certifi
 
 ---
 
+---
+
+### Scenario 5.10 — Organisations using fewer than 4 Levels of Governance (<4)
+
+**Profile:** A deployment that drops below the recommended floor of 4 levels. Common scenarios: a hobby project, a research prototype, a teaching demo, an internal proof-of-concept that is not meant to go to production.
+
+**What the licence permits:** Anything CC BY 4.0 permits — they can take whichever levels they want, in whatever combination they want, and use them.
+
+**What the public corpus advises against:**
+
+- A production deployment with fewer than 4 levels is not, in the public corpus's published view, a deployment that has earned the right to claim conformance with the UniCORE AI framework.
+- A regulator-facing deployment with fewer than 4 levels is not a serious governance posture and should not be described as "Powered by UniCORE AI" or "TrueAI-certified".
+
+**What the public corpus enforces:**
+
+- The reserved marketing phrases (`Powered by UniCORE AI`, `UniCORE-certified`, `UniCORE-AI-certified`, `TrueAI-certified`, etc.) are off-limits without certification — and certification has minimum-level requirements.
+- A deployment with fewer than 4 levels will not pass certification.
+
+**Worked example — A university computer-science class:**
+
+A computer science class uses UniCORE AI as a teaching reference for a coursework assignment on governance frameworks. The students implement two levels (audit and approval) as their assignment. They cite UniCORE AI in their bibliography and on a slide.
+
+This is fine. They are not selling a product. They are not claiming certification. They are using the framework as a teaching aid and giving credit, which is exactly what CC BY 4.0 is for.
+
+If, three years later, one of those students tries to commercialise their coursework as a real product with only those two levels, they would be welcome to do so — and the licence permits it — but they would not pass certification, would not be entitled to use the certification marks, and would (in the public corpus's published view) not be running a production-grade governance posture. The public corpus will say so if asked.
+
+---
+
+### Scenario 5.11 — UniCORE.GVB and UniCORE.Desktop — substrate-layer gift, operationally chain-locked
+
+**Profile:** The substrate-services layer (`UniCORE.GVB` — Global Virtual Bridge, providing mail, file transfer, DNS, federation, tenancy, topology) and the client-application layer (`UniCORE.Desktop` — the desktop applications that connect to GVB services) are different in kind from the architectural and Vertical CORE layers. They are **operational substrate**: code that runs in production, carries data, federates between deployments, and serves the desktop clients that humans actually use.
+
+These two repositories are also CC BY 4.0, also gift, also under the same irrevocability and same Positioning Principle as the rest of the public corpus. But because they are operational and runtime-facing, the consequences of misrepresenting them are sharper than for the architectural layers above. This scenario sets out the position explicitly.
+
+**The four principles that apply to UniCORE.GVB and UniCORE.Desktop:**
+
+1. **Cannot be monopolised.** CC BY 4.0 is irrevocable and non-exclusive. No party — including Unitek Systems Limited and Unitek Systems USA Inc — can take exclusive ownership or restrict downstream rights to the public GVB or Desktop substrate. The licensing structure in §5.9 applies to GVB and Desktop on the same terms as every other public CORE repository.
+
+2. **Cannot be forced.** No one can require another party to use a specific deployment, hosting provider, or commercial wrapping of GVB or Desktop. Any Solution that wants to use the gift substrate may do so under CC BY 4.0; no commercial agreement, no certification arrangement, and no service contract can lawfully prevent that.
+
+3. **Cannot be sold as the substrate itself.** The hosting service is sellable (Scenario 5.4). The Vertical Business Objects on top are sellable (Scenario 5.3). The professional services around deployment, customisation, and support are sellable. But the GVB and Desktop substrate code itself is gift — it is not for sale. Anyone offering "exclusive UniCORE.GVB" or "proprietary UniCORE.Desktop" as a product is misrepresenting the gift.
+
+4. **Forking diverges from the chain — and the chain is what makes the badge true.**
+
+   This is the principle that distinguishes substrate from architecture. CC BY 4.0 permits forking. The badge structure does not endorse forks that diverge from the certified chain.
+
+   The certified chain runs: TrueAI Foundation → UniCORE AI → UniCORE → UniCORE.GVB → UniCORE.Desktop. The badge "Powered by UniCORE AI / Built on the TrueAI Foundation" certifies that the entire chain — including the GVB substrate and the Desktop clients connecting to it — satisfies the Nine Invariants in operation.
+
+   If a vendor forks UniCORE.GVB and ships a divergent version under a similar name, the operational properties of that fork are not the operational properties of the certified GVB. A Desktop client connecting to a forked GVB does not get the audit, identity, federation, and governance guarantees that the badge implies. The fork **looks** like GVB; it does not **behave** like certified GVB. That is a security risk for the downstream user, and it is dishonest representation.
+
+   The licence permits the fork; the public corpus declines to certify it; the badge is unavailable to it.
+
+**What this means in practice:**
+
+- **Permitted:** read, study, contribute to, deploy, host, integrate with, build Solutions on top of UniCORE.GVB and UniCORE.Desktop. Cite them, attribute them, redistribute them under CC BY 4.0 with appropriate changes-indicated. Add functionality back to the public repositories via Pull Request or Discussion proposal. Engage Unitek or another service company to operate GVB instances on behalf of customers.
+
+- **Permitted but inadvisable:** forking GVB or Desktop for private use. Legally allowed under CC BY 4.0. Operationally the fork loses the certification chain. Security and governance properties expected by users connecting to "GVB" are not guaranteed by a private fork. If you fork, you must know what you are doing — these are the operational backbone of governed AI Solutions, not casual reference code.
+
+- **Not permitted under the badge structure:** describing a forked GVB or Desktop as "Powered by UniCORE AI" or "Built on the TrueAI Foundation" without certification. Selling a forked GVB or Desktop as a proprietary substrate product. Forcing downstream users to depend on a private fork instead of the public substrate. Any of these triggers public refutation and certification refusal.
+
+**Contributions are welcome.**
+
+These are gift repositories that grow. Public contributions improve the gift. The public corpus operates on the assumption that the substrate will accumulate functionality over time — added by Unitek, by Generation IT producers, by Solutions providers, by any contributor who has read the AGENTS.md and submits work that satisfies the Foundation invariants. Pull Requests, Discussions proposals, and certification submissions are the routes in.
+
+**The principle in one sentence:**
+
+> *UniCORE.GVB and UniCORE.Desktop are public substrate, contributed to publicly, certified as a chain. Anyone may fork. No fork can claim the badge. The gift remains the gift only while it remains the chain.*
+
+
+---
+
 ## 6. Worked scenarios by named industry
 
 The five industries below are the named verticals on the public roadmap as of 2026-05-22. Other industries follow the same pattern.
@@ -744,9 +816,9 @@ That's the elevator answer. Send them this document for the detail.
 
 | Field | Value |
 |---|---|
-| Document version | DRAFT v0.02 |
+| Document version | DRAFT v0.03 |
 | First published | May 2026 |
 | Author | Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom |
 | Licence of this document | Creative Commons Attribution 4.0 International (CC BY 4.0) |
-| Review status | DRAFT v0.02 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions) |
+| Review status | DRAFT v0.03 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions) |
 | Companion documents | [LICENSE.md](LICENSE.md) · [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) · [ROADMAP.md](ROADMAP.md) · [IRREVOCABLE-LICENCE-DECLARATION.md](IRREVOCABLE-LICENCE-DECLARATION.md) |
