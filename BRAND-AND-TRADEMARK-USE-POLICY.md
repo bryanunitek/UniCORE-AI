@@ -3,7 +3,6 @@
 Author: Unitek Systems Limited, Bedford, United Kingdom
 First published: May 2026
 Status: Public.
-Version: 1.0
 
 ---
 

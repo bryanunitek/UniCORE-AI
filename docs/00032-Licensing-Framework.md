@@ -5,7 +5,6 @@
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 First published: May 2026
 Status: Public.
-Version: 2.0
 
 ---
 

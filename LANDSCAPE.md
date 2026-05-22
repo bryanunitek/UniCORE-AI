@@ -8,7 +8,6 @@
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 First published: May 2026
 Status: Public. Given, not sold. Irrevocable.
-Version: 1.0
 
 ---
 
