@@ -1,8 +1,8 @@
 ---
 title: "License Examples — Formal Statement and Worked Scenarios"
 author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-version: "DRAFT v0.03 · May 2026"
-status: DRAFT v0.03
+version: "DRAFT v0.04 · May 2026"
+status: DRAFT v0.04
 licence: CC BY 4.0
 ---
 
@@ -10,7 +10,7 @@ licence: CC BY 4.0
 
 **Author:** Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 **First published:** May 2026
-**Status:** DRAFT v0.03 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions)
+**Status:** DRAFT v0.04 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions)
 **Licence of this document:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 > This document is plain-English guidance for Partners, Clients, and Software Providers. Where this document and the canonical [LICENSE.md](LICENSE.md) disagree, the canonical licence text wins.
@@ -532,7 +532,7 @@ If, three years later, one of those students tries to commercialise their course
 
 ### Scenario 5.11 — UniCORE.GVB and UniCORE.Desktop — substrate-layer gift, operationally chain-locked
 
-**Profile:** The substrate-services layer (`UniCORE.GVB` — Global Virtual Bridge, providing mail, file transfer, DNS, federation, tenancy, topology) and the client-application layer (`UniCORE.Desktop` — the desktop applications that connect to GVB services) are different in kind from the architectural and Vertical CORE layers. They are **operational substrate**: code that runs in production, carries data, federates between deployments, and serves the desktop clients that humans actually use.
+**Profile:** The substrate-services layer (`UniCORE.GVB` — Global Virtual Bridge, providing mail, file transfer, DNS, federation, tenancy, topology) and the client-application layer (`UniCORE.Desktop` — the desktop applications that connect to UniCORE and/or UniCORE.GVB substrate via APIs; installable on user-controlled infrastructure — workstation, internal server, wherever the user runs it) are different in kind from the architectural and Vertical CORE layers. They are **operational substrate**: code that runs in production, carries data, federates between deployments, and serves the desktop clients that humans actually use.
 
 These two repositories are also CC BY 4.0, also gift, also under the same irrevocability and same Positioning Principle as the rest of the public corpus. But because they are operational and runtime-facing, the consequences of misrepresenting them are sharper than for the architectural layers above. This scenario sets out the position explicitly.
 
@@ -548,17 +548,31 @@ These two repositories are also CC BY 4.0, also gift, also under the same irrevo
 
    This is the principle that distinguishes substrate from architecture. CC BY 4.0 permits forking. The badge structure does not endorse forks that diverge from the certified chain.
 
-   The certified chain runs: TrueAI Foundation → UniCORE AI → UniCORE → UniCORE.GVB → UniCORE.Desktop. The badge "Powered by UniCORE AI / Built on the TrueAI Foundation" certifies that the entire chain — including the GVB substrate and the Desktop clients connecting to it — satisfies the Nine Invariants in operation.
+   The certified chain runs: TrueAI Foundation → UniCORE AI → UniCORE **and** UniCORE.GVB → UniCORE.Desktop. UniCORE and UniCORE.GVB are sister substrates — UniCORE is the implementation reference, UniCORE.GVB is the substrate-services layer (mail, file transfer, DNS, federation, tenancy, topology) — and UniCORE.Desktop connects to either or both via APIs. The badge "Powered by UniCORE AI / Built on the TrueAI Foundation" certifies that the entire chain — TrueAI Foundation, UniCORE AI, UniCORE, UniCORE.GVB, and the Desktop clients connecting to them — satisfies the Nine Invariants in operation.
 
-   If a vendor forks UniCORE.GVB and ships a divergent version under a similar name, the operational properties of that fork are not the operational properties of the certified GVB. A Desktop client connecting to a forked GVB does not get the audit, identity, federation, and governance guarantees that the badge implies. The fork **looks** like GVB; it does not **behave** like certified GVB. That is a security risk for the downstream user, and it is dishonest representation.
+   If a vendor forks UniCORE.GVB (or UniCORE) and ships a divergent version under a similar name, the operational properties of that fork are not the operational properties of the certified substrate. A Desktop client connecting to a forked substrate does not get the audit, identity, federation, and governance guarantees that the badge implies. The fork **looks** like the substrate; it does not **behave** like certified substrate. That is a security risk for the downstream user, and it is dishonest representation.
 
    The licence permits the fork; the public corpus declines to certify it; the badge is unavailable to it.
+
+**The badge handshake — runtime enforcement of the chain.**
+
+UniCORE.Desktop may be installed locally — on a user's workstation, on an internal server, on whatever infrastructure the user controls. The chain does not require centralised hosting.
+
+But UniCORE.Desktop does not operate in isolation. All communication between the Desktop client and the substrate it serves — UniCORE and/or UniCORE.GVB — flows through APIs, and those APIs require **the badge on both sides** of the connection. The Desktop client carries its certification badge; the substrate endpoint carries its certification badge; the handshake completes only when both are present and current.
+
+This is what makes principle #4 operational rather than aspirational:
+
+- A **forked Desktop** loses its certification badge and cannot complete the handshake with a certified substrate endpoint. Certified UniCORE and UniCORE.GVB deployments will refuse the connection.
+- A **forked UniCORE or UniCORE.GVB substrate** loses its certification badge and cannot serve certified Desktop clients. Desktop will refuse to connect to a non-badged substrate.
+- A **third-party substrate or client** trying to impersonate the chain without certification cannot complete the handshake either. The badge is the credential; without it, the connection does not establish.
+
+The chain is enforced at runtime, not just in policy. Certification is the architecture, not a sticker on top of it. "Powered by UniCORE AI, built on the TrueAI Foundation" is the badge that has to be present on both sides of every API exchange — and that, in the operating system, is what makes the chain a chain.
 
 **What this means in practice:**
 
 - **Permitted:** read, study, contribute to, deploy, host, integrate with, build Solutions on top of UniCORE.GVB and UniCORE.Desktop. Cite them, attribute them, redistribute them under CC BY 4.0 with appropriate changes-indicated. Add functionality back to the public repositories via Pull Request or Discussion proposal. Engage Unitek or another service company to operate GVB instances on behalf of customers.
 
-- **Permitted but inadvisable:** forking GVB or Desktop for private use. Legally allowed under CC BY 4.0. Operationally the fork loses the certification chain. Security and governance properties expected by users connecting to "GVB" are not guaranteed by a private fork. If you fork, you must know what you are doing — these are the operational backbone of governed AI Solutions, not casual reference code.
+- **Permitted but inadvisable:** forking GVB or Desktop for private use. Legally allowed under CC BY 4.0. Operationally the fork loses its certification badge — and once the badge is gone, the runtime API handshake with certified substrate endpoints (if you forked Desktop) or with certified Desktop clients (if you forked the substrate) no longer completes. Security and governance properties expected by users are not guaranteed by a private fork; in many configurations the connection itself simply will not establish. If you fork, you must know what you are doing — these are the operational backbone of governed AI Solutions, not casual reference code.
 
 - **Not permitted under the badge structure:** describing a forked GVB or Desktop as "Powered by UniCORE AI" or "Built on the TrueAI Foundation" without certification. Selling a forked GVB or Desktop as a proprietary substrate product. Forcing downstream users to depend on a private fork instead of the public substrate. Any of these triggers public refutation and certification refusal.
 
@@ -816,9 +830,9 @@ That's the elevator answer. Send them this document for the detail.
 
 | Field | Value |
 |---|---|
-| Document version | DRAFT v0.03 |
+| Document version | DRAFT v0.04 |
 | First published | May 2026 |
 | Author | Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom |
 | Licence of this document | Creative Commons Attribution 4.0 International (CC BY 4.0) |
-| Review status | DRAFT v0.03 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions) |
+| Review status | DRAFT v0.04 — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions) |
 | Companion documents | [LICENSE.md](LICENSE.md) · [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) · [ROADMAP.md](ROADMAP.md) · [IRREVOCABLE-LICENCE-DECLARATION.md](IRREVOCABLE-LICENCE-DECLARATION.md) |
