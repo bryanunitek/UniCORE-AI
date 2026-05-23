@@ -31,7 +31,7 @@ It explains the licensing of the public CORE corpus, walks through each layer of
 - Organisations that need **fewer than 4 Levels of Governance** (<4)
 - A vendor that forks the CORE and builds proprietary AI on top
 - How the licensing structure prevents monopoly capture
-- UniCORE.GVB and UniCORE.Desktop — substrate-layer gift, chain-locked, cannot be monopolised, forced, or sold
+- UniCORE.GVB and UniCORE.Desktop — substrate-layer gift, chain-locked, cannot be monopolised, forked, or sold
 - Each named industry: Law, Banking, Healthcare, Government, Space Industry
 
 Where this document and the canonical license text disagree, the canonical licence text wins.
