@@ -143,6 +143,8 @@ This is a structural choice, not a marketing choice. The programme exists to kee
 - [`TrueAI`](https://github.com/bryanunitek/TrueAI) — The immutable Foundation. Small. Stable. Never commercial.
 - [`UniCORE`](https://github.com/bryanunitek/UniCORE) — The UniCORE name and the open list of `UniCORE.<Industry>` classified names. CC BY 4.0 gift surface.
 - [`UniCORE.GVB`](https://github.com/bryanunitek/UniCORE.GVB) — The substrate-services layer of the programme (Global Virtual Bridge). CC BY 4.0 gift surface.
+- [`UniSaaS.UniCORE`](https://github.com/bryanunitek/UniSaaS.UniCORE) — The SaaS-deployment-shape sister of UniCORE. Same governance, multi-tenant topology. CC BY 4.0 gift surface.
+- [`UniSaaS.UniCORE.GVB`](https://github.com/bryanunitek/UniSaaS.UniCORE.GVB) — The SaaS-deployment-shape sister of UniCORE.GVB. Substrate-services layer for the SaaS topology. CC BY 4.0 gift surface.
 
 The public register of practitioners certified by Unitek Systems Limited to provide Solution Review and other delegated programme services lives in [`UniVERSE/CERTIFIED-EXPERTS.md`](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md).
 ---
