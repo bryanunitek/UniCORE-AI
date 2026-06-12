@@ -1,0 +1,48 @@
+{
+  "version": "v1",
+  "folder": "developer-doctrine/v1",
+  "repo": "bryanunitek/UniCORE-AI",
+  "description": "Role-specific doctrine for UniCORE-AI developer Claws",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "TODO: populate via `git hash-object README.md` after first commit",
+      "description": "Entry point — folder purpose, read order, who reads this"
+    },
+    {
+      "name": "DEVELOPMENT-ROLE.md",
+      "sha256": "TODO: populate via `git hash-object DEVELOPMENT-ROLE.md` after first commit",
+      "description": "UniCORE-AI developer specialisation on top of TrueAI standard envelope"
+    },
+    {
+      "name": "STANDARD-ENVELOPE.md",
+      "sha256": "TODO: populate via `git hash-object STANDARD-ENVELOPE.md` after first commit",
+      "description": "UniCORE-AI standard envelope — adds reference architecture rules to TrueAI standard"
+    },
+    {
+      "name": "PRIVILEGED-ENVELOPE.md",
+      "sha256": "TODO: populate via `git hash-object PRIVILEGED-ENVELOPE.md` after first commit",
+      "description": "Privileged envelope — Team UniCORE only"
+    },
+    {
+      "name": "VERTICAL-ENTRY.md",
+      "sha256": "TODO: populate via `git hash-object VERTICAL-ENTRY.md` after first commit",
+      "description": "How a new vertical enters the UniCORE reference architecture"
+    },
+    {
+      "name": "APPRENTICESHIP-ONBOARDING.md",
+      "sha256": "TODO: populate via `git hash-object APPRENTICESHIP-ONBOARDING.md` after first commit",
+      "description": "Post-2027 apprenticeship programme for new UniCORE-AI developers"
+    },
+    {
+      "name": "MANIFEST.md",
+      "sha256": "TODO: populate via `git hash-object MANIFEST.md` after first commit",
+      "description": "Human-readable manifest of this folder"
+    },
+    {
+      "name": "MANIFEST.json",
+      "sha256": "TODO: populate via `git hash-object MANIFEST.json` after first commit",
+      "description": "Machine-parseable manifest with SHA-256 hashes"
+    }
+  ]
+}
