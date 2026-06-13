@@ -20,7 +20,7 @@ whose models may power a **Claw** as defined in
 - a **MyClaw** ([00058 §2.3](00058-Claw.md#23-externalclaw)) — a
   person's own ExternalClaw, run on their own infrastructure or via
   a managed hosting platform such as
-  [myclaw.ai](https://myclaw.ai),
+  [myclaw.ai](https://myclaw.ai?via=bryan),
 - an **AgentClaw** ([00058 §2.3](00058-Claw.md#23-externalclaw)) —
   an autonomous AI-driven ExternalClaw with no human owner,
 - a Claw on the Solution side of a **PairedClaw** bond
