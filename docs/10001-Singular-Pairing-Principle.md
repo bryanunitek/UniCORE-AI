@@ -21,4 +21,4 @@ The body has been shrunk to this pointer, deliberately, to eliminate the three-w
 
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom.
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — given, not sold, irrevocable.
-Version of pointer: 1.1 — June 2026 (matches canonical version on TrueAI).
+Version of pointer: 1.4 — June 2026 (matches canonical version on TrueAI).
