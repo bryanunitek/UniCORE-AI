@@ -199,6 +199,8 @@ This is that governance.
 
 ## Why these repositories exist
 
+*Powered by UniCORE AI built on the TrueAI foundation is a moral and ethical answer to Advanced AI for humanity.*
+
 UniVERSE, TrueAI, and UniCORE-AI are a way for humans and AI to build advanced AI applications together — under the rules, structure, and governance these three platforms set out in the open. They let humans work with AI, and communicate with other AIs, in a way that is good: one that preserves life on Earth and, in time, throughout the entire universe.
 
 There is much humanity does not yet understand about what is coming. This is a first step.
