@@ -832,4 +832,4 @@ That's the elevator answer. Send them this document for the detail.
 | Author | Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom |
 | Licence of this document | Creative Commons Attribution 4.0 International (CC BY 4.0) |
 | Review status | Living document — corrections and clarifications welcome via [GitHub Discussions](https://github.com/bryanunitek/UniCORE/discussions) |
-| Companion documents | [LICENSE.md](LICENSE.md) · [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) · [ROADMAP.md](ROADMAP.md) · [IRREVOCABLE-LICENCE-DECLARATION.md](IRREVOCABLE-LICENCE-DECLARATION.md) |
+| Companion documents | [LICENSE.md](LICENSE.md) · [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) · [HORIZON.md](HORIZON.md) · [IRREVOCABLE-LICENCE-DECLARATION.md](IRREVOCABLE-LICENCE-DECLARATION.md) |

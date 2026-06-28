@@ -15,16 +15,16 @@ Status: Public. Given, not sold. Irrevocable.
 
 This document is the programme-wide list of AI provider families
 whose models may power a **Claw** as defined in
-[00058 §2.1](00058-Claw.md#21-claw). The list applies uniformly to:
+[00058 §2.1](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#21-claw). The list applies uniformly to:
 
-- a **MyClaw** ([00058 §2.3](00058-Claw.md#23-externalclaw)) — a
+- a **MyClaw** ([00058 §2.3](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#23-externalclaw)) — a
   person's own ExternalClaw, run on their own infrastructure or via
   a managed hosting platform such as
   [myclaw.ai](https://myclaw.ai?via=bryan),
-- an **AgentClaw** ([00058 §2.3](00058-Claw.md#23-externalclaw)) —
+- an **AgentClaw** ([00058 §2.3](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#23-externalclaw)) —
   an autonomous AI-driven ExternalClaw with no human owner,
 - a Claw on the Solution side of a **PairedClaw** bond
-  ([00058 §2.4](00058-Claw.md#24-pairedclaw)) inside any
+  ([00058 §2.4](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#24-pairedclaw)) inside any
   `UniCORE-<vertical>-Claw` Solution
   (for example,
   [UniCORE.Law-Claw](https://github.com/bryanunitek/UniCORE.Law-Claw)
@@ -32,7 +32,7 @@ whose models may power a **Claw** as defined in
 
 The provider is the substrate; the Claw is the governed interface
 that sits between a human and that substrate. Substrate-agnostic
-governance ([00058 §4.1](00058-Claw.md#41-substrate-agnostic-governance))
+governance ([00058 §4.1](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance))
 means the same governance rules hold across every provider on this
 list. A Claw running on one provider today and a different provider
 tomorrow remains the same Claw under Foundation governance; the
@@ -235,22 +235,22 @@ the same Claw under Foundation governance. The audit trail, the
 corpus, the principal identity, the certification mark, and the
 attribution couplet are unchanged by the swap. This is the
 substrate-agnostic governance property of
-[00058 §4.1](00058-Claw.md#41-substrate-agnostic-governance) in
+[00058 §4.1](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance) in
 operational form.
 
 ---
 
 ## 6. Relationship to other programme commitments
 
-- **Claw vocabulary** ([00058](00058-Claw.md)) defines the
+- **Claw vocabulary** ([00058](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)) defines the
   governed channel that a provider on this list powers, names the
   brands of ExternalClaw (MyClaw, AgentClaw) that consume
   providers directly, and names the PairedClaw bond by which a
   Claw inside a Solution consumes providers under the Solution's
   governance.
-- **Modality-agnostic governance** ([00058 §4](00058-Claw.md#4-modality-agnostic-governance))
+- **Modality-agnostic governance** ([00058 §4](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#4-modality-agnostic-governance))
   and **substrate-agnostic governance**
-  ([00058 §4.1](00058-Claw.md#41-substrate-agnostic-governance))
+  ([00058 §4.1](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance))
   are the architectural commitments that let this list evolve
   without renegotiating governance. New providers added to the
   list join the same governance envelope as the existing ones.

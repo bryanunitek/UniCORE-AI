@@ -13,7 +13,7 @@ Status: Public. Given, not sold. Irrevocable.
 
 ## 1. Purpose
 
-[00058 Claw](00058-Claw.md) names PairedClaw as the structural bond between an ExternalClaw and a UniCORE Solution. The bond is described there at the vocabulary level. This document specifies the bond's **runtime mechanism** — what the bond is as a file, how it is written, what session-opening protocol the Solution runs against the paired Claw, and what badge signals that the bond is operative.
+[00058 Claw](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md) names PairedClaw as the structural bond between an ExternalClaw and a UniCORE Solution. The bond is described there at the vocabulary level. This document specifies the bond's **runtime mechanism** — what the bond is as a file, how it is written, what session-opening protocol the Solution runs against the paired Claw, and what badge signals that the bond is operative.
 
 The mechanism is not transport-encryption. The connection between the Solution and the Claw is already encrypted by the API substrate (TLS plus API-key authentication on every supported provider in [00060 Supported AI Provider List](00060-Supported-AI-Provider-List.md), and equivalent local encryption on a MyClaw deployment). Adding another encryption layer at the bond would be redundant and misdirected.
 
@@ -241,8 +241,8 @@ This document specifies the bond mechanism and the session-opening protocol. The
 
 - [TrueAI/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) — the truth contract and (at v1) the sole entry in the Foundation requirements corpus that Step 2 of the opening protocol delivers.
 - [UniCORE-AI/levels/v1/](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels/v1) — the per-Level corpus that Step 3 of the opening protocol delivers.
-- [UniVERSE/programme-corpus/v1/](../programme-corpus/v1/) — the programme-level corpus that Solutions embed.
-- [00058 Claw](00058-Claw.md) — the vocabulary (Claw, ExternalClaw, PairedClaw, UniCORE.Law-Claw) and the conceptual definition of PairedClaw.
+- [UniVERSE/programme-corpus/v1/](https://github.com/bryanunitek/UniVERSE/tree/main/programme-corpus/v1) — the programme-level corpus that Solutions embed.
+- [00058 Claw](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md) — the vocabulary (Claw, ExternalClaw, PairedClaw, UniCORE.Law-Claw) and the conceptual definition of PairedClaw.
 - [00060 Supported AI Provider List](00060-Supported-AI-Provider-List.md) — the 12 provider families whose AgentClaws can be paired.
 - [00062 Pairing Failure Ladder, PAUSE Mode And EMERGENCY](00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) — what happens when bonds fail repeatedly.
 - [10001 Singular Pairing Principle](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md) — the rule that PairedClaw bonds are singular per workstream.

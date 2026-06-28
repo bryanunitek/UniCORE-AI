@@ -45,8 +45,8 @@ The Solution includes the architecture, the implementation, the reference artefa
 
 The completed Solution must pass TrueAI certification. Certification means demonstrable conformance to:
 
-- the Nine Invariants (see [`00056-Absolute-Safety-Invariants.md`](00056-Absolute-Safety-Invariants.md))
-- the Gift Principle (see [`00028-TrueAI-Foundation-Gift-Principle.md`](00028-TrueAI-Foundation-Gift-Principle.md))
+- the Nine Invariants (see [`00056-Absolute-Safety-Invariants.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md))
+- the Gift Principle (see [`00028-TrueAI-Foundation-Gift-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md))
 - the Singular Pairing Principle for the Solution's own production history
 
 Certification is a property of the Solution artefact. It attaches to the code, the architecture, and the operational artefacts of a specific versioned UniCORE Solution. It is not a property of the organisation producing the Solution, nor of any particular deployment of it.
