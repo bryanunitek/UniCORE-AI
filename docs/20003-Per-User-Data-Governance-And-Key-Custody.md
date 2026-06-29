@@ -160,6 +160,35 @@ Owning the HSM is about **where the root of trust sits**, not **who can read.** 
 
 > **D63 honesty note:** This is **architecture and intent, not shipped software.** The design is complete; implementation requires hardware HSM provisioning, enclave runtime certification, key ceremony design, and a full security audit. The residual root of trust — whoever certifies the enclave code — is acknowledged and must be minimized and made auditable, never fully eliminated.
 
+### Enforcement seam landed (2026-06-29)
+
+The doctrine is now backed by a code-level enforcement seam in the IIC
+abstractions (Law + SaaS-Law, byte-identical):
+
+- **`AiComplianceDataProtectionContracts.cs`** — closed-type model of the rule:
+  `AiComplianceAccessPurpose` (only `AiRegulatoryCompliance` and
+  `RecognizedCourtOrder` — no management/ranking/retention member exists),
+  `QuorumTier`, `QuorumRole` (incl. `TenantManagement` named *only so it can be
+  refused*), `EnclaveAttestation`, and the `PerPersonKey*` lifecycle records.
+- **`IAiComplianceDataProtector.cs`** — the two-path seam: attestation-gated
+  governed-AI key release (machine path, no human plaintext) and the
+  three-tier human-facing quorum. Fails closed.
+- **`InMemoryAiComplianceDataProtector.cs`** — the real, testable rule logic:
+  MANIFEST.json-SHA-256 + HardOn-floor (Level-1-always) attestation gate;
+  §5 three-tier quorum with the cross-jurisdiction court-order rule;
+  retain-then-crypto-shred lifecycle that refuses early destruction and
+  preserves the 1U1C User record.
+- **`NullAiComplianceDataProtector.cs`** — fails-closed sentinel (refuses every
+  release; mandatory justification) — absence of protection is a traceable fact.
+- **`AiComplianceDataProtectorTests.cs`** — 24 xUnit facts covering grant +
+  every refusal path. (D63: static-sanity-passed here — brace/paren balance,
+  namespaces; `dotnet` facts-pass deferred to the VS rebuild, no SDK on the
+  authoring harness.)
+
+The enclave/HSM hardware still sits beneath these seams; the seams make the
+rule expressible, checkable, and refusable in code today, with the
+badge/floor/key-release single-root-of-trust wired structurally.
+
 ---
 
 ## Cross-References
