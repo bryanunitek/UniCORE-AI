@@ -122,8 +122,8 @@ The only legitimate times raw per-user data may be decrypted — ever — are:
 ### Tier 2: Break-Glass / Last Resort
 
 **When:** Tier 1 cannot form — the tenant's L12 Governor is unavailable (ill, deceased, firm collapsed, compromised), or a regulator compels access and the tenant will not or cannot cooperate.
-**Who:** UniCORE key-escrow share + Regulator/Auditor credential
-**UniCORE role:** Last resort only. UniCORE can never decrypt alone.
+**Who:** UniCORE M-of-N key-escrow share (at least M of N custodian shares presented) + Regulator/Auditor credential
+**UniCORE role:** Last resort only. UniCORE can never decrypt alone — its escrow contribution is a genuine M-of-N Shamir-style secret split. A role flag is not sufficient; at least the required threshold of distinct, valid shares of the same secret must be presented. No single custodian, and no single share, can reconstruct UniCORE's leg.
 **Consequence:** If neither UniCORE operations nor a Regulator can be reached — data is **undecryptable.** This is the cost of the guarantee. It is chosen consciously.
 **This is not a flaw. It is the point.**
 
