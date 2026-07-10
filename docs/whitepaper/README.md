@@ -45,3 +45,13 @@ This is v1.0 (May 2026). Revisions are tracked in Appendix E of the whitepaper i
 
 - Public discussion: https://github.com/bryanunitek/UniCORE-AI/discussions
 - Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
+
+---
+
+## Document history
+
+- 2026-05-12 (b379dfc) — docs(whitepaper): UniCORE AI v1.0 — 12-Level Governance Architecture
+- 2026-05-12 (bfeede4) — docs: rename UniCORE-Claw to UniCORE in public references
+- 2026-05-12 (b54eb89) — docs: remove dead links to private UniCORE repository
+
+*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*
