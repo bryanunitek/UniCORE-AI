@@ -24,3 +24,11 @@ This file lists every document in the `developer-doctrine/v1/` folder, with a on
 ## Version
 
 `v1` — initial version.
+
+---
+
+## Document history
+
+- 2026-06-12 (884a62d) — doc(developer-doctrine/v1): anchor v1 — role-specific doctrine for UniCORE-AI developer Claws
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

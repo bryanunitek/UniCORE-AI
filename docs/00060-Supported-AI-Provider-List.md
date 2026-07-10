@@ -301,3 +301,15 @@ a family are recorded only in git history.
 ---
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
+
+---
+
+## Document history
+
+- 2026-05-16 (964e4d5) — docs(00060): mirror — Supported AI Provider List
+- 2026-05-22 (22bf000) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
+- 2026-05-22 (482557a) — docs: complete version-marker sweep across public corpus
+- 2026-06-13 (8e47177) — docs: add ?via=bryan affiliate parameter to MyClaw managed-platform link
+- 2026-06-28 (e457263) — fix(docs): repair broken cross-repo links (integrity check 2026-06-28)
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

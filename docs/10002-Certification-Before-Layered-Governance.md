@@ -130,3 +130,13 @@ The gate exists because the Foundation is the floor. No layered governance is ap
 ---
 
 *End of document.*
+
+---
+
+## Document history
+
+- 2026-05-13 (2b462a2) — docs: adopt 10001 and 10002 as mirrors of TrueAI canonical
+- 2026-05-13 (1cfdf21) — docs: propagate UniVERSE Path-1 style pass to UniCORE-AI mirrors
+- 2026-06-28 (e457263) — fix(docs): repair broken cross-repo links (integrity check 2026-06-28)
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

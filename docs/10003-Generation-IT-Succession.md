@@ -122,3 +122,12 @@ It does **not** apply to:
 | Does not apply to | Personal-assistant use, ordinary development, per-level governance authoring |
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom, May 2026.
+
+---
+
+## Document history
+
+- 2026-05-13 (7251c06) — docs(10003): mirror Generation IT Succession from TrueAI master
+- 2026-05-22 (482557a) — docs: complete version-marker sweep across public corpus
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

@@ -22,3 +22,16 @@ The body has been shrunk to this pointer, deliberately, to eliminate the three-w
 Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom.
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — given, not sold, irrevocable.
 Version of pointer: 1.5 — June 2026 (matches canonical version on TrueAI).
+
+---
+
+## Document history
+
+- 2026-05-13 (2b462a2) — docs: adopt 10001 and 10002 as mirrors of TrueAI canonical
+- 2026-05-13 (1cfdf21) — docs: propagate UniVERSE Path-1 style pass to UniCORE-AI mirrors
+- 2026-05-13 (7251c06) — docs(10003): mirror Generation IT Succession from TrueAI master
+- 2026-06-14 (d08fe6b) — docs(singular-pairing): shrink to pointer; canonical home is TrueAI
+- 2026-06-16 (2a5f32a) — docs(singular-pairing): bump pointer version 1.1 → 1.4 to match canonical
+- 2026-06-16 (c05f5d1) — docs(singular-pairing): bump pointer version 1.4 → 1.5 to match canonical
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

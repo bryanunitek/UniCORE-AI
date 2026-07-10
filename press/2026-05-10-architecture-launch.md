@@ -45,3 +45,14 @@ All three are released under CC BY 4.0 and carry the durable footer *Powered by 
 - Private contact / connection request: https://www.linkedin.com/in/bryan-fred-02209753/
 
 **Licence.** CC BY 4.0. Reproduce, translate, and adapt with attribution.
+
+---
+
+## Document history
+
+- 2026-05-11 (25dce16) — press: 2026-05-10 UniCORE AI architecture launch release
+- 2026-05-11 (5e3788f) — docs: add DISCUSSIONS.md + publish 12 mirror domains
+- 2026-05-11 (18fb3b0) — press: correct author biography — legal sector only + architecture applies anywhere
+- 2026-05-12 (d3ec95f) — press: replace pull-quote with attributed harmony quote
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

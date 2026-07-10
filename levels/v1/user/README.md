@@ -19,3 +19,11 @@ A bond file pairing at User scope but without a named role is bonded against the
 **Structural placeholder.** The User-scope role taxonomy is curated in subsequent commits, separately from the initial folder structure. The set of roles is defined by the operator-facing realities of deployed Solutions, not invented in advance.
 
 See [`../README.md`](../README.md) for the `levels/v1/` versioning discipline.
+
+---
+
+## Document history
+
+- 2026-05-16 (f70ee01) — levels/v1: per-Level corpus structure; mirror 00061+00062 from UniVERSE
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

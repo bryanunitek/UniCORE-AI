@@ -196,3 +196,12 @@ It does not apply to:
 The window is working memory. The substrate is the system of record. Compaction is what keeps them in their proper places.
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom, May 2026.
+
+---
+
+## Document history
+
+- 2026-05-15 (bd0422b) — docs: add 20002 — Compaction and Durable Continuity
+- 2026-05-22 (482557a) — docs: complete version-marker sweep across public corpus
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

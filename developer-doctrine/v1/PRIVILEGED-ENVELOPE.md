@@ -90,3 +90,11 @@ The Claw earns privileged envelope through consistent truth-posture operation. T
 - TrueAI [`workspace-doctrine/v1/STANDARD-ENVELOPE.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md) — the base standard envelope this is privileged above
 - TrueAI [`docs/10001-Singular-Pairing-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md) — the pair structure under which this envelope operates
 - UniVERSE [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) — the pairing protocol
+
+---
+
+## Document history
+
+- 2026-06-12 (884a62d) — doc(developer-doctrine/v1): anchor v1 — role-specific doctrine for UniCORE-AI developer Claws
+
+*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*
