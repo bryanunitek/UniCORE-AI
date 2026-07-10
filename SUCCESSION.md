@@ -93,3 +93,13 @@ Revisions to this document, including the eventual recording of a named successo
 ---
 
 *Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom, May 2026.*
+
+---
+
+## Document history
+
+- 2026-05-13 (d179d0c) — docs: mirror SUCCESSION.md from UniVERSE master
+- 2026-05-13 (c17bf85) — docs: link the §8 reference in SUCCESSION.md row
+- 2026-05-22 (22bf000) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
+
+*Back-filled from git log on 2026-07-10 21:33 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

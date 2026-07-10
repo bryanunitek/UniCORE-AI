@@ -425,3 +425,15 @@ Future revisions will be recorded here. The canonical version of the UniCORE AI 
 ---
 
 *End of document.*
+
+---
+
+## Document history
+
+- 2026-05-12 (b379dfc) — docs(whitepaper): UniCORE AI v1.0 — 12-Level Governance Architecture
+- 2026-05-12 (a83b245) — docs: add AI authorship truth statement
+- 2026-05-12 (bfeede4) — docs: rename UniCORE-Claw to UniCORE in public references
+- 2026-05-12 (b54eb89) — docs: remove dead links to private UniCORE repository
+- 2026-05-13 (0d5508c) — docs: rename all 20 docs to 5-digit numeric codes, drop letter codes
+
+*Back-filled from git log on 2026-07-10 21:33 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*
