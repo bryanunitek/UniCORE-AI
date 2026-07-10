@@ -174,13 +174,3 @@ This policy may be updated. Updates apply prospectively. Past uses that complied
 ## 10. Contact
 
 For questions or requests for written authority, contact Unitek Systems Limited via the repository issue tracker on the canonical repositories.
-
----
-
-## Document history
-
-- 2026-05-17 (e928cfb) — Align licence-companion docs with CC BY 4.0; add Brand and Trademark Use Policy
-- 2026-05-21 (7479836) — policy: §4.5 badge-denial-on-military + §8 two-mechanism structure
-- 2026-05-22 (482557a) — docs: complete version-marker sweep across public corpus
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

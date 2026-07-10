@@ -123,18 +123,3 @@ THIS MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPL
 
 *Powered by UniCORE AI.*
 *Built on the TrueAI Foundation.*
-
----
-
-## Document history
-
-- 2026-05-08 (74cee22) — Add LICENSE.md — CC BY 4.0, Gift Principle, TrueAI invariants
-- 2026-05-11 (43150c7) — docs: route all contact through GitHub Discussions
-- 2026-05-11 (aed985b) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
-- 2026-05-13 (3dc701c) — invariant: align FFS/LICENSE with canonical Nine Invariants
-- 2026-05-14 (93510bf) — license: propagate monopoly clause + conditional exemption from UniVERSE
-- 2026-05-14 (09b5183) — license: propagate apprenticeships programme commitment from UniVERSE
-- 2026-05-14 (f813e5e) — license: propagate paid-and-liveable wage rule for apprenticeships from UniVERSE
-- 2026-05-14 (ba600b9) — license: anchor appeals-process cross-link to CERTIFIED-EXPERTS §4.3
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

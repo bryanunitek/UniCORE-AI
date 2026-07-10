@@ -26,11 +26,3 @@ This matches the same versioning discipline used by [TrueAI/foundation-requireme
 Each Level folder (`level-01/` through `level-12/`, plus `user/`) holds the markdown files that define **what an agent operating at that Level is**. The discipline is **no more and no less than what makes that Level what it is meant to be** — content that applies to every Level belongs in cross-Level material referenced from inside each Level's folder, not duplicated.
 
 Today these folders are **structural placeholders**. They will be populated as the per-Level definitions are written. Each folder contains a `README.md` seeding the folder; substantive per-Level content lands in subsequent commits.
-
----
-
-## Document history
-
-- 2026-05-16 (f70ee01) — levels/v1: per-Level corpus structure; mirror 00061+00062 from UniVERSE
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

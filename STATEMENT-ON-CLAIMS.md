@@ -123,15 +123,3 @@ The author reserves the right to issue public corrections, to request that the c
 UniCORE AI is the 12-level reference architecture that implements the TrueAI Foundation. It is grounded in a simple truth model: AI claims must resolve to TRUE, FALSE, or UNVERIFIED. It is not a product. It is not a platform. It is not for sale. It is given, not sold. A gift to humanity for the next century of AI.
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-
----
-
-## Document history
-
-- 2026-05-13 (23e2e55) — governance: add STATEMENT-ON-CLAIMS.md
-- 2026-05-13 (9418c50) — docs(STATEMENT-ON-CLAIMS): add first-use / prior-use scope section
-- 2026-05-16 (d27f4b0) — fix(claims): remove contradictory commercial-licensing line
-- 2026-05-17 (e928cfb) — Align licence-companion docs with CC BY 4.0; add Brand and Trademark Use Policy
-- 2026-05-21 (c3d1228) — docs: add Military-is-intentionally-absent section to STATEMENT-ON-CLAIMS (Sanity Check #002 F4)
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

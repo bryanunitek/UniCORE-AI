@@ -320,21 +320,3 @@ But the operational layer — the one that actually touches Bryan's repositories
 ---
 
 *This section was written by the AI system assisting this programme and is published under the sole authority of Bryan Fred.*
-
----
-
-## Document history
-
-- 2026-05-08 (cdaafe6) — Initial commit: UniCORE AI 12-Level Governance Architecture (20 docs + Full Formal Statement)
-- 2026-05-08 (12f702a) — Clarify Multi-Level vs 12-Level: UniCORE is one example, conformance floor is 4+
-- 2026-05-09 (6c99f28) — Append founding statement: Why these repositories exist
-- 2026-05-11 (aed985b) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
-- 2026-05-11 (7890bcb) — docs: full formal byline — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-- 2026-05-12 (a83b245) — docs: add AI authorship truth statement
-- 2026-05-13 (3dc701c) — invariant: align FFS/LICENSE with canonical Nine Invariants
-- 2026-05-14 (0fd3c4c) — docs: add LANDSCAPE.md (mirror) — AI governance landscape comparison
-- 2026-05-19 (884dfdd) — docs(licence): remove residual "non-commercial" surface noise (Option B sweep)
-- 2026-05-22 (22bf000) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
-- 2026-05-22 (482557a) — docs: complete version-marker sweep across public corpus
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

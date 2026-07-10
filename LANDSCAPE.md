@@ -172,12 +172,3 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 **This is a gift. Public. Not for sale. Irrevocable. There is no negotiation.** Anything else would be false, and falsehood cannot build what this is for.
 
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-
----
-
-## Document history
-
-- 2026-05-14 (0fd3c4c) — docs: add LANDSCAPE.md (mirror) — AI governance landscape comparison
-- 2026-05-22 (482557a) — docs: complete version-marker sweep across public corpus
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

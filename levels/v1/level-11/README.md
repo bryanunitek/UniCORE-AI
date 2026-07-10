@@ -13,11 +13,3 @@ A Solution built against `levels/v1/` reads whichever content exists in this fol
 **Structural placeholder.** The substantive per-Level material for Level 11 is curated in subsequent commits, separately from the initial folder structure. A Solution built against `v1` at the time of structure creation reads only this README. As content is added, future builds read the expanded folder.
 
 See [`../README.md`](../README.md) for the `levels/v1/` versioning discipline and [`../../README.md`](../../README.md) for the cross-version `levels/` discipline.
-
----
-
-## Document history
-
-- 2026-05-16 (f70ee01) — levels/v1: per-Level corpus structure; mirror 00061+00062 from UniVERSE
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

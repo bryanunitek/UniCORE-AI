@@ -24,12 +24,3 @@ The *content* of each Level folder is curated incrementally. The Foundation rule
 When the per-Level corpus refines materially enough to warrant a `v2`, the rule is the same as in [`foundation-requirements/`](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements): publish `v2` alongside `v1`, leave `v1` frozen.
 
 See the parent [`README.md`](../README.md) for the versioning discipline.
-
----
-
-## Document history
-
-- 2026-05-16 (f70ee01) — levels/v1: per-Level corpus structure; mirror 00061+00062 from UniVERSE
-- 2026-05-22 (22bf000) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

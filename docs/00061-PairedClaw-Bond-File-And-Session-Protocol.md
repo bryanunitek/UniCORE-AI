@@ -249,15 +249,3 @@ This document specifies the bond mechanism and the session-opening protocol. The
 - [10004 Reversibility](https://github.com/bryanunitek/TrueAI/blob/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md) — the rule that lets a verified `TRUE` be demoted back to `UNVERIFIED`, applied here to the bond itself.
 
 Revisions to this document are recorded in git history per the [HORIZON.md versioning discipline](../HORIZON.md#versioning-is-not-yet-enabled). The `Version: 1.0` line is a programme-document placeholder. Read changes from the git log.
-
----
-
-## Document history
-
-- 2026-05-16 (f70ee01) — levels/v1: per-Level corpus structure; mirror 00061+00062 from UniVERSE
-- 2026-05-16 (ed52774) — docs(00061): mirror sync -- Step 2 two-part (truth contract verbatim, then Foundation requirements corpus)
-- 2026-05-22 (22bf000) — fix(public-corpus): repository enumerations updated 3 -> 5 (Foundation triad + gift-layer extension)
-- 2026-05-22 (482557a) — docs: complete version-marker sweep across public corpus
-- 2026-06-28 (e457263) — fix(docs): repair broken cross-repo links (integrity check 2026-06-28)
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

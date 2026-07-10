@@ -26,11 +26,3 @@ activity is recorded once, at the programme level, in UniVERSE.
   required from any recipient.
 - Entries in OUTREACH record **the fact of the offer**, not any private
   content a recipient may have sent back.
-
----
-
-## Document history
-
-- 2026-05-10 (a238bf1) — OUTREACH: pointer to canonical record in UniVERSE
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

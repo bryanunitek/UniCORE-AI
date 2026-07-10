@@ -426,17 +426,3 @@ certified
 governancealigned
 
 humans.
-
----
-
-## Document history
-
-- 2026-05-08 (cdaafe6) — Initial commit: UniCORE AI 12-Level Governance Architecture (20 docs + Full Formal Statement)
-- 2026-05-10 (778ed47) — docs: housekeeping — add numbered V/W/X, remove stray copies, clone licence framework
-- 2026-05-11 (aed985b) — docs: add LinkedIn for private contact + normalise byline to Bryan Fred
-- 2026-05-11 (7890bcb) — docs: full formal byline — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
-- 2026-05-13 (0d5508c) — docs: rename all 20 docs to 5-digit numeric codes, drop letter codes
-- 2026-05-13 (1cfdf21) — docs: propagate UniVERSE Path-1 style pass to UniCORE-AI mirrors
-- 2026-05-22 (482557a) — docs: complete version-marker sweep across public corpus
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

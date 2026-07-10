@@ -13,11 +13,3 @@ A UniCORE-AI developer Claw builds, extends, and maintains the UniCORE reference
 ---
 
 ## What makes UniCORE-AI development different from standard
-
----
-
-## Document history
-
-- 2026-06-12 (884a62d) — doc(developer-doctrine/v1): anchor v1 — role-specific doctrine for UniCORE-AI developer Claws
-
-*Back-filled from git log on 2026-07-10 21:35 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*

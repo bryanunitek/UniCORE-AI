@@ -20,11 +20,3 @@ Read the full doctrine at the canonical link above.
 
 CC BY 4.0 — given, not sold, irrevocable.
 — Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom.
-
----
-
-## Document history
-
-- 2026-06-15 (7a97732) — docs: THE-INCONSISTENCY-PROBLEM.md — pointer to TrueAI canonical
-
-*Back-filled from git log on 2026-07-10 21:34 UTC. Kind 2 versioning (dated change notes) — see HORIZON.md § Evolution and versioning. Kind 1 (formal `Version:` bumps) remains OFF until first GitHub Discussion.*
