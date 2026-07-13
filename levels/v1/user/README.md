@@ -10,7 +10,7 @@ This folder is the home for the markdown content that defines **what a User-scop
 
 Unlike Levels 01-12, where a Level is a single scope with a single corpus, the **User scope may carry multiple distinct roles** depending on how the bonded Solution uses its User-scope agents. Examples might include direct end-user assistance, a customer-service-facing role, a research-assistant role, a procedural-help role, and so on.
 
-Each role, once defined, gets its own markdown file in this folder. The bond file (written by UNICOREMASTER per [UniVERSE 00061](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)) names the User role when bonding at User scope, and the matching role file is delivered to the paired Claw at session-opening time.
+Each role, once defined, gets its own markdown file in this folder. The bond file (written by UNICOREMASTER per [UniVERSE 00061](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md))) names the User role when bonding at User scope, and the matching role file is delivered to the paired Claw at session-opening time.
 
 A bond file pairing at User scope but without a named role is bonded against the default User content (this README, plus any cross-role material in this folder).
 

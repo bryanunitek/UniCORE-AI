@@ -1,6 +1,6 @@
 # Singular Pairing Principle
 
-> **Canonical home (source of truth):** [`bryanunitek/TrueAI` — `docs/10001-Singular-Pairing-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)
+> **Canonical home (source of truth):** [`bryanunitek/TrueAI` — `docs/10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))
 
 This file is a short pointer. The full Singular Pairing Principle — including the rule, the workstream-expansion-with-Project-Level mechanics, Patterns 1 and 2, the Generation IT producer qualification, the recommendation-and-variants policy, and the relationship to the Inconsistency Problem (third pillar of Institutional AI doctrine) — lives at the canonical TrueAI location.
 

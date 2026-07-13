@@ -10,7 +10,7 @@ First published: 2026-05-13
 
 This statement defines how the **UniCORE AI** name and the **TrueAI** name may and may not be used in public, and sets binding rules for the UniCORE AI GitHub Discussions space.
 
-The canonical statement for TrueAI-specific classification and claims is published in the TrueAI repository at [`STATEMENT-ON-CLAIMS.md`](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md). This file extends the same rules to the UniCORE AI reference architecture.
+The canonical statement for TrueAI-specific classification and claims is published in the TrueAI repository at [`STATEMENT-ON-CLAIMS.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/STATEMENT-ON-CLAIMS.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/STATEMENT-ON-CLAIMS.md)). This file extends the same rules to the UniCORE AI reference architecture.
 
 ## What UniCORE AI is
 
@@ -44,7 +44,7 @@ It does not:
 - claim retroactive authority over earlier or unrelated uses of "UniCORE", "UniCORE AI", "TrueAI", "True AI", or similar terms by other parties;
 - substitute for the trademark registration and prior-use review that Unitek Systems Limited is conducting separately.
 
-Where this statement refers to **UniCORE AI** or **TrueAI**, it means the architecture and Foundation as published by Unitek Systems Limited from May 2026 — the work in this repository and its sibling repositories [UniVERSE](https://github.com/bryanunitek/UniVERSE) and [TrueAI](https://github.com/bryanunitek/TrueAI). It does not by itself extend over uses of similar names that pre-date that publication or that operate in unrelated classes.
+Where this statement refers to **UniCORE AI** or **TrueAI**, it means the architecture and Foundation as published by Unitek Systems Limited from May 2026 — the work in this repository and its sibling repositories [UniVERSE](https://git.unitek-systems.com/UniCORE/UniVERSE) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE)) and [TrueAI](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)). It does not by itself extend over uses of similar names that pre-date that publication or that operate in unrelated classes.
 
 The binding rules in the sections below apply to that scope.
 

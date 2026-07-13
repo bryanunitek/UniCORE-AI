@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00023-Training-Certification-Framework.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md)
+> **Canonical home:** [UniVERSE — `docs/00023-Training-Certification-Framework.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00023-Training-Certification-Framework.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # UniCORE AI Training & Certification Framework

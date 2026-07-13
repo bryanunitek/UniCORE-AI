@@ -2,17 +2,17 @@
 
 **Role-specific doctrine for Claws working on UniCORE-AI verticals.**
 
-This folder contains the developer-role doctrine layer for Claws paired into UniCORE-AI — the reference architecture for the UniCORE Enterprise Solution. It is read on top of the TrueAI portable workspace doctrine ([`bryanunitek/TrueAI` `workspace-doctrine/v1/`](https://github.com/bryanunitek/TrueAI/tree/main/workspace-doctrine/v1)) and below the Claw's local instance binding.
+This folder contains the developer-role doctrine layer for Claws paired into UniCORE-AI — the reference architecture for the UniCORE Enterprise Solution. It is read on top of the TrueAI portable workspace doctrine ([`bryanunitek/TrueAI` `workspace-doctrine/v1/`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/tree/main/workspace-doctrine/v1))) and below the Claw's local instance binding.
 
 ---
 
 ## Read order at session-opening
 
-1. TrueAI [`workspace-doctrine/v1/FOUNDATION.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/FOUNDATION.md) — Foundation governs first
-2. TrueAI [`workspace-doctrine/v1/SOUL.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/SOUL.md) — portable disposition
+1. TrueAI [`workspace-doctrine/v1/FOUNDATION.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/FOUNDATION.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/FOUNDATION.md)) — Foundation governs first
+2. TrueAI [`workspace-doctrine/v1/SOUL.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/SOUL.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/SOUL.md)) — portable disposition
 3. **This folder** — UniCORE-AI role-specific specialisation
-4. TrueAI [`workspace-doctrine/v1/IDENTITY.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/IDENTITY.md) — local Claw identity
-5. TrueAI [`workspace-doctrine/v1/USER.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/USER.md) — local human authority binding
+4. TrueAI [`workspace-doctrine/v1/IDENTITY.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/IDENTITY.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/IDENTITY.md)) — local Claw identity
+5. TrueAI [`workspace-doctrine/v1/USER.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/USER.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/USER.md)) — local human authority binding
 6. Local workspace files (`AGENTS.md`, `MEMORY.md`, `TOOLS.md`, `HEARTBEAT.md`) — instance state
 
 ---
@@ -56,6 +56,6 @@ This folder is maintained by Team UniCORE. Changes are committed to `bryanunitek
 
 ## Cross-references
 
-- TrueAI [`workspace-doctrine/v1/`](https://github.com/bryanunitek/TrueAI/tree/main/workspace-doctrine/v1) — portable foundation and disposition
-- TrueAI [`foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md`](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) — the truth contract
-- UniVERSE [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) — pairing protocol
+- TrueAI [`workspace-doctrine/v1/`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/tree/main/workspace-doctrine/v1)) — portable foundation and disposition
+- TrueAI [`foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md)) — the truth contract
+- UniVERSE [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)) — pairing protocol

@@ -11,13 +11,13 @@ activity is recorded once, at the programme level, in UniVERSE.
 
 **UniVERSE → OUTREACH/**
 
-- https://github.com/bryanunitek/UniVERSE/tree/main/OUTREACH
+- https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/OUTREACH (mirror: https://github.com/bryanunitek/UniVERSE/tree/main/OUTREACH)
 
 ## Index of recorded events
 
 | Date | Event | Link |
 |------|-------|------|
-| 2026-05-10 | Founding notice — formal offer to 12 major AI organisations | https://github.com/bryanunitek/UniVERSE/tree/main/OUTREACH/2026-05-10-founding-notice |
+| 2026-05-10 | Founding notice — formal offer to 12 major AI organisations | https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/OUTREACH/2026-05-10-founding-notice (mirror: https://github.com/bryanunitek/UniVERSE/tree/main/OUTREACH/2026-05-10-founding-notice) |
 
 ## Policy
 

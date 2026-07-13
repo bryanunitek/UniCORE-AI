@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00020-Compliance-Regulatory-Mapping.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00020-Compliance-Regulatory-Mapping.md)
+> **Canonical home:** [UniVERSE — `docs/00020-Compliance-Regulatory-Mapping.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00020-Compliance-Regulatory-Mapping.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00020-Compliance-Regulatory-Mapping.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # UniCORE AI Compliance & Regulatory Mapping

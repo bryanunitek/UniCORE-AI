@@ -66,5 +66,5 @@ The apprenticeship model is the mechanism for expanding that pool. Each independ
 ## Cross-references
 
 - UniCORE-AI [`developer-doctrine/v1/VERTICAL-ENTRY.md`](VERTICAL-ENTRY.md) — how a new vertical enters the reference architecture
-- TrueAI [`workspace-doctrine/v1/FOUNDATION.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/FOUNDATION.md) — the Foundation layer
-- UniVERSE [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) — the pairing protocol
+- TrueAI [`workspace-doctrine/v1/FOUNDATION.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/FOUNDATION.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/FOUNDATION.md)) — the Foundation layer
+- UniVERSE [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)) — the pairing protocol

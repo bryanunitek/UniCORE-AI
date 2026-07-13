@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `LANDSCAPE.md`](https://github.com/bryanunitek/UniVERSE/blob/main/LANDSCAPE.md)
+> **Canonical home:** [UniVERSE — `LANDSCAPE.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/LANDSCAPE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/LANDSCAPE.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # LANDSCAPE
@@ -27,9 +27,9 @@ The programme has three layers. A comparison must be specific about which layer 
 
 | Layer | What it is | Question it answers | Repository |
 |-------|-----------|---------------------|------------|
-| **TrueAI Foundation** | Nine Invariants — the architectural floor an AI system must meet to be governable | What must an AI system *be*? | [`bryanunitek/TrueAI`](https://github.com/bryanunitek/TrueAI) |
-| **UniCORE AI** | 12-level governance stack — one reference implementation of the floor | How can it be *governed*? | [`bryanunitek/UniCORE-AI`](https://github.com/bryanunitek/UniCORE-AI) |
-| **UniVERSE** | Civilisational programme — enterprise, governmental, space mission, long-duration contexts | *Why* does the floor exist? | [`bryanunitek/UniVERSE`](https://github.com/bryanunitek/UniVERSE) |
+| **TrueAI Foundation** | Nine Invariants — the architectural floor an AI system must meet to be governable | What must an AI system *be*? | [`bryanunitek/TrueAI`](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)) |
+| **UniCORE AI** | 12-level governance stack — one reference implementation of the floor | How can it be *governed*? | [`bryanunitek/UniCORE-AI`](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI)) |
+| **UniVERSE** | Civilisational programme — enterprise, governmental, space mission, long-duration contexts | *Why* does the floor exist? | [`bryanunitek/UniVERSE`](https://git.unitek-systems.com/UniCORE/UniVERSE) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE)) |
 
 TrueAI is the foundation. UniCORE AI is one architecture built on it. UniVERSE is the programme that carries both forward. They are published as separate documents, in separate repositories, under separate version control — deliberately. The foundation does not depend on the architecture. The architecture does not depend on the programme. Each layer can be cited, challenged, and built against independently.
 
@@ -49,7 +49,7 @@ The TrueAI Foundation publishes nine invariants as the minimum architectural pro
 8. **Transparency Without Exception.** Every action is logged, every decision is exposable, every record is preserved. Where governance is absent, the system stops, logs, and surfaces the gap rather than inventing a rule to fill it.
 9. **Human Sovereignty as Root.** Humans remain the final authority across every domain and deployment. All other invariants derive from this one.
 
-Canonical source: [TrueAI Foundation v1.0 §3](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md).
+Canonical source: [TrueAI Foundation v1.0 §3](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md)).
 
 Two properties matter for the landscape comparison:
 
@@ -82,7 +82,7 @@ Truth flows **upward** through Levels 1–5. Governance flows **downward** from 
 
 Level 12 is not the top of the stack because humans are more intelligent than the system beneath them. It is the top because **the system must never be above them**.
 
-Canonical source: [UniCORE AI v1.0 §3](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md).
+Canonical source: [UniCORE AI v1.0 §3](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md)).
 
 ---
 
@@ -138,17 +138,17 @@ This document is not a claim that the TrueAI Foundation or UniCORE AI is complet
 
 This document is not a replacement for the whitepapers. The canonical references are:
 
-- [TrueAI Foundation v1.0](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md) — the Nine Invariants
-- [UniCORE AI v1.0](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md) — the 12-level architecture
-- [UniVERSE Governed Intelligence](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md) — the civilisational programme
+- [TrueAI Foundation v1.0](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md)) — the Nine Invariants
+- [UniCORE AI v1.0](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md)) — the 12-level architecture
+- [UniVERSE Governed Intelligence](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md)) — the civilisational programme
 
 ---
 
 ## 8. Sources
 
-- [TrueAI Foundation v1.0](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md) — primary source for the Nine Invariants
-- [UniCORE AI v1.0](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md) — primary source for the 12-level architecture
-- [UniVERSE Governed Intelligence](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md) — primary source for the civilisational programme
+- [TrueAI Foundation v1.0](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md)) — primary source for the Nine Invariants
+- [UniCORE AI v1.0](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md)) — primary source for the 12-level architecture
+- [UniVERSE Governed Intelligence](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md)) — primary source for the civilisational programme
 - [OpenAI Preparedness Framework](https://openai.com/index/preparedness-framework-beta/) — OpenAI's published risk-evaluation and mitigation framework
 - [Anthropic Responsible Scaling Policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy) — Anthropic's published scaling and safety commitments
 - [Google DeepMind Frontier Safety Framework](https://deepmind.google/discover/blog/an-approach-to-technical-agi-safety/) — DeepMind's published approach to frontier model safety

@@ -6,7 +6,7 @@ Published: 2026-05-16
 
 This folder is the home for the markdown content that defines **what a Level 10 agent is** in the UniCORE AI governance model. The discipline is **no more and no less than what makes Level 10 what it is meant to be** — content that applies across multiple Levels lives in cross-Level material referenced from here, not duplicated.
 
-A Solution built against `levels/v1/` reads whichever content exists in this folder at the time of build, and serves it to paired Claws operating at Level 10 at session-opening time, per the protocol in [UniVERSE 00061](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md).
+A Solution built against `levels/v1/` reads whichever content exists in this folder at the time of build, and serves it to paired Claws operating at Level 10 at session-opening time, per the protocol in [UniVERSE 00061](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)).
 
 ## Status
 

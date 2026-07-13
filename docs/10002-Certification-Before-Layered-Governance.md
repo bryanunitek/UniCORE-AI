@@ -1,4 +1,4 @@
-> **Canonical home:** [TrueAI — `docs/10002-Certification-Before-Layered-Governance.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)
+> **Canonical home:** [TrueAI — `docs/10002-Certification-Before-Layered-Governance.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # Certification Before Layered Governance
@@ -45,8 +45,8 @@ The Solution includes the architecture, the implementation, the reference artefa
 
 The completed Solution must pass TrueAI certification. Certification means demonstrable conformance to:
 
-- the Nine Invariants (see [`00056-Absolute-Safety-Invariants.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md))
-- the Gift Principle (see [`00028-TrueAI-Foundation-Gift-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md))
+- the Nine Invariants (see [`00056-Absolute-Safety-Invariants.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00056-Absolute-Safety-Invariants.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md)))
+- the Gift Principle (see [`00028-TrueAI-Foundation-Gift-Principle.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00028-TrueAI-Foundation-Gift-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md)))
 - the Singular Pairing Principle for the Solution's own production history
 
 Certification is a property of the Solution artefact. It attaches to the code, the architecture, and the operational artefacts of a specific versioned UniCORE Solution. It is not a property of the organisation producing the Solution, nor of any particular deployment of it.

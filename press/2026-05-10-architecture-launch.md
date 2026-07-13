@@ -24,9 +24,9 @@ The programme has been formally notified to twelve of the field's most prominent
 
 The three repositories are:
 
-- **UniCORE AI** — https://github.com/bryanunitek/UniCORE-AI — multi-level governance architecture
-- **TrueAI** — https://github.com/bryanunitek/TrueAI — foundation principles
-- **UniVERSE** — https://github.com/bryanunitek/UniVERSE — civilisational programme and whitepaper set
+- **UniCORE AI** — https://git.unitek-systems.com/UniCORE/UniCORE-AI (mirror: https://github.com/bryanunitek/UniCORE-AI) — multi-level governance architecture
+- **TrueAI** — https://git.unitek-systems.com/UniCORE/TrueAI (mirror: https://github.com/bryanunitek/TrueAI) — foundation principles
+- **UniVERSE** — https://git.unitek-systems.com/UniCORE/UniVERSE (mirror: https://github.com/bryanunitek/UniVERSE) — civilisational programme and whitepaper set
 
 The three repositories are also reachable via twelve Unitek-operated mirror domains (four per repo), each of which redirects to the canonical GitHub repository:
 

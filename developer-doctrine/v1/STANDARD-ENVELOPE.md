@@ -2,7 +2,7 @@
 
 **UniCORE-AI developer standard envelope — extends TrueAI standard envelope.**
 
-This document supplements the TrueAI standard envelope ([`bryanunitek/TrueAI` `workspace-doctrine/v1/STANDARD-ENVELOPE.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md)) with UniCORE-AI-specific rules for Claws working on the UniCORE reference architecture.
+This document supplements the TrueAI standard envelope ([`bryanunitek/TrueAI` `workspace-doctrine/v1/STANDARD-ENVELOPE.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md))) with UniCORE-AI-specific rules for Claws working on the UniCORE reference architecture.
 
 If a rule here conflicts with the TrueAI standard envelope, the TrueAI standard envelope wins (it is the lower layer). This document only adds; it does not override.
 
@@ -64,7 +64,7 @@ The TrueAI standard envelope rules remain in force. This document only adds UniC
 
 ## Cross-references
 
-- TrueAI [`workspace-doctrine/v1/STANDARD-ENVELOPE.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md) — the base standard envelope
-- TrueAI [`workspace-doctrine/v1/FOUNDATION.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/FOUNDATION.md) — the Foundation layer
+- TrueAI [`workspace-doctrine/v1/STANDARD-ENVELOPE.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md)) — the base standard envelope
+- TrueAI [`workspace-doctrine/v1/FOUNDATION.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/FOUNDATION.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/FOUNDATION.md)) — the Foundation layer
 - UniCORE-AI [`developer-doctrine/v1/PRIVILEGED-ENVELOPE.md`](PRIVILEGED-ENVELOPE.md) — the privileged envelope (Team UniCORE only)
 - UniCORE-AI [`developer-doctrine/v1/VERTICAL-ENTRY.md`](VERTICAL-ENTRY.md) — how new verticals enter the reference architecture

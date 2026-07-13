@@ -4,8 +4,10 @@ author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom
 version: "Version 1.0 - May 2026"
 status: v1.0
 licence: CC BY 4.0
-repo: https://github.com/bryanunitek/UniCORE-AI
-canonical: https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md
+repo: https://git.unitek-systems.com/UniCORE/UniCORE-AI
+repo_mirror: https://github.com/bryanunitek/UniCORE-AI
+canonical: https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/whitepaper/WHITEPAPER.md
+canonical_mirror: https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md
 ---
 
 # UniCORE AI: A 12-Level Governance Architecture for Truth-Anchored, Human-Sovereign Artificial Intelligence
@@ -41,12 +43,12 @@ UniCORE AI is a reference architecture for placing artificial intelligence under
 
 Sections marked **Expected to evolve** are published to invite community debate; they will be refined through that process. Sections marked **Stable** are safe to cite as settled.
 
-**Dependencies:** This document depends on the [TrueAI Foundation v1.0](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md). The Nine Invariants defined there are assumed. UniCORE AI does not restate or weaken them.
+**Dependencies:** This document depends on the [TrueAI Foundation v1.0](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md)). The Nine Invariants defined there are assumed. UniCORE AI does not restate or weaken them.
 
 **Companion documents:**
 
-- [TrueAI Foundation](https://github.com/bryanunitek/TrueAI) - the foundation layer (the *what* an AI system must be)
-- [Governed Intelligence](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md) (UniVERSE) - the civilisational programme (the *why*)
+- [TrueAI Foundation](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)) - the foundation layer (the *what* an AI system must be)
+- [Governed Intelligence](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md)) (UniVERSE) - the civilisational programme (the *why*)
 - This document - the architecture layer (the *how*)
 
 ---
@@ -66,7 +68,7 @@ It is for:
 It is not:
 
 - A product manual (the reference product implementation - UniCORE - is published separately)
-- A complete implementation guide (level-by-level technical detail is published in the `docs/` series of the [UniCORE-AI repository](https://github.com/bryanunitek/UniCORE-AI))
+- A complete implementation guide (level-by-level technical detail is published in the `docs/` series of the [UniCORE-AI repository](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI)))
 - The only valid implementation of the TrueAI Foundation (others are possible; UniCORE AI is the reference)
 - Legal or regulatory advice
 
@@ -273,7 +275,7 @@ Whether four levels or twelve, the invariants are the same.
 
 ## 6. Inter-level messaging
 
-Communication between levels is governed by an inter-level messaging protocol. The protocol is described in full in the [UniCORE AI repository](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00017-Inter-Level-Messaging-Protocol-ILMP.md); the structural properties that matter for governance are summarised here.
+Communication between levels is governed by an inter-level messaging protocol. The protocol is described in full in the [UniCORE AI repository](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00017-Inter-Level-Messaging-Protocol-ILMP.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00017-Inter-Level-Messaging-Protocol-ILMP.md)); the structural properties that matter for governance are summarised here.
 
 **Messages are typed.** Every inter-level message carries a declared type. A Level 5 interpretation message cannot be received by Level 8 as if it were an operations decision.
 
@@ -303,7 +305,7 @@ UniCORE AI is shape-agnostic about deployment topology. The same 12-level logica
 
 **Space mission deployment.** The stack is configured for long-duration, low-bandwidth, high-latency operation. Level 12 may be physically distant from the rest of the stack; the protocol accommodates delayed authority while preserving sovereignty.
 
-Detailed deployment guides for each pattern are published in the [UniCORE-AI repository](https://github.com/bryanunitek/UniCORE-AI).
+Detailed deployment guides for each pattern are published in the [UniCORE-AI repository](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI)).
 
 ---
 
@@ -329,7 +331,7 @@ This section is *expected to evolve* as community responses identify further arc
 
 UniCORE AI is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The licence preserves the document and the right to cite, translate, adapt, and build upon it independently of any future stewardship.
 
-The succession arrangement for UniCORE AI is the same as for the wider programme. It is recorded canonically in the [UniVERSE repository's SUCCESSION.md](https://github.com/bryanunitek/UniVERSE/blob/main/SUCCESSION.md). The standing statement (v1.0) is:
+The succession arrangement for UniCORE AI is the same as for the wider programme. It is recorded canonically in the [UniVERSE repository's SUCCESSION.md](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/SUCCESSION.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/SUCCESSION.md)). The standing statement (v1.0) is:
 
 > In the event the principal author is unable to continue, stewardship devolves to a named successor nominated by Bryan Fred and recorded in the UniVERSE repository. Failing such nomination, to Unitek Systems Limited, which shall designate a successor by public process within 12 months.
 
@@ -357,7 +359,7 @@ This section is the one most expected to evolve, because the response of the com
 
 ## Appendix A - Canonical terminology
 
-The TrueAI Foundation's [Appendix A](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#appendix-a---canonical-terminology) defines the 35 canonical terms used across the programme. UniCORE AI uses those terms as defined there, without redefinition.
+The TrueAI Foundation's [Appendix A](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md#appendix-a---canonical-terminology) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#appendix-a---canonical-terminology)) defines the 35 canonical terms used across the programme. UniCORE AI uses those terms as defined there, without redefinition.
 
 The following architecture-specific terms are introduced by this document:
 
@@ -420,7 +422,7 @@ The author has read the document in full and accepts editorial responsibility fo
 |---|---|---|
 | v1.0 | May 2026 | First publication. Twelve levels stable; sections 6, 7, 8, 10 marked *expected to evolve*. Built on TrueAI Foundation v1.0. |
 
-Future revisions will be recorded here. The canonical version of the UniCORE AI architecture at any time is whichever git tag in the [UniCORE-AI repository](https://github.com/bryanunitek/UniCORE-AI) carries the label `v-current`. Older versions remain accessible through the repository's tag history.
+Future revisions will be recorded here. The canonical version of the UniCORE AI architecture at any time is whichever git tag in the [UniCORE-AI repository](https://git.unitek-systems.com/UniCORE/UniCORE-AI) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI)) carries the label `v-current`. Older versions remain accessible through the repository's tag history.
 
 ---
 

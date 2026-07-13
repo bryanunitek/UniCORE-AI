@@ -10,18 +10,18 @@ The companion press release lives in [`../../press/`](../../press/) as a dated f
 
 ## What this document is
 
-UniCORE AI is a reference architecture for placing artificial intelligence under named human authority through a deterministic vertical stack of governance levels. It is one example implementation of the conformance floor defined by the [TrueAI Foundation](https://github.com/bryanunitek/TrueAI). It is not the only possible implementation; it is the implementation Unitek Systems Limited publishes as a reference.
+UniCORE AI is a reference architecture for placing artificial intelligence under named human authority through a deterministic vertical stack of governance levels. It is one example implementation of the conformance floor defined by the [TrueAI Foundation](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)). It is not the only possible implementation; it is the implementation Unitek Systems Limited publishes as a reference.
 
 The whitepaper specifies the twelve levels, the truth-flow / governance-flow separation, the four-level floor, the inter-level messaging properties, and deployment patterns.
 
 ## Dependencies
 
-This whitepaper depends on the [TrueAI Foundation v1.0](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md). The Nine Invariants defined there are assumed and not restated.
+This whitepaper depends on the [TrueAI Foundation v1.0](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md)). The Nine Invariants defined there are assumed and not restated.
 
 ## Companion documents
 
-- [TrueAI Foundation](https://github.com/bryanunitek/TrueAI) - the foundation layer (the *what*)
-- [Governed Intelligence](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md) (UniVERSE) - the civilisational programme (the *why*)
+- [TrueAI Foundation](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI)) - the foundation layer (the *what*)
+- [Governed Intelligence](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/whitepaper/WHITEPAPER.md)) (UniVERSE) - the civilisational programme (the *why*)
 - This document - the architecture layer (the *how*)
 - UniCORE - the reference product implementation (the *built thing*; private repository)
 

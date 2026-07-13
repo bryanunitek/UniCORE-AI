@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00005-Technical-Architecture-Diagram.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00005-Technical-Architecture-Diagram.md)
+> **Canonical home:** [UniVERSE — `docs/00005-Technical-Architecture-Diagram.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00005-Technical-Architecture-Diagram.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00005-Technical-Architecture-Diagram.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # UniCORE AI Technical Architecture Diagram (Text-Based)

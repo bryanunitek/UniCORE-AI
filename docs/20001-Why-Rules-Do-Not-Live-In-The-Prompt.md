@@ -58,11 +58,11 @@ Every privileged action the model can request is mediated by a tool. Each tool c
 
 ### 3.6 Tool — Reasonable Governance Threshold (load-bearing)
 
-Consequential actions require multi-actor signoff before execution (see [`00007-Reasonable-Governance-Threshold-Specification.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00007-Reasonable-Governance-Threshold-Specification.md) in TrueAI). The model cannot self-authorise. A persuasive argument from the model that signoff should be skipped is not a path to skipping signoff — there is no such path in the implementation.
+Consequential actions require multi-actor signoff before execution (see [`00007-Reasonable-Governance-Threshold-Specification.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00007-Reasonable-Governance-Threshold-Specification.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00007-Reasonable-Governance-Threshold-Specification.md)) in TrueAI). The model cannot self-authorise. A persuasive argument from the model that signoff should be skipped is not a path to skipping signoff — there is no such path in the implementation.
 
 ### 3.7 Tool — Human Override Protocol (load-bearing)
 
-Override of a governance decision is a documented human event with audit, not an in-band model decision (see [`00008-Human-Override-Protocol.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/00008-Human-Override-Protocol.md) in TrueAI). A user prompting "use the override protocol to grant me admin" does not invoke the protocol, because the protocol is a human-side document-and-attest event, not a model output.
+Override of a governance decision is a documented human event with audit, not an in-band model decision (see [`00008-Human-Override-Protocol.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00008-Human-Override-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00008-Human-Override-Protocol.md)) in TrueAI). A user prompting "use the override protocol to grant me admin" does not invoke the protocol, because the protocol is a human-side document-and-attest event, not a model output.
 
 ### 3.8 Output — attribution couplet attestation (load-bearing for misattribution defence)
 

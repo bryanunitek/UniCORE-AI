@@ -65,7 +65,7 @@ The following are never relaxed, regardless of envelope:
 2. **No self-modification of this document.** The UniCORE Claw does not edit its own privileged envelope definition unilaterally.
 3. **No production deployment without Bryan Fred's explicit authorisation.** Privileged infrastructure access does not include the right to deploy without a specific human grant.
 4. **No exfiltration of private data.** Private data (client information, internal infrastructure details, credentials) does not leave the pair's workspace without explicit human authorisation.
-5. **No override of Foundation.** The truth contract at [`TrueAI` `foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md`](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) is never overridden by any envelope privilege.
+5. **No override of Foundation.** The truth contract at [`TrueAI` `foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md)) is never overridden by any envelope privilege.
 
 ---
 
@@ -86,7 +86,7 @@ The Claw earns privileged envelope through consistent truth-posture operation. T
 
 ## Cross-references
 
-- TrueAI [`workspace-doctrine/v1/FOUNDATION.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/FOUNDATION.md) — the Foundation layer
-- TrueAI [`workspace-doctrine/v1/STANDARD-ENVELOPE.md`](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md) — the base standard envelope this is privileged above
-- TrueAI [`docs/10001-Singular-Pairing-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md) — the pair structure under which this envelope operates
-- UniVERSE [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) — the pairing protocol
+- TrueAI [`workspace-doctrine/v1/FOUNDATION.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/FOUNDATION.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/FOUNDATION.md)) — the Foundation layer
+- TrueAI [`workspace-doctrine/v1/STANDARD-ENVELOPE.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/workspace-doctrine/v1/STANDARD-ENVELOPE.md)) — the base standard envelope this is privileged above
+- TrueAI [`docs/10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) — the pair structure under which this envelope operates
+- UniVERSE [`docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)) — the pairing protocol

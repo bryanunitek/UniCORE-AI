@@ -147,7 +147,7 @@ The governed substrate is not bound to any specific model. A Solution begun in 2
 
 A future model with a 100M-token window reads the same governed substrate that today's 1M-token model reads. A future model with a 10K-token window does the same. The governance property does not depend on what fits in the window of the moment; it depends on what is in the durable record.
 
-This is the property that makes 100/1000-year Solution time horizons (see [`HORIZON.md`](https://github.com/bryanunitek/UniCORE-AI/blob/main/HORIZON.md)) achievable. The substrate carries forward across model generations because it was never inside any model in the first place.
+This is the property that makes 100/1000-year Solution time horizons (see [`HORIZON.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/HORIZON.md))) achievable. The substrate carries forward across model generations because it was never inside any model in the first place.
 
 [`10003-Generation-IT-Succession.md`](10003-Generation-IT-Succession.md) names the producer-side property of the same continuity: the human cohort qualified to produce Solutions carries forward across human generations. Compaction is the corresponding system-side property: the substrate the Solutions are governed against carries forward across model generations. Both are required for the time horizon to hold.
 
@@ -168,7 +168,7 @@ This is the property that makes 100/1000-year Solution time horizons (see [`HORI
 
 ## 10. Scope
 
-This document applies to UniCORE AI deployments producing governed outputs — Solutions under [`10001-Singular-Pairing-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md), certified deployments under [`10002-Certification-Before-Layered-Governance.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md), and any system claiming to satisfy the Nine Invariants.
+This document applies to UniCORE AI deployments producing governed outputs — Solutions under [`10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)), certified deployments under [`10002-Certification-Before-Layered-Governance.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)), and any system claiming to satisfy the Nine Invariants.
 
 It does not apply to:
 

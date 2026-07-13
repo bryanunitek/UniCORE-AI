@@ -1,4 +1,4 @@
-> **Canonical home:** [TrueAI — `docs/10005-Tool-Access-And-Certification-Model.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10005-Tool-Access-And-Certification-Model.md)
+> **Canonical home:** [TrueAI — `docs/10005-Tool-Access-And-Certification-Model.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10005-Tool-Access-And-Certification-Model.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10005-Tool-Access-And-Certification-Model.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # Tool Access And Certification Model
@@ -21,7 +21,7 @@ This document defines two structurally distinct gates that govern participation 
 
 The two gates are separate. They have different entry requirements, different purposes, and different populations. Collapsing them into one gate would either exclude qualified producers from the tool or grant certification without produced work. Neither is acceptable.
 
-This document is the single canonical source of truth for both gates. All other documents that reference tool access or certification levels defer to this one. Where earlier documents describe certification in terms that predate this document (for example, [`00059-Solution-Review.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00059-Solution-Review.md) §7.1), this document governs; the earlier documents remain valid for their own scope but do not override the two-gate model defined here.
+This document is the single canonical source of truth for both gates. All other documents that reference tool access or certification levels defer to this one. Where earlier documents describe certification in terms that predate this document (for example, [`00059-Solution-Review.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00059-Solution-Review.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00059-Solution-Review.md)) §7.1), this document governs; the earlier documents remain valid for their own scope but do not override the two-gate model defined here.
 
 ---
 
@@ -33,7 +33,7 @@ No second tool may be created for this purpose. The singularity of the tool is a
 
 1. **Provenance.** Every Foundation-aligned Enterprise Solution produced through UniTEKClaw has a known origin: it was built inside the tool, by a qualified human paired with their AgentClaw, with tool grants declared, granted, and recorded. A second tool would create a second provenance chain with no guarantee of equivalence. One tool means one provenance standard.
 
-2. **Governance surface.** UniTEKClaw implements the PairedClaw Bond File And Session Protocol ([UniVERSE 00061](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)), the Pairing Failure Ladder ([UniVERSE 00062](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md)), the Nine Invariants ([UniVERSE 00056](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00056-Absolute-Safety-Invariants.md)), and the Reasonable Governance Threshold ([TrueAI 00007](https://github.com/bryanunitek/TrueAI/blob/main/docs/00007-Reasonable-Governance-Threshold-Specification.md)). A second tool would have to re-implement all of these faithfully, and there would be no structural way to verify equivalence. One tool means one governance surface.
+2. **Governance surface.** UniTEKClaw implements the PairedClaw Bond File And Session Protocol ([UniVERSE 00061](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md))), the Pairing Failure Ladder ([UniVERSE 00062](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md))), the Nine Invariants ([UniVERSE 00056](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00056-Absolute-Safety-Invariants.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00056-Absolute-Safety-Invariants.md))), and the Reasonable Governance Threshold ([TrueAI 00007](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00007-Reasonable-Governance-Threshold-Specification.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00007-Reasonable-Governance-Threshold-Specification.md))). A second tool would have to re-implement all of these faithfully, and there would be no structural way to verify equivalence. One tool means one governance surface.
 
 3. **Certification anchor.** The Certification Gate (§4) recognises produced work. If multiple tools existed, a certificate would have to specify which tool produced the work and whether that tool's governance was equivalent. One tool means every certificate traces to the same production environment.
 
@@ -41,7 +41,7 @@ UniTEKClaw is distributed **exclusively under End-User Licence Agreement (EUL)**
 
 ### 2.1 The badge
 
-**"Powered By UniCORE AI, Built on TrueAI Foundation"** is a certification mark displayed by applications that meet the Foundation standards. The badge is not exclusive to UniTEKClaw — any application that passes the certification standards defined in [`10002-Certification-Before-Layered-Governance.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md) may display it. The badge certifies the **application**, not the tool that produced it and not the human who built it.
+**"Powered By UniCORE AI, Built on TrueAI Foundation"** is a certification mark displayed by applications that meet the Foundation standards. The badge is not exclusive to UniTEKClaw — any application that passes the certification standards defined in [`10002-Certification-Before-Layered-Governance.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)) may display it. The badge certifies the **application**, not the tool that produced it and not the human who built it.
 
 UniTEKClaw is the singular tool for **producing** applications that earn the badge. The badge itself is open to all qualifying applications.
 
@@ -60,7 +60,7 @@ The thirty-year threshold is not arbitrary. It represents the minimum career spa
 - built and maintained production systems across at least two major platform generations,
 - earned the judgement that comes from decades of consequential decisions under real constraints.
 
-This is the same profile described in [`10003-Generation-IT-Succession.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md) §3 as the serving Generation IT producer: the human whose cross-layer mental model, exercised against the Nine Invariants in production, is the unit of transfer to the next generation.
+This is the same profile described in [`10003-Generation-IT-Succession.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md)) §3 as the serving Generation IT producer: the human whose cross-layer mental model, exercised against the Nine Invariants in production, is the unit of transfer to the next generation.
 
 ### 3.2 How the request works
 
@@ -90,7 +90,7 @@ A UniTEKClaw EUL may be revoked, or a UniCORE Expert Certification may expire or
 
 - **Misrepresentation** — the public professional record used to validate the request was materially false.
 - **Licence violation** — the recipient violated the EUL terms (redistribution of the binary, reverse engineering, sub-licensing, etc.).
-- **Foundation violation** — the recipient used UniTEKClaw to produce work that materially violates the Nine Invariants, and the violation was deliberate rather than a good-faith error correctable through the Pairing Failure Ladder ([UniVERSE 00062](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md)).
+- **Foundation violation** — the recipient used UniTEKClaw to produce work that materially violates the Nine Invariants, and the violation was deliberate rather than a good-faith error correctable through the Pairing Failure Ladder ([UniVERSE 00062](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md))).
 - **Certification lapse** — the holder's UniCORE Expert Certification expired without renewal.
 
 Revocation is recorded publicly in the same Discussion thread as the original grant, with the reason stated, and reflected in the public Certificate Holders register.
@@ -111,7 +111,7 @@ The runtime enforcement mechanism described in §3.4 applies to every installati
 
 A UniTEKClaw EUL holder may use UniTEKClaw to produce three categories of work:
 
-1. **Foundation-aligned applications.** Applications in the critical-decision path that require TrueAI Foundation governance — Banking, Healthcare, Government, Military, Aerospace, and any other vertical where AI operates in the path of consequential decisions. These applications may earn the "Powered By UniCORE AI, Built on TrueAI Foundation" badge upon passing certification per [`10002`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md).
+1. **Foundation-aligned applications.** Applications in the critical-decision path that require TrueAI Foundation governance — Banking, Healthcare, Government, Military, Aerospace, and any other vertical where AI operates in the path of consequential decisions. These applications may earn the "Powered By UniCORE AI, Built on TrueAI Foundation" badge upon passing certification per [`10002`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)).
 
 2. **Non-Foundation AI applications.** Human-oriented AI applications outside the critical-decision path — personal AI assistants, creative tools, entertainment, social applications, day-to-day utilities. These do not require Foundation governance and do not earn the badge. They are produced on a separate machine (see below).
 
@@ -148,11 +148,11 @@ The certification is **earned by produced work**, not by background, CV, or year
 
 3. The certifying body (Unitek Systems Limited, or the certifying authority designated by Unitek Systems Limited) **evaluates the produced work** against the certification-level criteria (§4.3) and issues a certification at the level the work qualifies for.
 
-4. The certification is **public, named, dated, and recorded** in the [`CERTIFIED-EXPERTS.md`](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md) register at the root of the UniVERSE repository. The register is the canonical source of truth for who holds which certification at which level. The runtime enforcement described in §3.4 checks this register.
+4. The certification is **public, named, dated, and recorded** in the [`CERTIFIED-EXPERTS.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/CERTIFIED-EXPERTS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/CERTIFIED-EXPERTS.md)) register at the root of the UniVERSE repository. The register is the canonical source of truth for who holds which certification at which level. The runtime enforcement described in §3.4 checks this register.
 
 ### 4.3 Certification levels
 
-The certification levels correspond to the scope and depth of produced work. The exact criteria for each level will be published as a companion document to this one (extending the framework in [`00023-Training-Certification-Framework.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md)). The levels are:
+The certification levels correspond to the scope and depth of produced work. The exact criteria for each level will be published as a companion document to this one (extending the framework in [`00023-Training-Certification-Framework.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00023-Training-Certification-Framework.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md))). The levels are:
 
 | Level | Name | Basis |
 |---|---|---|
@@ -160,9 +160,9 @@ The certification levels correspond to the scope and depth of produced work. The
 | 2 | Entry-level | Sustained contributions; demonstrates working understanding of the Nine Invariants and the Layered CORE Model |
 | 3 | Junior | Original produced work that applies Foundation principles to a concrete problem or vertical |
 | 4 | Mid-level | Produced work across multiple Foundation concerns; demonstrated ability to operate a PairedClaw session under supervision |
-| 5 | Senior | Substantial body of produced work; demonstrated ability to operate independently; eligible for named attestation under [`10003`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md) |
+| 5 | Senior | Substantial body of produced work; demonstrated ability to operate independently; eligible for named attestation under [`10003`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md)) |
 
-These levels are **not the same** as the five operational tiers in [`00023-Training-Certification-Framework.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md) (User, Operator, Governance Officer, Compliance Officer, Mission Commander). The `00023` tiers govern **operating** a deployed Solution. The levels in this document govern **producing** Foundation-aligned work. A human may hold certifications in both schemes independently.
+These levels are **not the same** as the five operational tiers in [`00023-Training-Certification-Framework.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00023-Training-Certification-Framework.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md)) (User, Operator, Governance Officer, Compliance Officer, Mission Commander). The `00023` tiers govern **operating** a deployed Solution. The levels in this document govern **producing** Foundation-aligned work. A human may hold certifications in both schemes independently.
 
 ### 4.4 Progression
 
@@ -194,7 +194,7 @@ Practitioners who do not hold a UniTEKClaw EUL produce Foundation-aligned work t
 
 1. **Discussions.** The public Discussion forums on UniVERSE, TrueAI, UniCORE-AI, UniCORE, and UniCORE.GVB are open to all. Contributions through Discussions — ideas, reviews, proposals, questions, analysis — count as produced work for certification purposes. No tool is required.
 
-2. **Paired work under a senior.** A junior practitioner may work alongside an EUL-holding senior, contributing to the work produced on the senior's UniTEKClaw installation under the [Generation IT Succession](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md) model. The junior's contributions are recorded and attested by the senior. The produced work counts toward the junior's certification at the appropriate level.
+2. **Paired work under a senior.** A junior practitioner may work alongside an EUL-holding senior, contributing to the work produced on the senior's UniTEKClaw installation under the [Generation IT Succession](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md)) model. The junior's contributions are recorded and attested by the senior. The produced work counts toward the junior's certification at the appropriate level.
 
 Neither path requires the junior to hold their own UniTEKClaw EUL. Both paths produce real, attested, certifiable work.
 
@@ -206,7 +206,7 @@ Neither path requires the junior to hold their own UniTEKClaw EUL. Both paths pr
 
 The default-held certification and EUL are structural properties of the Author/Creator role, not issuances. They do not require nomination, application, examination, or external authorisation, because the certifying authority and the certificate-holder are, in this case, the same originating identity. The default-held certification and EUL cannot be revoked: revocation requires an authority external to the holder, and no such authority exists for the originating identity.
 
-The default-held certification and EUL pass to any successor named under the [TrueAI whitepaper succession statement](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship), on the same default-held basis, for as long as the succession process remains active. Successors do not need to be re-certified; they inherit the certification and EUL as part of inheriting the role.
+The default-held certification and EUL pass to any successor named under the [TrueAI whitepaper succession statement](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship)), on the same default-held basis, for as long as the succession process remains active. Successors do not need to be re-certified; they inherit the certification and EUL as part of inheriting the role.
 
 ### 5.1 Private EUL grants for potential successors
 
@@ -251,7 +251,7 @@ These components produce the best supported development experience and the deepe
 
 UniTEKClaw is not constrained to Visual Studio and DevExpress. Where a Certified Expert has alternative Windows-compatible compilers and IDEs installed, UniTEKClaw's Claws operate with those alternatives.
 
-The compatible-tooling list is maintained as a separate companion document: [`90001-UniTEKClaw-Compatible-Windows-Tooling.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/90001-UniTEKClaw-Compatible-Windows-Tooling.md). The list covers compilers and IDEs for the language and platform areas in which UniTEKClaw operates, including non-.NET areas such as machine-level programming (per [`00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md) §3), where Visual Studio and DevExpress are neither the natural nor the only choice.
+The compatible-tooling list is maintained as a separate companion document: [`90001-UniTEKClaw-Compatible-Windows-Tooling.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/90001-UniTEKClaw-Compatible-Windows-Tooling.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/90001-UniTEKClaw-Compatible-Windows-Tooling.md)). The list covers compilers and IDEs for the language and platform areas in which UniTEKClaw operates, including non-.NET areas such as machine-level programming (per [`00029-Machine-Level-Integration.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)) §3), where Visual Studio and DevExpress are neither the natural nor the only choice.
 
 ---
 
@@ -263,7 +263,7 @@ Operating UniTEKClaw incurs real costs:
 - Software subscriptions (Visual Studio Professional Subscription, DevExpress Ultimate Subscription, and other tools necessary to produce serious work), recurring annually.
 - Hardware costs for the separate machine required for non-Foundation work (§3.6).
 
-**Unitek Systems Limited may bear these costs**, in whole or in part, as a **cost of succession** rather than as salary or employment compensation. The Foundation is gift (per the [TrueAI Gift Principle](https://github.com/bryanunitek/TrueAI/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md)); funding the producers of the Foundation is consistent with the same gift logic, when Unitek Systems Limited chooses to do so.
+**Unitek Systems Limited may bear these costs**, in whole or in part, as a **cost of succession** rather than as salary or employment compensation. The Foundation is gift (per the [TrueAI Gift Principle](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00028-TrueAI-Foundation-Gift-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00028-TrueAI-Foundation-Gift-Principle.md))); funding the producers of the Foundation is consistent with the same gift logic, when Unitek Systems Limited chooses to do so.
 
 The specific arrangement — which costs Unitek bears, for which Experts, on what schedule — is operational discretion of Unitek Systems Limited and its accounting treatment. The principle this document records is that such arrangements **may** exist and are coherent with the Foundation; the operational detail belongs in Unitek's accounting and the individual arrangements with Experts and potential successors.
 
@@ -273,7 +273,7 @@ This provision applies particularly to **potential successors** under §5.1. Bri
 
 ## 8. What this document does not cover
 
-- **The detailed certification-level criteria.** The exact requirements for each level (§4.3) will be published as a companion document, extending [`00023-Training-Certification-Framework.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md). This document defines the levels; the companion defines the criteria.
+- **The detailed certification-level criteria.** The exact requirements for each level (§4.3) will be published as a companion document, extending [`00023-Training-Certification-Framework.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00023-Training-Certification-Framework.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md)). This document defines the levels; the companion defines the criteria.
 
 - **The EUL text itself.** The legal terms of the UniTEKClaw End-User Licence Agreement are a separate legal document authored by Unitek Systems Limited. This document defines who is eligible for the EUL and how eligibility is validated; the EUL document defines the licence terms.
 
@@ -291,16 +291,16 @@ This provision applies particularly to **potential successors** under §5.1. Bri
 
 | Document | Relationship |
 |---|---|
-| [`10001-Singular-Pairing-Principle.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md) | UniTEKClaw enforces Singular Pairing; the EUL grants access to the tool that does so |
-| [`10002-Certification-Before-Layered-Governance.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md) | The badge "Powered By UniCORE AI, Built on TrueAI Foundation" is the certification mark defined here; `10002` governs the certification of the Solution artefact |
-| [`10003-Generation-IT-Succession.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md) | The Tool Gate's thirty-year threshold aligns with the serving Generation IT producer profile; §4.6 (paired work under a senior) is the succession mechanism in practice; §5.1 (private EUL grants for potential successors) implements the highest-level succession path |
-| [`10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md) | Revocation and runtime enforcement (§3.4) are the Tool Gate's analogue of reversibility |
-| [`00023-Training-Certification-Framework.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md) | The five operational tiers (User through Mission Commander) are distinct from but complementary to the five certification levels defined here |
-| [`00056-Absolute-Safety-Invariants.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00056-Absolute-Safety-Invariants.md) | Foundation violation (§3.4) means deliberate violation of the Nine Invariants |
-| [`00059-Solution-Review.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00059-Solution-Review.md) | §5 of this document generalises the default-held certificate provision of `00059` §7.1 to both gates and to the EUL |
-| [`00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) | UniTEKClaw implements the PairedClaw bond; the EUL grants access to that implementation |
-| [`00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) | UniTEKClaw implements the failure ladder; Foundation violation for revocation (§3.4) is distinguished from good-faith errors handled by the ladder |
-| [TrueAI WHITEPAPER §8](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) | The succession statement that governs transfer of the default-held certification and EUL; §5.1 (private successor-candidate EULs) is the operational path leading into the succession statement |
+| [`10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) | UniTEKClaw enforces Singular Pairing; the EUL grants access to the tool that does so |
+| [`10002-Certification-Before-Layered-Governance.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)) | The badge "Powered By UniCORE AI, Built on TrueAI Foundation" is the certification mark defined here; `10002` governs the certification of the Solution artefact |
+| [`10003-Generation-IT-Succession.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md)) | The Tool Gate's thirty-year threshold aligns with the serving Generation IT producer profile; §4.6 (paired work under a senior) is the succession mechanism in practice; §5.1 (private EUL grants for potential successors) implements the highest-level succession path |
+| [`10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md)) | Revocation and runtime enforcement (§3.4) are the Tool Gate's analogue of reversibility |
+| [`00023-Training-Certification-Framework.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00023-Training-Certification-Framework.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00023-Training-Certification-Framework.md)) | The five operational tiers (User through Mission Commander) are distinct from but complementary to the five certification levels defined here |
+| [`00056-Absolute-Safety-Invariants.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00056-Absolute-Safety-Invariants.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00056-Absolute-Safety-Invariants.md)) | Foundation violation (§3.4) means deliberate violation of the Nine Invariants |
+| [`00059-Solution-Review.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00059-Solution-Review.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00059-Solution-Review.md)) | §5 of this document generalises the default-held certificate provision of `00059` §7.1 to both gates and to the EUL |
+| [`00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)) | UniTEKClaw implements the PairedClaw bond; the EUL grants access to that implementation |
+| [`00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md)) | UniTEKClaw implements the failure ladder; Foundation violation for revocation (§3.4) is distinguished from good-faith errors handled by the ladder |
+| [TrueAI WHITEPAPER §8](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship)) | The succession statement that governs transfer of the default-held certification and EUL; §5.1 (private successor-candidate EULs) is the operational path leading into the succession statement |
 
 ---
 

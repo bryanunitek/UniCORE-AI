@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00044-Multi-Model-Robotics-Governance.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00044-Multi-Model-Robotics-Governance.md)
+> **Canonical home:** [UniVERSE — `docs/00044-Multi-Model-Robotics-Governance.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00044-Multi-Model-Robotics-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00044-Multi-Model-Robotics-Governance.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # UniCORE AI Multi-Model Robotics Governance

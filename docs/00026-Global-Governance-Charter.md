@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00026-Global-Governance-Charter.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00026-Global-Governance-Charter.md)
+> **Canonical home:** [UniVERSE — `docs/00026-Global-Governance-Charter.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00026-Global-Governance-Charter.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00026-Global-Governance-Charter.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # UniCORE AI Global Governance Charter

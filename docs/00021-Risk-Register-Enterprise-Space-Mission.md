@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00021-Risk-Register-Enterprise-Space-Mission.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00021-Risk-Register-Enterprise-Space-Mission.md)
+> **Canonical home:** [UniVERSE — `docs/00021-Risk-Register-Enterprise-Space-Mission.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00021-Risk-Register-Enterprise-Space-Mission.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00021-Risk-Register-Enterprise-Space-Mission.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # UniCORE AI Risk Register (Enterprise + Space Mission)

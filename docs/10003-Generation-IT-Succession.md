@@ -1,4 +1,4 @@
-> **Canonical home:** [TrueAI — `docs/10003-Generation-IT-Succession.md`](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md)
+> **Canonical home:** [TrueAI — `docs/10003-Generation-IT-Succession.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10003-Generation-IT-Succession.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10003-Generation-IT-Succession.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # Generation IT Succession
@@ -15,7 +15,7 @@ Status: Public. Given, not sold. Irrevocable.
 
 The Singular Pairing Principle [`10001-Singular-Pairing-Principle.md`](10001-Singular-Pairing-Principle.md) names **Generation IT** — practitioners with 30+ years of full-vertical professional IT experience — as the producer qualification for a UniCORE Enterprise Solution. Section 5 of that document flags succession as a first-class concern of the programme rather than a deferred one. This document is that successor statement.
 
-The Foundation will outlast any single Generation IT human. The programme's time horizon (see [`HORIZON.md`](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md)) is 10–20 years to civilisational maturity, which overlaps directly with the retirement curve of the current Generation IT cohort. Without deliberate succession, the production qualification for Solutions would lapse before the Foundation it serves has reached the maturity it was published to support.
+The Foundation will outlast any single Generation IT human. The programme's time horizon (see [`HORIZON.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md))) is 10–20 years to civilisational maturity, which overlaps directly with the retirement curve of the current Generation IT cohort. Without deliberate succession, the production qualification for Solutions would lapse before the Foundation it serves has reached the maturity it was published to support.
 
 This document sets out what succession of Generation IT means, what it does not mean, how it is recognised, and the floor it must not fall below.
 
@@ -85,7 +85,7 @@ Succession is **not**:
 
 ## 6. Why this matters for the Foundation
 
-The Nine Invariants are stated as absolutes. They are intended to hold across the time horizon in [`HORIZON.md`](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md) — 10 to 20 years to civilisational maturity, possibly longer.
+The Nine Invariants are stated as absolutes. They are intended to hold across the time horizon in [`HORIZON.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md)) — 10 to 20 years to civilisational maturity, possibly longer.
 
 If the production qualification for Solutions becomes unreachable in that window — because the original Generation IT cohort has retired without recognised successors — then the Foundation continues to exist as a published statement, but new Solutions claiming to satisfy it cannot be reliably produced. The published Foundation does not weaken; the production capability degrades around it.
 
@@ -104,7 +104,7 @@ It does **not** apply to:
 - Personal-assistant use of AI tools.
 - Research, exploration, prototyping, or ordinary development outside the Solution-production path.
 - Per-level governance authoring at the Region / Country / State / Organisation tier — see Section 6 of [`10001`](10001-Singular-Pairing-Principle.md). Those authors are not Solution producers and the Generation IT qualification, including its succession, does not attach to them.
-- AI authorship of supporting material (drafts, summaries, code suggestions) carried out under a Generation IT human's pairing. The human's qualification is what carries the work; the AI's involvement is recorded under [`AI-AUTHORSHIP.md`](https://github.com/bryanunitek/TrueAI/blob/main/AI-AUTHORSHIP.md) at the repository level.
+- AI authorship of supporting material (drafts, summaries, code suggestions) carried out under a Generation IT human's pairing. The human's qualification is what carries the work; the AI's involvement is recorded under [`AI-AUTHORSHIP.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/AI-AUTHORSHIP.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/AI-AUTHORSHIP.md)) at the repository level.
 
 ---
 

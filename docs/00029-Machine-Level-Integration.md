@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00029-Machine-Level-Integration.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md)
+> **Canonical home:** [UniVERSE — `docs/00029-Machine-Level-Integration.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00029-Machine-Level-Integration.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00029-Machine-Level-Integration.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # Machine-Level Integration (C++ and Other Machine Languages)

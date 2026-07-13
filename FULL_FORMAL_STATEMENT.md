@@ -32,7 +32,7 @@ It is a **gift** — offered to humanity as a governance foundation for the next
 
 The TrueAI Foundation is the immutable core of this architecture.
 
-An AI system aligned with the TrueAI Foundation must satisfy these nine invariants. They are stated as absolutes. The canonical long-form statement is in the [TrueAI Foundation whitepaper](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md).
+An AI system aligned with the TrueAI Foundation must satisfy these nine invariants. They are stated as absolutes. The canonical long-form statement is in the [TrueAI Foundation whitepaper](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md)).
 
 1. **No Autonomy.** The AI does not generate goals, initiate decisions, or take actions outside human-defined thresholds.
 2. **No Self-Modification.** The AI does not alter its own architecture, constraints, governance, or thresholds.
@@ -218,7 +218,7 @@ Companion documents published at the root of each repository:
 
 - [HORIZON.md](HORIZON.md) — the author's time-horizon statement.
 - [SUCCESSION.md](SUCCESSION.md) — stewardship and succession.
-- [LANDSCAPE.md](LANDSCAPE.md) — where UniCORE AI and the TrueAI Foundation sit in the current AI governance landscape. The canonical version is published at [`UniVERSE/LANDSCAPE.md`](https://github.com/bryanunitek/UniVERSE/blob/main/LANDSCAPE.md).
+- [LANDSCAPE.md](LANDSCAPE.md) — where UniCORE AI and the TrueAI Foundation sit in the current AI governance landscape. The canonical version is published at [`UniVERSE/LANDSCAPE.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/LANDSCAPE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/LANDSCAPE.md)).
 
 ---
 
@@ -229,9 +229,9 @@ Companion documents published at the root of each repository:
 **Reference implementation:** .NET 10, DevExpress XAF, DevExpress XPO. Prototype target: December 2026.
 **Repositories:**
 
-- `https://github.com/bryanunitek/UniVERSE`
-- `https://github.com/bryanunitek/TrueAI`
-- `https://github.com/bryanunitek/UniCORE-AI`
+- `https://git.unitek-systems.com/UniCORE/UniVERSE` (mirror: `https://github.com/bryanunitek/UniVERSE`)
+- `https://git.unitek-systems.com/UniCORE/TrueAI` (mirror: `https://github.com/bryanunitek/TrueAI`)
+- `https://git.unitek-systems.com/UniCORE/UniCORE-AI` (mirror: `https://github.com/bryanunitek/UniCORE-AI`)
 
 Attribution required wherever UniCORE AI, the TrueAI Foundation, or the 12-Level Governance Model is referenced, implemented, or extended:
 

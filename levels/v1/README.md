@@ -21,6 +21,6 @@ Each subfolder is the home for the markdown files that define what an agent oper
 
 The *content* of each Level folder is curated incrementally. The Foundation rule is "no more and no less than what makes that Level what it is meant to be" — content is added as it is written, reviewed, and committed. A Solution built against `v1` reads whichever content exists in the relevant Level folder at the time of build.
 
-When the per-Level corpus refines materially enough to warrant a `v2`, the rule is the same as in [`foundation-requirements/`](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements): publish `v2` alongside `v1`, leave `v1` frozen.
+When the per-Level corpus refines materially enough to warrant a `v2`, the rule is the same as in [`foundation-requirements/`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements)): publish `v2` alongside `v1`, leave `v1` frozen.
 
 See the parent [`README.md`](../README.md) for the versioning discipline.

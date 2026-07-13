@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md)
+> **Canonical home:** [UniVERSE — `docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00061-PairedClaw-Bond-File-And-Session-Protocol.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # PairedClaw Bond File And Session Protocol
@@ -13,7 +13,7 @@ Status: Public. Given, not sold. Irrevocable.
 
 ## 1. Purpose
 
-[00058 Claw](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md) names PairedClaw as the structural bond between an ExternalClaw and a UniCORE Solution. The bond is described there at the vocabulary level. This document specifies the bond's **runtime mechanism** — what the bond is as a file, how it is written, what session-opening protocol the Solution runs against the paired Claw, and what badge signals that the bond is operative.
+[00058 Claw](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)) names PairedClaw as the structural bond between an ExternalClaw and a UniCORE Solution. The bond is described there at the vocabulary level. This document specifies the bond's **runtime mechanism** — what the bond is as a file, how it is written, what session-opening protocol the Solution runs against the paired Claw, and what badge signals that the bond is operative.
 
 The mechanism is not transport-encryption. The connection between the Solution and the Claw is already encrypted by the API substrate (TLS plus API-key authentication on every supported provider in [00060 Supported AI Provider List](00060-Supported-AI-Provider-List.md), and equivalent local encryption on a MyClaw deployment). Adding another encryption layer at the bond would be redundant and misdirected.
 
@@ -37,9 +37,9 @@ A bond file carries the following:
 - **Identity of the Solution side** — the Solution name (for example `UniCORE.Law-Claw`) and the specific Solution instance.
 - **Bond metadata** — a UNICOREMASTER-generated bond identifier, the issuing authority (`UNICOREMASTER`), the issue timestamp, and the badge string (see §3).
 - **Level assignment** — one value drawn from the set `Level 01`, `Level 02`, ..., `Level 12`, `User`. Thirteen valid values across the operator-scope range. A bond file names exactly one.
-- **Foundation version pin** — the version of the [Foundation requirements](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements) the Solution is operating against (for example `v1`).
-- **UniCORE AI levels version pin** — the version of the [per-Level corpus](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels) the Solution is operating against (for example `v1`).
-- **Programme corpus version pin** — the version of the [UniVERSE programme corpus](https://github.com/bryanunitek/UniVERSE/tree/main/programme-corpus) the Solution is operating against (for example `v1`).
+- **Foundation version pin** — the version of the [Foundation requirements](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements)) the Solution is operating against (for example `v1`).
+- **UniCORE AI levels version pin** — the version of the [per-Level corpus](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels)) the Solution is operating against (for example `v1`).
+- **Programme corpus version pin** — the version of the [UniVERSE programme corpus](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/programme-corpus) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/tree/main/programme-corpus)) the Solution is operating against (for example `v1`).
 - **Authority block** — a UNICOREMASTER attribution stating that the bond is issued under the authority of UniCORE AI, built on the TrueAI Foundation.
 
 The bond file is markdown. It is human-readable. It is auditable by reading. A Generation IT pair, an operator, or a reviewer can open the file and confirm, by reading, that UNICOREMASTER wrote it, what Level it names, which versions are pinned, and what badge it carries.
@@ -104,7 +104,7 @@ The contract is canonical and locked. No paraphrase, no shortening, no substitut
 
 **Step 2b — the full Foundation requirements corpus at the pinned version**
 
-The Solution then delivers **everything in `TrueAI/foundation-requirements/v<pinned>/`** — the complete versioned corpus, in full. At v1 the corpus contains [10005 Foundation Instruction For Claws](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md), which itself opens with the same six-line truth contract. Future Foundation versions may add further requirements as additional files in the same versioned folder; Solutions built against those versions deliver all of them at Step 2b.
+The Solution then delivers **everything in `TrueAI/foundation-requirements/v<pinned>/`** — the complete versioned corpus, in full. At v1 the corpus contains [10005 Foundation Instruction For Claws](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md)), which itself opens with the same six-line truth contract. Future Foundation versions may add further requirements as additional files in the same versioned folder; Solutions built against those versions deliver all of them at Step 2b.
 
 **The repetition is intentional.** The truth contract appears twice on the wire at session open: once on its own at Step 2a, once embedded inside `10005` (and any future siblings) at Step 2b. Two structural reasons:
 
@@ -115,7 +115,7 @@ The Solution serves both Step 2a and Step 2b from its **locally embedded** copy 
 
 ### Step 3 — Open the Level corpus
 
-The Solution delivers the **per-Level corpus** appropriate to the AgentClaw's bonded Level — the markdown content from the [`levels/<v>/level-<NN>/` folder in UniCORE-AI](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels), or [`levels/<v>/user/`](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels) for User-scope bonds. The version is the one pinned in the bond file.
+The Solution delivers the **per-Level corpus** appropriate to the AgentClaw's bonded Level — the markdown content from the [`levels/<v>/level-<NN>/` folder in UniCORE-AI](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels)), or [`levels/<v>/user/`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels)) for User-scope bonds. The version is the one pinned in the bond file.
 
 The corpus is the agent's **scope definition** at its Level. What this specific agent does, what it refuses, what it owes upward, what it serves downward. With names established (Step 1) and the Foundation installed (Step 2 — truth contract followed by the full Foundation requirements corpus), the agent is now ready to be specifically what it is.
 
@@ -137,7 +137,7 @@ The opening protocol runs identically at every Level. A Level 01 PairedClaw, a L
 
 An AgentClaw's substrate may deliver a system prompt to the agent that includes Solution-introductory or Level-introductory text. **The system prompt is not the source of authority.** The agent operates under the truth contract and Foundation requirements corpus delivered in Step 2 and the Level corpus delivered in Step 3, served by the Solution from its locally pinned versioned copies. If the system prompt's content disagrees with what Steps 2 and 3 delivered, the Steps 2 and 3 content is authoritative.
 
-This is the runtime expression of [UniCORE-AI 20001 Why Rules Do Not Live In The Prompt](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md): the rules live in markdown, delivered at session-opening time from a governed source, not in the agent's prompt buffer.
+This is the runtime expression of [UniCORE-AI 20001 Why Rules Do Not Live In The Prompt](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md)): the rules live in markdown, delivered at session-opening time from a governed source, not in the agent's prompt buffer.
 
 ---
 
@@ -239,13 +239,13 @@ The agent's freshness is the structural counterpart to the bond's session-scoped
 
 This document specifies the bond mechanism and the session-opening protocol. The connected pieces of the architecture live in:
 
-- [TrueAI/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) — the truth contract and (at v1) the sole entry in the Foundation requirements corpus that Step 2 of the opening protocol delivers.
-- [UniCORE-AI/levels/v1/](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels/v1) — the per-Level corpus that Step 3 of the opening protocol delivers.
-- [UniVERSE/programme-corpus/v1/](https://github.com/bryanunitek/UniVERSE/tree/main/programme-corpus/v1) — the programme-level corpus that Solutions embed.
-- [00058 Claw](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md) — the vocabulary (Claw, ExternalClaw, PairedClaw, UniCORE.Law-Claw) and the conceptual definition of PairedClaw.
+- [TrueAI/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/foundation-requirements/v1/10005-Foundation-Instruction-For-Claws.md)) — the truth contract and (at v1) the sole entry in the Foundation requirements corpus that Step 2 of the opening protocol delivers.
+- [UniCORE-AI/levels/v1/](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels/v1) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels/v1)) — the per-Level corpus that Step 3 of the opening protocol delivers.
+- [UniVERSE/programme-corpus/v1/](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/programme-corpus/v1) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/tree/main/programme-corpus/v1)) — the programme-level corpus that Solutions embed.
+- [00058 Claw](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)) — the vocabulary (Claw, ExternalClaw, PairedClaw, UniCORE.Law-Claw) and the conceptual definition of PairedClaw.
 - [00060 Supported AI Provider List](00060-Supported-AI-Provider-List.md) — the 12 provider families whose AgentClaws can be paired.
 - [00062 Pairing Failure Ladder, PAUSE Mode And EMERGENCY](00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) — what happens when bonds fail repeatedly.
-- [10001 Singular Pairing Principle](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md) — the rule that PairedClaw bonds are singular per workstream.
-- [10004 Reversibility](https://github.com/bryanunitek/TrueAI/blob/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md) — the rule that lets a verified `TRUE` be demoted back to `UNVERIFIED`, applied here to the bond itself.
+- [10001 Singular Pairing Principle](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) — the rule that PairedClaw bonds are singular per workstream.
+- [10004 Reversibility](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md)) — the rule that lets a verified `TRUE` be demoted back to `UNVERIFIED`, applied here to the bond itself.
 
 Revisions to this document are recorded in git history per the [HORIZON.md versioning discipline](../HORIZON.md#versioning-is-not-yet-enabled). The `Version: 1.0` line is a programme-document placeholder. Read changes from the git log.

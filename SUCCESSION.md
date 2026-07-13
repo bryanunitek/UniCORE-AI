@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `SUCCESSION.md`](https://github.com/bryanunitek/UniVERSE/blob/main/SUCCESSION.md)
+> **Canonical home:** [UniVERSE — `SUCCESSION.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/SUCCESSION.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/SUCCESSION.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 ---
@@ -14,7 +14,7 @@ applies-to: UniVERSE, TrueAI, UniCORE AI
 
 **Source-of-truth location for the named successor to the UniVERSE / TrueAI / UniCORE AI programme.**
 
-This document is the canonical place where succession arrangements for the programme are recorded. It is referenced from the TrueAI Foundation whitepaper (`docs/whitepaper/WHITEPAPER.md` in the [TrueAI repository](https://github.com/bryanunitek/TrueAI)) and from the Governed Intelligence whitepaper (`docs/whitepaper/WHITEPAPER.md` in this repository).
+This document is the canonical place where succession arrangements for the programme are recorded. It is referenced from the TrueAI Foundation whitepaper (`docs/whitepaper/WHITEPAPER.md` in the [TrueAI repository](https://git.unitek-systems.com/UniCORE/TrueAI) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI))) and from the Governed Intelligence whitepaper (`docs/whitepaper/WHITEPAPER.md` in this repository).
 
 ---
 
@@ -79,7 +79,7 @@ Unitek Systems Limited may delegate the operation of the public process to an in
 
 | Version | Date | Notes |
 |---|---|---|
-| v1.0 | May 2026 | First publication. Succession statement matches TrueAI whitepaper [§8](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) (Option B). Named successor placeholder in place. |
+| v1.0 | May 2026 | First publication. Succession statement matches TrueAI whitepaper [§8](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/whitepaper/WHITEPAPER.md#8-succession-and-stewardship)) (Option B). Named successor placeholder in place. |
 
 Revisions to this document, including the eventual recording of a named successor, will be tracked in this table and in the repository's git history.
 

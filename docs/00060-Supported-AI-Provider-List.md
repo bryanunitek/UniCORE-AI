@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00060-Supported-AI-Provider-List.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00060-Supported-AI-Provider-List.md)
+> **Canonical home:** [UniVERSE — `docs/00060-Supported-AI-Provider-List.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00060-Supported-AI-Provider-List.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00060-Supported-AI-Provider-List.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # Supported AI Provider List
@@ -15,24 +15,24 @@ Status: Public. Given, not sold. Irrevocable.
 
 This document is the programme-wide list of AI provider families
 whose models may power a **Claw** as defined in
-[00058 §2.1](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#21-claw). The list applies uniformly to:
+[00058 §2.1](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#21-claw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#21-claw)). The list applies uniformly to:
 
-- a **MyClaw** ([00058 §2.3](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#23-externalclaw)) — a
+- a **MyClaw** ([00058 §2.3](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#23-externalclaw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#23-externalclaw))) — a
   person's own ExternalClaw, run on their own infrastructure or via
   a managed hosting platform such as
   [myclaw.ai](https://myclaw.ai?via=bryan),
-- an **AgentClaw** ([00058 §2.3](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#23-externalclaw)) —
+- an **AgentClaw** ([00058 §2.3](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#23-externalclaw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#23-externalclaw))) —
   an autonomous AI-driven ExternalClaw with no human owner,
 - a Claw on the Solution side of a **PairedClaw** bond
-  ([00058 §2.4](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#24-pairedclaw)) inside any
+  ([00058 §2.4](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#24-pairedclaw) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#24-pairedclaw))) inside any
   `UniCORE-<vertical>-Claw` Solution
   (for example,
-  [UniCORE.Law-Claw](https://github.com/bryanunitek/UniCORE.Law-Claw)
+  [UniCORE.Law-Claw](https://git.unitek-systems.com/UniCORE/UniCORE.Law-Claw) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE.Law-Claw))
   for the Law sector).
 
 The provider is the substrate; the Claw is the governed interface
 that sits between a human and that substrate. Substrate-agnostic
-governance ([00058 §4.1](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance))
+governance ([00058 §4.1](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#41-substrate-agnostic-governance) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance)))
 means the same governance rules hold across every provider on this
 list. A Claw running on one provider today and a different provider
 tomorrow remains the same Claw under Foundation governance; the
@@ -235,32 +235,32 @@ the same Claw under Foundation governance. The audit trail, the
 corpus, the principal identity, the certification mark, and the
 attribution couplet are unchanged by the swap. This is the
 substrate-agnostic governance property of
-[00058 §4.1](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance) in
+[00058 §4.1](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#41-substrate-agnostic-governance) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance)) in
 operational form.
 
 ---
 
 ## 6. Relationship to other programme commitments
 
-- **Claw vocabulary** ([00058](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)) defines the
+- **Claw vocabulary** ([00058](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md))) defines the
   governed channel that a provider on this list powers, names the
   brands of ExternalClaw (MyClaw, AgentClaw) that consume
   providers directly, and names the PairedClaw bond by which a
   Claw inside a Solution consumes providers under the Solution's
   governance.
-- **Modality-agnostic governance** ([00058 §4](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#4-modality-agnostic-governance))
+- **Modality-agnostic governance** ([00058 §4](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#4-modality-agnostic-governance) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#4-modality-agnostic-governance)))
   and **substrate-agnostic governance**
-  ([00058 §4.1](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance))
+  ([00058 §4.1](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md#41-substrate-agnostic-governance) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md#41-substrate-agnostic-governance)))
   are the architectural commitments that let this list evolve
   without renegotiating governance. New providers added to the
   list join the same governance envelope as the existing ones.
 - **Multi-Model Integration Framework**
-  ([UniVERSE 00025](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00025-Multi-Model-Integration-Framework.md))
+  ([UniVERSE 00025](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00025-Multi-Model-Integration-Framework.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00025-Multi-Model-Integration-Framework.md)))
   is the architectural framework for how UniCORE AI governs across
   multiple model families. This document is the **list of
   families** that framework applies to.
 - **Why the rules do not live in the prompt**
-  ([UniCORE-AI 20001](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md))
+  ([UniCORE-AI 20001](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md)))
   is the reasoning for why a provider swap does not weaken
   governance.
 

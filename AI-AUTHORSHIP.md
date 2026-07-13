@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `AI-AUTHORSHIP.md`](https://github.com/bryanunitek/UniVERSE/blob/main/AI-AUTHORSHIP.md)
+> **Canonical home:** [UniVERSE — `AI-AUTHORSHIP.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/AI-AUTHORSHIP.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/AI-AUTHORSHIP.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 ---

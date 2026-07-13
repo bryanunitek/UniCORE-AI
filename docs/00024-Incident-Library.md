@@ -1,4 +1,4 @@
-> **Canonical home:** [UniVERSE — `docs/00024-Incident-Library.md`](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00024-Incident-Library.md)
+> **Canonical home:** [UniVERSE — `docs/00024-Incident-Library.md`](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00024-Incident-Library.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00024-Incident-Library.md))
 > This file is a mirror kept here for in-repo reading. Source of truth is the link above.
 
 # UniCORE AI Incident Library (100+ Enterprise & Space Mission Scenarios)
