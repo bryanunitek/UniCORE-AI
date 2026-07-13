@@ -37,7 +37,7 @@ Phases are serial. Level parallelism only happens *inside* the Govern phase, aft
 
 ### Build phase
 
-The Solution is produced under the Singular Pairing Principle (see [`10001-Singular-Pairing-Principle.md`](10001-Singular-Pairing-Principle.md)): one human, one AI Claw, optional small human board above. The producer pair must be Generation IT.
+The Solution is produced under the Singular Pairing Principle (see [`10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10001-Singular-Pairing-Principle.md))): one human, one AI Claw, optional small human board above. The producer pair must be Generation IT.
 
 The Solution includes the architecture, the implementation, the reference artefacts, and the operational materials that make it a deployable whole.
 
@@ -90,9 +90,9 @@ The starting posture is therefore **self-attestation by the named human producin
 
 The attestation is a public, dated, named statement that the Solution at a specific version satisfies the Nine Invariants, the Gift Principle, and the Singular Pairing Principle, together with the evidence supporting each.
 
-Third-party claims of TrueAI conformance — by deployers, integrators, or other parties — are made on the claimant's own authority. They are not endorsed by the original producer, by Unitek Systems Limited, or by the Foundation. This matches the existing third-party-claims policy in the TrueAI whitepaper and [STATEMENT-ON-CLAIMS.md](../STATEMENT-ON-CLAIMS.md).
+Third-party claims of TrueAI conformance — by deployers, integrators, or other parties — are made on the claimant's own authority. They are not endorsed by the original producer, by Unitek Systems Limited, or by the Foundation. This matches the existing third-party-claims policy in the TrueAI whitepaper and [STATEMENT-ON-CLAIMS.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/STATEMENT-ON-CLAIMS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/STATEMENT-ON-CLAIMS.md)).
 
-Emergence of external certification bodies is a later-horizon concern (see [HORIZON.md](../HORIZON.md)) and is not a prerequisite for the sequence to operate. Self-attestation is sufficient for the gate at Foundation level. Where a Govern-phase authority (a Region, a regulator, a sector body) chooses to require an external certifying body for deployment in its jurisdiction, that is a Govern-phase decision, layered on top of Foundation certification.
+Emergence of external certification bodies is a later-horizon concern (see [HORIZON.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/HORIZON.md))) and is not a prerequisite for the sequence to operate. Self-attestation is sufficient for the gate at Foundation level. Where a Govern-phase authority (a Region, a regulator, a sector body) chooses to require an external certifying body for deployment in its jurisdiction, that is a Govern-phase decision, layered on top of Foundation certification.
 
 ---
 

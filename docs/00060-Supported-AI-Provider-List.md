@@ -291,10 +291,10 @@ The list of supported families in [§3](#3-the-supported-families)
 is current as of the document's first publication and will be
 revised as the AI provider landscape evolves; revisions are
 recorded in the git history of this repository per
-[HORIZON.md](../HORIZON.md#versioning-is-not-yet-enabled).
+[HORIZON.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/HORIZON.md#versioning-is-not-yet-enabled) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/HORIZON.md#versioning-is-not-yet-enabled)).
 
 Public-facing changes to the supported-provider list will be
-flagged in [HORIZON.md](../HORIZON.md) when the change is material
+flagged in [HORIZON.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/HORIZON.md)) when the change is material
 (a new family added, an existing family removed). Renames within
 a family are recorded only in git history.
 

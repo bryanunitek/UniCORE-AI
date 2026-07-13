@@ -18,4 +18,4 @@ A bond file pairing at User scope but without a named role is bonded against the
 
 **Structural placeholder.** The User-scope role taxonomy is curated in subsequent commits, separately from the initial folder structure. The set of roles is defined by the operator-facing realities of deployed Solutions, not invented in advance.
 
-See [`../README.md`](../README.md) for the `levels/v1/` versioning discipline.
+See [`../README.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels/v1/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/levels/v1/README.md)) for the `levels/v1/` versioning discipline.

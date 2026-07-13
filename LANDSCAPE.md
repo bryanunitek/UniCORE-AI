@@ -134,7 +134,7 @@ This document is not a ranking. No organisation in the table above is scored, gr
 
 This document is not a criticism. The safety and governance work published by the major AI laboratories is real, and much of it is done by people who are genuinely committed to the outcomes they describe. This document respects that work.
 
-This document is not a claim that the TrueAI Foundation or UniCORE AI is complete. The invariants define the floor. The architecture describes one way to build on it. The civilisational-scale programme described in UniVERSE is a 10–20 year horizon at minimum — the systems that will fully satisfy the floor are not yet built. See [HORIZON.md](HORIZON.md) for the author's time-horizon statement.
+This document is not a claim that the TrueAI Foundation or UniCORE AI is complete. The invariants define the floor. The architecture describes one way to build on it. The civilisational-scale programme described in UniVERSE is a 10–20 year horizon at minimum — the systems that will fully satisfy the floor are not yet built. See [HORIZON.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/HORIZON.md)) for the author's time-horizon statement.
 
 This document is not a replacement for the whitepapers. The canonical references are:
 

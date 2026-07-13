@@ -23,4 +23,4 @@ The *content* of each Level folder is curated incrementally. The Foundation rule
 
 When the per-Level corpus refines materially enough to warrant a `v2`, the rule is the same as in [`foundation-requirements/`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/foundation-requirements) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/tree/main/foundation-requirements)): publish `v2` alongside `v1`, leave `v1` frozen.
 
-See the parent [`README.md`](../README.md) for the versioning discipline.
+See the parent [`README.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/levels/README.md)) for the versioning discipline.

@@ -18,7 +18,7 @@ The implied worry is that governance fails when the model can no longer "remembe
 
 This document names the two memory substrates a UniCORE AI deployment carries, the rule for what may compact and what may not, and the way compaction itself is recorded so a saturating window does not become a governance hole.
 
-It is a sister document to [`20001-Why-Rules-Do-Not-Live-In-The-Prompt.md`](20001-Why-Rules-Do-Not-Live-In-The-Prompt.md). That document names where governance lives; this one names what happens when working memory runs out.
+It is a sister document to [`20001-Why-Rules-Do-Not-Live-In-The-Prompt.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/20001-Why-Rules-Do-Not-Live-In-The-Prompt.md)). That document names where governance lives; this one names what happens when working memory runs out.
 
 ---
 
@@ -149,7 +149,7 @@ A future model with a 100M-token window reads the same governed substrate that t
 
 This is the property that makes 100/1000-year Solution time horizons (see [`HORIZON.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/HORIZON.md))) achievable. The substrate carries forward across model generations because it was never inside any model in the first place.
 
-[`10003-Generation-IT-Succession.md`](10003-Generation-IT-Succession.md) names the producer-side property of the same continuity: the human cohort qualified to produce Solutions carries forward across human generations. Compaction is the corresponding system-side property: the substrate the Solutions are governed against carries forward across model generations. Both are required for the time horizon to hold.
+[`10003-Generation-IT-Succession.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10003-Generation-IT-Succession.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10003-Generation-IT-Succession.md)) names the producer-side property of the same continuity: the human cohort qualified to produce Solutions carries forward across human generations. Compaction is the corresponding system-side property: the substrate the Solutions are governed against carries forward across model generations. Both are required for the time horizon to hold.
 
 ---
 

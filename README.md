@@ -215,7 +215,7 @@ Truth brings harmony — whether between humans, between AIs, or between the two
 
 ## Discuss and contribute
 
-Adoption questions, architecture critique, scenario stress-tests, implementation reports, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions). See [DISCUSSIONS.md](DISCUSSIONS.md) for what the space is for, what it is not for, and how to take part.
+Adoption questions, architecture critique, scenario stress-tests, implementation reports, and corrections belong in [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions). See [DISCUSSIONS.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/DISCUSSIONS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/DISCUSSIONS.md)) for what the space is for, what it is not for, and how to take part.
 
 ## Classification, brand, and claims
 
@@ -235,16 +235,16 @@ The canonical architecture whitepaper is published at [`docs/whitepaper/WHITEPAP
 
 ## AI authorship
 
-This repository is produced with AI assistance operating under TrueAI governance. The full disclosure is at [AI-AUTHORSHIP.md](AI-AUTHORSHIP.md).
+This repository is produced with AI assistance operating under TrueAI governance. The full disclosure is at [AI-AUTHORSHIP.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/AI-AUTHORSHIP.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/AI-AUTHORSHIP.md)).
 
 ## Deployment principles
 
 A UniCORE Solution built on the TrueAI Foundation is subject to two deployment-topology principles. They govern how Solutions must be produced and certified before layered governance (Regional, national, organisational, mission, etc.) is applied to them. They are not invariants; they sit alongside the Gift Principle. Canonical home for both is the **TrueAI Foundation**; mirror copies live here for in-repo reading.
 
-- [**Singular Pairing Principle**](docs/10001-Singular-Pairing-Principle.md) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
-- [**Certification Before Layered Governance**](docs/10002-Certification-Before-Layered-Governance.md) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern. Per-level MD authoring belongs to the Govern phase, after the gate.
+- [**Singular Pairing Principle**](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10001-Singular-Pairing-Principle.md)) — one human, one AI Claw per workstream; Generation IT producer qualification; direct pairing or parallel isolation with fresh synthesis.
+- [**Certification Before Layered Governance**](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)) — a Solution must conform to the Foundation before per-level governance MD files may be applied to it. Build → Certification gate → Govern. Per-level MD authoring belongs to the Govern phase, after the gate.
 
 ## Contact
 
-- **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions) (see [DISCUSSIONS.md](DISCUSSIONS.md))
+- **Public discussion:** [GitHub Discussions](https://github.com/bryanunitek/UniCORE-AI/discussions) (see [DISCUSSIONS.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/DISCUSSIONS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/DISCUSSIONS.md)))
 - **Private contact / connection request:** [LinkedIn](https://www.linkedin.com/in/bryan-fred-02209753/)

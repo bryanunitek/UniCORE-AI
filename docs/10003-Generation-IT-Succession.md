@@ -13,7 +13,7 @@ Status: Public. Given, not sold. Irrevocable.
 
 ## 1. Purpose
 
-The Singular Pairing Principle [`10001-Singular-Pairing-Principle.md`](10001-Singular-Pairing-Principle.md) names **Generation IT** — practitioners with 30+ years of full-vertical professional IT experience — as the producer qualification for a UniCORE Enterprise Solution. Section 5 of that document flags succession as a first-class concern of the programme rather than a deferred one. This document is that successor statement.
+The Singular Pairing Principle [`10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10001-Singular-Pairing-Principle.md)) names **Generation IT** — practitioners with 30+ years of full-vertical professional IT experience — as the producer qualification for a UniCORE Enterprise Solution. Section 5 of that document flags succession as a first-class concern of the programme rather than a deferred one. This document is that successor statement.
 
 The Foundation will outlast any single Generation IT human. The programme's time horizon (see [`HORIZON.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/HORIZON.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/HORIZON.md))) is 10–20 years to civilisational maturity, which overlaps directly with the retirement curve of the current Generation IT cohort. Without deliberate succession, the production qualification for Solutions would lapse before the Foundation it serves has reached the maturity it was published to support.
 
@@ -51,19 +51,19 @@ Succession that omits transitions produces a producer who can ship in current co
 
 ### Pairing duration
 
-The successor pairs directly with a serving Generation IT producer across at least one full UniCORE Enterprise Solution from inception to certification (see [`10002-Certification-Before-Layered-Governance.md`](10002-Certification-Before-Layered-Governance.md)). Inception-to-certification is the unit of transfer because it is the unit at which the cross-layer mental model is exercised against the Nine Invariants in production.
+The successor pairs directly with a serving Generation IT producer across at least one full UniCORE Enterprise Solution from inception to certification (see [`10002-Certification-Before-Layered-Governance.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10002-Certification-Before-Layered-Governance.md))). Inception-to-certification is the unit of transfer because it is the unit at which the cross-layer mental model is exercised against the Nine Invariants in production.
 
 A single Solution is the floor. Two or more Solutions across different verticals is the expected shape, and the second is where the *transferability* of the model — distinct from competence in one vertical — is demonstrated.
 
 ### Verticals and the second Solution
 
-The founding Generation IT producer of any Solution had to derive the colocation-to-application stack for their vertical themselves. The successor does not have to repeat that derivation in the same vertical; they inherit the first Solution as a reference pattern (see [`10001-Singular-Pairing-Principle.md`](10001-Singular-Pairing-Principle.md), Section 5).
+The founding Generation IT producer of any Solution had to derive the colocation-to-application stack for their vertical themselves. The successor does not have to repeat that derivation in the same vertical; they inherit the first Solution as a reference pattern (see [`10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10001-Singular-Pairing-Principle.md)), Section 5).
 
 What the successor must do, to be recognised as Generation IT in their own right, is produce a Solution in a **different** vertical, applying the same mental model to a domain whose specifics they had to learn from inside. That second Solution is where breadth replaces breadth-by-inheritance. Before that second Solution, the successor is a Generation IT *candidate* serving under attestation, not a Generation IT producer in their own right.
 
 ### Attestation
 
-Recognition of a successor as Generation IT is by **named attestation** from a serving Generation IT producer who personally paired with them across the work. Attestation is recorded in the Solution's certification artefact under [`10002`](10002-Certification-Before-Layered-Governance.md). The attesting producer is named; the duration of pairing is named; the verticals are named.
+Recognition of a successor as Generation IT is by **named attestation** from a serving Generation IT producer who personally paired with them across the work. Attestation is recorded in the Solution's certification artefact under [`10002`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)). The attesting producer is named; the duration of pairing is named; the verticals are named.
 
 Attestation is not endorsement of the successor's character or output. It is a narrow claim: that the successor has personally exercised the full-vertical model under direct observation, and that the attesting producer recognises the model as transferred.
 
@@ -97,13 +97,13 @@ The Foundation is not a one-generation programme.
 
 ## 7. Scope
 
-This document applies to the production of work claiming to satisfy the TrueAI Foundation invariants — i.e. the production of UniCORE Enterprise Solutions and the named-authority work of [`10001`](10001-Singular-Pairing-Principle.md) and [`10002`](10002-Certification-Before-Layered-Governance.md).
+This document applies to the production of work claiming to satisfy the TrueAI Foundation invariants — i.e. the production of UniCORE Enterprise Solutions and the named-authority work of [`10001`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10001-Singular-Pairing-Principle.md)) and [`10002`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10002-Certification-Before-Layered-Governance.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10002-Certification-Before-Layered-Governance.md)).
 
 It does **not** apply to:
 
 - Personal-assistant use of AI tools.
 - Research, exploration, prototyping, or ordinary development outside the Solution-production path.
-- Per-level governance authoring at the Region / Country / State / Organisation tier — see Section 6 of [`10001`](10001-Singular-Pairing-Principle.md). Those authors are not Solution producers and the Generation IT qualification, including its succession, does not attach to them.
+- Per-level governance authoring at the Region / Country / State / Organisation tier — see Section 6 of [`10001`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10001-Singular-Pairing-Principle.md)). Those authors are not Solution producers and the Generation IT qualification, including its succession, does not attach to them.
 - AI authorship of supporting material (drafts, summaries, code suggestions) carried out under a Generation IT human's pairing. The human's qualification is what carries the work; the AI's involvement is recorded under [`AI-AUTHORSHIP.md`](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/AI-AUTHORSHIP.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/AI-AUTHORSHIP.md)) at the repository level.
 
 ---

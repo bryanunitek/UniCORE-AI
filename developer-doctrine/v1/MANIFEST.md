@@ -10,13 +10,13 @@ This file lists every document in the `developer-doctrine/v1/` folder, with a on
 
 | File | Description |
 |---|---|
-| [`README.md`](README.md) | Entry point — folder purpose, read order, who reads this |
-| [`DEVELOPMENT-ROLE.md`](DEVELOPMENT-ROLE.md) | UniCORE-AI developer specialisation on top of TrueAI standard envelope |
-| [`STANDARD-ENVELOPE.md`](STANDARD-ENVELOPE.md) | UniCORE-AI standard envelope — adds reference architecture rules to TrueAI standard |
-| [`PRIVILEGED-ENVELOPE.md`](PRIVILEGED-ENVELOPE.md) | Privileged envelope — Team UniCORE only |
-| [`VERTICAL-ENTRY.md`](VERTICAL-ENTRY.md) | How a new vertical enters the UniCORE reference architecture |
-| [`APPRENTICESHIP-ONBOARDING.md`](APPRENTICESHIP-ONBOARDING.md) | Post-2027 apprenticeship programme for new UniCORE-AI developers |
-| [`MANIFEST.md`](MANIFEST.md) | This file — human-readable file list |
+| [`README.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/developer-doctrine/v1/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/developer-doctrine/v1/README.md)) | Entry point — folder purpose, read order, who reads this |
+| [`DEVELOPMENT-ROLE.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/developer-doctrine/v1/DEVELOPMENT-ROLE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/developer-doctrine/v1/DEVELOPMENT-ROLE.md)) | UniCORE-AI developer specialisation on top of TrueAI standard envelope |
+| [`STANDARD-ENVELOPE.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/developer-doctrine/v1/STANDARD-ENVELOPE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/developer-doctrine/v1/STANDARD-ENVELOPE.md)) | UniCORE-AI standard envelope — adds reference architecture rules to TrueAI standard |
+| [`PRIVILEGED-ENVELOPE.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/developer-doctrine/v1/PRIVILEGED-ENVELOPE.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/developer-doctrine/v1/PRIVILEGED-ENVELOPE.md)) | Privileged envelope — Team UniCORE only |
+| [`VERTICAL-ENTRY.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/developer-doctrine/v1/VERTICAL-ENTRY.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/developer-doctrine/v1/VERTICAL-ENTRY.md)) | How a new vertical enters the UniCORE reference architecture |
+| [`APPRENTICESHIP-ONBOARDING.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/developer-doctrine/v1/APPRENTICESHIP-ONBOARDING.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/developer-doctrine/v1/APPRENTICESHIP-ONBOARDING.md)) | Post-2027 apprenticeship programme for new UniCORE-AI developers |
+| [`MANIFEST.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/developer-doctrine/v1/MANIFEST.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/developer-doctrine/v1/MANIFEST.md)) | This file — human-readable file list |
 | [`MANIFEST.json`](MANIFEST.json) | Machine-parseable manifest with SHA-256 hashes |
 
 ---

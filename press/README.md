@@ -6,7 +6,7 @@ Press material authored by Unitek Systems Limited and released under CC BY 4.0. 
 
 | Date | Title | File |
 |---|---|---|
-| 2026-05-10 | UniCORE AI published — a multi-level governance architecture for truth-anchored, human-sovereign artificial intelligence | [2026-05-10-architecture-launch.md](./2026-05-10-architecture-launch.md) |
+| 2026-05-10 | UniCORE AI published — a multi-level governance architecture for truth-anchored, human-sovereign artificial intelligence | [2026-05-10-architecture-launch.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/press/2026-05-10-architecture-launch.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/press/2026-05-10-architecture-launch.md)) |
 
 ## Guidelines for new releases
 

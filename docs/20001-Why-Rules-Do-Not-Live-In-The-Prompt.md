@@ -78,7 +78,7 @@ Every read and every privileged action is recorded in an immutable, append-only 
 
 ### 3.11 Identity — Singular Pairing (load-bearing)
 
-One human, one Claw (see [`10001-Singular-Pairing-Principle.md`](10001-Singular-Pairing-Principle.md) in TrueAI). Anonymity is structurally impossible inside a Solution. A bypass attempt is associated with a named principal; persistent attempts have consequences that follow the principal.
+One human, one Claw (see [`10001-Singular-Pairing-Principle.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10001-Singular-Pairing-Principle.md)) in TrueAI). Anonymity is structurally impossible inside a Solution. A bypass attempt is associated with a named principal; persistent attempts have consequences that follow the principal.
 
 ### 3.12 Provenance — certification mark (load-bearing for legal surface)
 
@@ -113,7 +113,7 @@ Example shape: a user requests information that is mildly sensitive but in-scope
 
 Defences against compositional attacks are not in the prompt either. They are:
 
-- The Generation IT human in the pairing, qualified under [`10003-Generation-IT-Succession.md`](10003-Generation-IT-Succession.md), trained to notice when a sequence is drifting toward a result that was not in the original scope.
+- The Generation IT human in the pairing, qualified under [`10003-Generation-IT-Succession.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/10003-Generation-IT-Succession.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/10003-Generation-IT-Succession.md)), trained to notice when a sequence is drifting toward a result that was not in the original scope.
 - Audit replay, where a sequence of turns is reconstructable and reviewable post-hoc.
 - The Reasonable Governance Threshold (3.6), which cannot be talked down by accumulated context — the threshold is a property of the requested action, not a property of the conversation.
 - Drift detection on the corpus over time, surfacing clusters of borderline requests for human review.

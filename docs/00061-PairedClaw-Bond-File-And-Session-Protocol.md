@@ -15,7 +15,7 @@ Status: Public. Given, not sold. Irrevocable.
 
 [00058 Claw](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)) names PairedClaw as the structural bond between an ExternalClaw and a UniCORE Solution. The bond is described there at the vocabulary level. This document specifies the bond's **runtime mechanism** — what the bond is as a file, how it is written, what session-opening protocol the Solution runs against the paired Claw, and what badge signals that the bond is operative.
 
-The mechanism is not transport-encryption. The connection between the Solution and the Claw is already encrypted by the API substrate (TLS plus API-key authentication on every supported provider in [00060 Supported AI Provider List](00060-Supported-AI-Provider-List.md), and equivalent local encryption on a MyClaw deployment). Adding another encryption layer at the bond would be redundant and misdirected.
+The mechanism is not transport-encryption. The connection between the Solution and the Claw is already encrypted by the API substrate (TLS plus API-key authentication on every supported provider in [00060 Supported AI Provider List](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00060-Supported-AI-Provider-List.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00060-Supported-AI-Provider-List.md)), and equivalent local encryption on a MyClaw deployment). Adding another encryption layer at the bond would be redundant and misdirected.
 
 What the bond mechanism actually provides is **identity, approval, orientation, and a runtime truth contract**. It is the structural answer to the question *"how does the Solution know which Claw it is talking to, that the Claw is approved, that the Claw is operating under the right rules, and at the right Level of the governance model?"*.
 
@@ -33,7 +33,7 @@ The bond file is the credential. The presence of a valid bond file, with UNICORE
 
 A bond file carries the following:
 
-- **Identity of the ExternalClaw side** — the Claw's name (for example `UniCORE-Claw-Level01`), its substrate (which AI provider family per [00060](00060-Supported-AI-Provider-List.md), or MyClaw), and the underlying model identity.
+- **Identity of the ExternalClaw side** — the Claw's name (for example `UniCORE-Claw-Level01`), its substrate (which AI provider family per [00060](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00060-Supported-AI-Provider-List.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00060-Supported-AI-Provider-List.md)), or MyClaw), and the underlying model identity.
 - **Identity of the Solution side** — the Solution name (for example `UniCORE.Law-Claw`) and the specific Solution instance.
 - **Bond metadata** — a UNICOREMASTER-generated bond identifier, the issuing authority (`UNICOREMASTER`), the issue timestamp, and the badge string (see §3).
 - **Level assignment** — one value drawn from the set `Level 01`, `Level 02`, ..., `Level 12`, `User`. Thirteen valid values across the operator-scope range. A bond file names exactly one.
@@ -52,7 +52,7 @@ A markdown bond fits the architecture: it is readable, auditable, versionable th
 
 ### 2.3 Where the bond file lives
 
-UNICOREMASTER places one copy of the bond file into the AgentClaw's substrate-native Skills/Metadata slot (or the equivalent storage on a MyClaw deployment) and a matching copy into the Solution's local store. The mechanism for placement varies by substrate — Anthropic Agents have Skills + Metadata fields; OpenAI Assistants have analogous metadata storage; the other ten provider families in [00060](00060-Supported-AI-Provider-List.md) have their equivalents; MyClaw uses its local configuration store — but the bond file content is the same shape in every case.
+UNICOREMASTER places one copy of the bond file into the AgentClaw's substrate-native Skills/Metadata slot (or the equivalent storage on a MyClaw deployment) and a matching copy into the Solution's local store. The mechanism for placement varies by substrate — Anthropic Agents have Skills + Metadata fields; OpenAI Assistants have analogous metadata storage; the other ten provider families in [00060](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00060-Supported-AI-Provider-List.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00060-Supported-AI-Provider-List.md)) have their equivalents; MyClaw uses its local configuration store — but the bond file content is the same shape in every case.
 
 **One file, two locations, one authority.** Both sides of the bond hold a copy. UNICOREMASTER wrote both copies. Either side can be challenged to produce the bond file at any time, and the file must match the one UNICOREMASTER issued.
 
@@ -165,7 +165,7 @@ This is the same pinning discipline that versioned API specs and versioned schem
 
 The trade-off of pinning is that a Solution deployed today, against Foundation `v1`, continues to operate against `v1` even after the Foundation publishes a `v2`. The Foundation does not silently upgrade running Solutions. **That is by design** — silent upgrades would violate Invariant 2 (No Self-Modification) at the system level.
 
-What does happen is that UNICOREMASTER (per [00062](00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md)) monitors the version drift between deployed Solutions and the canonical heads of the three corpora. When a Solution's pinned version falls behind the canonical head, UNICOREMASTER's workflow surfaces the staleness as a governance event. Operators decide when to redeploy; the system does not decide for them.
+What does happen is that UNICOREMASTER (per [00062](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md))) monitors the version drift between deployed Solutions and the canonical heads of the three corpora. When a Solution's pinned version falls behind the canonical head, UNICOREMASTER's workflow surfaces the staleness as a governance event. Operators decide when to redeploy; the system does not decide for them.
 
 ---
 
@@ -213,7 +213,7 @@ A new session may be attempted. The termination counter (§6.5) applies.
 
 ### 6.5 Termination counter and the failure ladder
 
-Three terminated sessions within a configurable time window (`X` minutes, configurable in the AgentClaw configuration) trigger the **PairingWorkflow**. The PairingWorkflow is the entry point to the failure ladder specified in [00062 Pairing Failure Ladder, PAUSE Mode And EMERGENCY](00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md).
+Three terminated sessions within a configurable time window (`X` minutes, configurable in the AgentClaw configuration) trigger the **PairingWorkflow**. The PairingWorkflow is the entry point to the failure ladder specified in [00062 Pairing Failure Ladder, PAUSE Mode And EMERGENCY](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md)).
 
 The recursive-3 cadence used by the rest of the failure ladder begins here. Three terminated sessions in `X` minutes is the first rung.
 
@@ -243,9 +243,9 @@ This document specifies the bond mechanism and the session-opening protocol. The
 - [UniCORE-AI/levels/v1/](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels/v1) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/tree/main/levels/v1)) — the per-Level corpus that Step 3 of the opening protocol delivers.
 - [UniVERSE/programme-corpus/v1/](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/programme-corpus/v1) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/tree/main/programme-corpus/v1)) — the programme-level corpus that Solutions embed.
 - [00058 Claw](https://git.unitek-systems.com/UniCORE/UniVERSE/src/branch/main/docs/00058-Claw.md) (mirror: [GitHub](https://github.com/bryanunitek/UniVERSE/blob/main/docs/00058-Claw.md)) — the vocabulary (Claw, ExternalClaw, PairedClaw, UniCORE.Law-Claw) and the conceptual definition of PairedClaw.
-- [00060 Supported AI Provider List](00060-Supported-AI-Provider-List.md) — the 12 provider families whose AgentClaws can be paired.
-- [00062 Pairing Failure Ladder, PAUSE Mode And EMERGENCY](00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) — what happens when bonds fail repeatedly.
+- [00060 Supported AI Provider List](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00060-Supported-AI-Provider-List.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00060-Supported-AI-Provider-List.md)) — the 12 provider families whose AgentClaws can be paired.
+- [00062 Pairing Failure Ladder, PAUSE Mode And EMERGENCY](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/00062-Pairing-Failure-Ladder-Pause-Mode-And-EMERGENCY.md)) — what happens when bonds fail repeatedly.
 - [10001 Singular Pairing Principle](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) — the rule that PairedClaw bonds are singular per workstream.
 - [10004 Reversibility](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10004-Reversibility-How-TrueAI-Handles-A-False-TRUE.md)) — the rule that lets a verified `TRUE` be demoted back to `UNVERIFIED`, applied here to the bond itself.
 
-Revisions to this document are recorded in git history per the [HORIZON.md versioning discipline](../HORIZON.md#versioning-is-not-yet-enabled). The `Version: 1.0` line is a programme-document placeholder. Read changes from the git log.
+Revisions to this document are recorded in git history per the [HORIZON.md versioning discipline](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/HORIZON.md#versioning-is-not-yet-enabled) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/HORIZON.md#versioning-is-not-yet-enabled)). The `Version: 1.0` line is a programme-document placeholder. Read changes from the git log.

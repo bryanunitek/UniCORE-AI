@@ -4,9 +4,9 @@ The canonical UniCORE AI architecture document.
 
 | File | Audience | Length | Use |
 |---|---|---|---|
-| [WHITEPAPER.md](./WHITEPAPER.md) | Architects, engineers, standards bodies, procurement / assurance teams, regulators, researchers | ~30 KB | The artifact of record. Cite this. |
+| [WHITEPAPER.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/docs/whitepaper/WHITEPAPER.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/docs/whitepaper/WHITEPAPER.md)) | Architects, engineers, standards bodies, procurement / assurance teams, regulators, researchers | ~30 KB | The artifact of record. Cite this. |
 
-The companion press release lives in [`../../press/`](../../press/) as a dated file. See [`../../press/README.md`](../../press/README.md) for the index.
+The companion press release lives in [`../../press/`](../../press/) as a dated file. See [`../../press/README.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/press/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/press/README.md)) for the index.
 
 ## What this document is
 

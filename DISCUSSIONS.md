@@ -18,7 +18,7 @@ Discussions on this repository are the right place for:
 ## What Discussions are not for
 
 - **Commercial solicitation.** UniCORE AI is a gift, not a product. Do not pitch services, partnerships, or sales here.
-- **Claims that reclassify UniCORE AI or TrueAI as a product, platform, SaaS offering, tool category, certification scheme, or brand for sale.** These are governance work, not commercial offerings. See [STATEMENT-ON-CLAIMS.md](STATEMENT-ON-CLAIMS.md) for the binding rules on how the names may and may not be used here.
+- **Claims that reclassify UniCORE AI or TrueAI as a product, platform, SaaS offering, tool category, certification scheme, or brand for sale.** These are governance work, not commercial offerings. See [STATEMENT-ON-CLAIMS.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/STATEMENT-ON-CLAIMS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/STATEMENT-ON-CLAIMS.md)) for the binding rules on how the names may and may not be used here.
 - **Paid consultancy intake.** If your organisation wants paid help adopting UniCORE AI, use the private contact route rather than the public Discussions tab.
 - **Private or confidential material.** Discussions are public, permanent, and indexed. If you cannot say it in public, do not say it here.
 - **Unrelated bug reports.** UniCORE AI is an architecture, not a shipped software product. Bugs in a tool that references UniCORE AI belong in that tool's own repository.

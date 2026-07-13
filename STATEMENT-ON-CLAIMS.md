@@ -79,7 +79,7 @@ The legal vehicle for this rule is `BRAND-AND-TRADEMARK-USE-POLICY.md` §4.5 (ba
 
 ## Application to GitHub Discussions
 
-This statement is a binding rule of the UniCORE AI Discussions space, in addition to the rules at [DISCUSSIONS.md](DISCUSSIONS.md).
+This statement is a binding rule of the UniCORE AI Discussions space, in addition to the rules at [DISCUSSIONS.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/DISCUSSIONS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/DISCUSSIONS.md)).
 
 In Discussions on this repository, participants may not:
 
@@ -91,7 +91,7 @@ In Discussions on this repository, participants may not:
 
 Threads and replies of this kind will be removed without notice. Repeat behaviour will lead to participation being withdrawn. The author or moderators will, where useful, reply with a short pointer to this statement before removal.
 
-This is not a restriction on debate. Architecture critique, scenario stress-tests, implementation reports, adoption questions, translation, correction, and adaptation under CC BY 4.0 remain welcome and are the primary purpose of the Discussions space — see [DISCUSSIONS.md](DISCUSSIONS.md).
+This is not a restriction on debate. Architecture critique, scenario stress-tests, implementation reports, adoption questions, translation, correction, and adaptation under CC BY 4.0 remain welcome and are the primary purpose of the Discussions space — see [DISCUSSIONS.md](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/DISCUSSIONS.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/DISCUSSIONS.md)).
 
 ## Why this matters
 

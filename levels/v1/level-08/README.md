@@ -12,4 +12,4 @@ A Solution built against `levels/v1/` reads whichever content exists in this fol
 
 **Structural placeholder.** The substantive per-Level material for Level 08 is curated in subsequent commits, separately from the initial folder structure. A Solution built against `v1` at the time of structure creation reads only this README. As content is added, future builds read the expanded folder.
 
-See [`../README.md`](../README.md) for the `levels/v1/` versioning discipline and [`../../README.md`](../../README.md) for the cross-version `levels/` discipline.
+See [`../README.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels/v1/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/levels/v1/README.md)) for the `levels/v1/` versioning discipline and [`../../README.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/levels/README.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/levels/README.md)) for the cross-version `levels/` discipline.
