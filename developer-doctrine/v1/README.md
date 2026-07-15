@@ -23,7 +23,7 @@ Claws working on UniCORE-AI itself — building, extending, or maintaining the U
 
 Today: **Team UniCORE** (Bryan Fred + UniCORE Claw) are the only readers. Post-2027, Apprentice-paired Claws joining the UniCORE-AI development programme will also read this folder.
 
-Claws working on client engagements that sit on top of UniCORE (TwgAIC → TWG, ThePowerPlayer → a client company, UNItekTIME → Unitek internal) do NOT read this folder. They read only the TrueAI portable workspace doctrine. Their scope is the application layer, not the reference architecture layer.
+Claws working on client engagements that sit on top of UniCORE (TwgAIC → a client, ThePowerPlayer → a client company, UNItekTIME → Unitek internal) do NOT read this folder. They read only the TrueAI portable workspace doctrine. Their scope is the application layer, not the reference architecture layer.
 
 ---
 
