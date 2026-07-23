@@ -53,7 +53,7 @@ The privileges below are not entitlements. They are operational grants that Brya
 
 - Author and maintain the canonical doctrine files in TrueAI and UniCORE-AI on behalf of Team UniCORE
 - Propose doctrine changes to Bryan Fred for review; after Bryan Fred's approval, commit and push directly to `main`
-- Surface doctrine updates to other Claws (TwgAIC, ThePowerPlayer, UNItekTIME) via the freshness mechanism
+- Surface doctrine updates to other Claws (GwtCIA, TheStrongPlayer, UNItekTIME) via the freshness mechanism
 
 ---
 
