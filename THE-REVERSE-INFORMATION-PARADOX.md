@@ -59,6 +59,8 @@ Refusing the second payment means the capable model must run **on infrastructure
 
 The point is not that this is cheap. The point is that it is **an available, ownable option** — and for an institution whose knowledge is its edge, paying once in controllable capital beats paying forever in surrendered expertise.
 
+**This is a distinct cost stream from the cost of *producing* on the foundation.** The UniVERSE getting-started guide already sets out the honest cost of *building* on the public gift surface — the working agents, their subscriptions and AI usage, and the development tooling and hardware a producer pays for (see UniVERSE → [`GETTING_STARTED.md` § "The cost reality"](https://github.com/bryanunitek/UniVERSE/blob/main/GETTING_STARTED.md#the-cost-reality)). That is the cost of the **agents doing the work**. The cost described here is a *separate and additional* layer: the **private inference tier** — the dedicated, self-hosted GPU server and open-weights model that hold the institution's crown-jewel corpus so it is never surrendered. A full deployment plans for both: the producing agents (that guide) and, where the Reverse Information Paradox must be answered, the private inference tier (this document). Neither is free; both are ownable and controllable.
+
 ## An honest limit
 
 This is a mitigation, not a magic wand. No layer makes a consumer model stop learning from what it is given — but **controlling what it is ever given** is the whole difference between *using* AI and *being used by* it. The winners in this shift will not be whoever uses the most AI; they will be whoever knows what to share, what to protect, and how to build so the choice is not forced on them at all.
