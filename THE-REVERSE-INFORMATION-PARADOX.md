@@ -46,6 +46,19 @@ Concretely, document production that draws on an institution's historical corpus
 
 This is the distinction the TrueAI Foundation draws between **Consumer AI** and **Institutional AI**. A general-purpose model is the engine; it is not, by itself, a system fit to sit in the critical path of a consequential decision. Institutional-grade AI is not consumer AI with better prompts — it is consumer AI with a governed, accountable layer on top, so capability flows in without the crown jewels flowing out.
 
+## The honest cost: this is an option, and it is not free
+
+Answering the paradox this way has a real price, and it should be stated plainly rather than sold as a free win. **It is an option with a cost, not a default.**
+
+Refusing the second payment means the capable model must run **on infrastructure the institution controls** — which, in practice, means a **dedicated private AI server**. That has concrete implications:
+
+- **An open-weights model, self-hosted.** You cannot air-gap a model you are only renting through someone else's API. The private tier runs an open-weights model the institution can hold on its own hardware — for example a model from the **Qwen** family (strong at document reading, extraction, and long context, with a permissive licence on common variants — verify the exact variant's licence before committing). The choice of model is the *engine* decision; the governance layer on top is what makes it institutional.
+- **A dedicated, GPU-equipped server.** Interactive document work at useful model sizes is a **GPU** workload, not a spare-CPU one. That means a dedicated machine with enough GPU memory (VRAM) to hold the model plus its working context — a mid-size model needs roughly a single professional GPU; a larger, higher-quality model needs substantially more. General-purpose CPUs and RAM are not the constraint; **GPU memory, power, and cooling are.**
+- **Capital expense, deliberately.** A dedicated private AI server is a real capital outlay — the hardware, the GPU, the power and cooling, and the operational discipline to run it. That cost *is* the price of not paying the second time. The institution trades a **capex it controls** for the elimination of an **invisible, recurring surrender of its proprietary knowledge.** For an institution whose corpus is its core value, that is usually the cheaper trade over any real horizon — but it is a trade, made with eyes open, not a free feature.
+- **Sized to the need.** The cost scales with ambition: a smaller model on a single GPU is enough to validate the approach and to serve modest workloads; a production system serving many users at the highest document quality wants more GPU and more memory. An institution can start small and grow the private tier as the value proves out.
+
+The point is not that this is cheap. The point is that it is **an available, ownable option** — and for an institution whose knowledge is its edge, paying once in controllable capital beats paying forever in surrendered expertise.
+
 ## An honest limit
 
 This is a mitigation, not a magic wand. No layer makes a consumer model stop learning from what it is given — but **controlling what it is ever given** is the whole difference between *using* AI and *being used by* it. The winners in this shift will not be whoever uses the most AI; they will be whoever knows what to share, what to protect, and how to build so the choice is not forced on them at all.
