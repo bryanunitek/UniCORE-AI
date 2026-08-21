@@ -30,6 +30,11 @@
       "description": "How a new vertical enters the UniCORE reference architecture"
     },
     {
+      "name": "TRUTH-ACCURACY-STATUS-REPORT.md",
+      "sha256": "TODO: populate via `git hash-object TRUTH-ACCURACY-STATUS-REPORT.md` after first commit",
+      "description": "TRUTH Accuracy Status Report format — per-Claw truth-discipline self-audit (C1-C4 counts+ratios, EU AI Act mapped). DRAFT, pending L12 ratification"
+    },
+    {
       "name": "APPRENTICESHIP-ONBOARDING.md",
       "sha256": "TODO: populate via `git hash-object APPRENTICESHIP-ONBOARDING.md` after first commit",
       "description": "Post-2027 apprenticeship programme for new UniCORE-AI developers"
