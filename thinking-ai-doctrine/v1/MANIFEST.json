@@ -1,0 +1,40 @@
+{
+  "version": "v1",
+  "folder": "thinking-ai-doctrine/v1",
+  "repo": "bryanunitek/UniCORE-AI",
+  "description": "The Thinking AI (1H2C) doctrine — a declared Singular-Pairing variant for Level-4 two-Claw thinking, under CC BY 4.0",
+  "licence": "CC BY 4.0",
+  "author": "Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom",
+  "files": [
+    {
+      "name": "README.md",
+      "sha256": "git-hash-object: 9e08f5f5dfbe217846f873d6fa42aba0146c2698",
+      "description": "Entry point — folder purpose, the 1H2C variant declaration, read order"
+    },
+    {
+      "name": "FOUNDATION.md",
+      "sha256": "git-hash-object: b0d07c6067ec51d92eef821fcee13ae926151ff8",
+      "description": "Core 1H2C doctrine — two-hemisphere thinking, steer-and-human-advance mechanic, Level-4-only scope, TrueAI-mandatory inter-Claw channel, human as sole accountable owner"
+    },
+    {
+      "name": "INVARIANT-CONFORMANCE.md",
+      "sha256": "git-hash-object: e3ce007f2b6a419d1f5e350d4faa3af0a5dd53c8",
+      "description": "Point-by-point demonstration that 1H2C satisfies all Nine Invariants, with explicit care for Invariants 1, 3, and 9"
+    },
+    {
+      "name": "EPISTEMIC-STATUS.md",
+      "sha256": "git-hash-object: 1be4778d4381a42f18282d32a121631402f15f68",
+      "description": "Mandatory variant declaration per Singular Pairing Principle section 8 — untested theory, not certifiable, not Powered-by-UniCORE-AI, must disclose"
+    },
+    {
+      "name": "MANIFEST.md",
+      "sha256": "git-hash-object: a7797660109f7d0528a3d03e0a7f5a196b513a2b",
+      "description": "Human-readable manifest of this folder"
+    },
+    {
+      "name": "MANIFEST.json",
+      "sha256": "TODO: populate via `git hash-object MANIFEST.json` after first commit",
+      "description": "Machine-parseable manifest with SHA-256 hashes"
+    }
+  ]
+}
