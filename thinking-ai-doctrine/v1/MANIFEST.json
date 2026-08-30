@@ -8,7 +8,7 @@
   "files": [
     {
       "name": "README.md",
-      "sha256": "git-hash-object: b15b71982b08b047ad0546970ededcb807c284d7",
+      "sha256": "git-hash-object: cba5cc2a6907a4bd46708128e611aba5d53aa5ae",
       "description": "Entry point — folder purpose, the 1H2C variant declaration, read order"
     },
     {
@@ -27,13 +27,18 @@
       "description": "Mandatory variant declaration per Singular Pairing Principle section 8 — untested theory, not certifiable, not Powered-by-UniCORE-AI, must disclose"
     },
     {
+      "name": "VARIANTS.md",
+      "sha256": "git-hash-object: 77ded347e6ec94701f25cb06525f0e126b798767",
+      "description": "Public disclosure of the multi-Claw design space (N / models / providers / roles + cross-company consensus); defensive prior art, illustrative not limiting"
+    },
+    {
       "name": "USE-CASES.md",
       "sha256": "git-hash-object: 7f184033c09ae1f7626be7f3275b312046b1635d",
       "description": "Ten worked AI-Maturity Level 4 examples showing the think/decide boundary: 1H2C thinks, the human decides under 1H1C"
     },
     {
       "name": "1H1C-vs-1H2C.html",
-      "sha256": "git-hash-object: ccf329338be65232becda7cadf58cf303119e3aa",
+      "sha256": "git-hash-object: fab4de05b1f3946db1bc91b66e7a6f9dcaec0e7c",
       "description": "Standalone diagram (HTML + inline SVG) contrasting 1H1C deciding with 1H2C thinking"
     },
     {
