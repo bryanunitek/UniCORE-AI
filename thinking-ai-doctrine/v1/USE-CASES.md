@@ -142,6 +142,24 @@ The human steers: *"design learning pathways for this class."* The two Claws bou
 
 ---
 
+## 11. Earth-systems monitoring — a standing 1HNC for long-horizon science
+
+This example differs from the ten above: it is a **standing, long-lived** 1HNC that runs continuously (human-advanced, never self-looping), rather than a single exploration.
+
+A researcher wants to explore a contested, long-horizon hypothesis in earth systems — for instance, whether a set of phenomena across very different timescales (geomagnetic drift, solar/auroral activity, jet-stream dynamics, observed extreme weather, wildfires, and natural disasters, against the backdrop of glacial-cycle forcing) are linked, and what they imply. The human steers; the Claws bounce:
+
+- **A →** proposes a linkage or a model connecting two threads.
+- **B ←** challenges it hard: these phenomena sit on *causally separate* footings and *vastly different timescales*; it marks any unsupported cross-thread causal claim **UNVERIFIED** or **FALSE**, and tracks the honestly-contested hypotheses as contested.
+- **A →** re-grounds on what the evidence actually supports, proposes what data would test the link.
+- **B ←** tests against the physical record, confirms what holds, disputes what doesn't.
+- … the exchange runs on a standing cadence (a human-owned schedule, on new-data arrival, and on manual steer), building a grounded, truth-marked corpus over time.
+
+**Why 1HNC fits this so well:** a contested long-horizon hypothesis is exactly where ungrounded AI is most dangerous — it will confidently assert a satisfying causal story. The Challenger hemisphere's standing job is to keep every claim honest (TRUE / FALSE / UNVERIFIED), so the human's hypothesis is *rigorously explored and tested* rather than *asserted or dismissed*. Cross-company model composition strengthens this further: agreement across independent vendor substrates is a stronger signal, disagreement surfaces the contested points. The accumulated corpus becomes the researcher's owned thinking model of the domain; its disposition (private / public CC BY 4.0 / mixed) is the human's sovereign call.
+
+**1HNC = thinking together, continuously, on the truth.** **1H1C = any consequential decision, forecast, or public claim** — which returns to the accountable human.
+
+---
+
 ## Summary
 
 A 1H2C is a **thinking engine**, not a decision engine. It is used when the human needs exploration, modelling, hypothesis generation, interpretation, scenario construction, or multi-perspective reasoning. It is **never** used for consequential decisions — that is the role of 1H1C.
