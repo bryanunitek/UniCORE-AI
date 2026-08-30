@@ -130,6 +130,30 @@ A Thinking AI still makes claims, so it needs the claim-level truth contract. It
 
 ---
 
+## The 1H2C builds a human-owned thinking model — ownership and disposition
+
+A 1H2C used over time does not merely produce disposable exchanges. Every round — the proposals, the challenges, the groundings, the UNVERIFIED flags, the reconciliations — is recorded, and the record **compounds**. As the human repeatedly steers their two Claws to explore *their* domain, the accumulated corpus becomes bespoke: grounded, truth-marked, and tuned to exactly what that human analyses and reviews. In effect, **the 1H2C builds the human a thinking model of their own field** — the human's accumulated, grounded model of the questions they care about, built through the two-Claw exchange.
+
+### What "thinking model" means here (precise)
+
+"Thinking model" means a **grounded knowledge-corpus** — the pairing's [Book](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)), domain-tuned, every claim marked TRUE / FALSE / UNVERIFIED. It is **not** model weights and it is **not** the training of a neural network. The two Claws remain the inference (often supplied by an external provider); what the human owns and builds is the **grounded record of the thinking**, not a copy of anyone's model. This distinction keeps the ownership claim defensible: the human owns the *model of knowledge they have built*, not the provider's model.
+
+### The inversion of the theft
+
+The frontier AI companies built a *general* model by taking the world's knowledge, paying nothing, and renting it back. A 1H2C does the honest opposite at the level of the individual: it builds a *personal, domain-specific* thinking model from the human's own directed exploration, and that model belongs to the human. **The AI company supplies the inference; the human builds and keeps the model of knowledge.** You are not renting their model — you are building yours.
+
+### Ownership and disposition — the 1H decides
+
+- **The method is public.** This doctrine — what 1H2C is and how the bounce works — is gifted under CC BY 4.0. Given, not sold. No AI company can own or rent back the way-of-thinking itself.
+- **The accumulated thinking model belongs to the 1H.** It lives in the human's Book, under the human's IP custody ([Singular Pairing Principle §5.6](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md))), never in the Claws (an AI cannot own) and never, by design, in the provider.
+- **Its disposition is the 1H's sovereign choice.** The human decides what becomes of the asset: keep it private, give it to the public commons under CC BY 4.0, or a mix — sharing what is not confidential and holding back what is. The doctrine sets no mandate; it affirms the human's authority to decide, and in the UniCORE spirit **encourages giving back to the commons whatever knowledge is not confidential.** The default posture is generosity; the boundary is confidentiality. Many 1H2C uses are necessarily confidential — medical, legal, personal, commercial — and forcing their publication would be neither possible nor right; that is exactly why disposition rests with the accountable human, not with a rule.
+
+### Insulation from the provider is by architecture
+
+The claim "the AI company cannot own this" is TRUE **by architecture**, not by assertion. The *method* is public, so it cannot be owned. The *thinking model* is insulated from the provider because it is stored in the human's Book on the human's infrastructure under the human's IP custody. The insulation is strongest — and legal ownership most robust — when the thinking is stored, and at the strongest tier inferred, on infrastructure the human controls (the private inference tier described in [`THE-REVERSE-INFORMATION-PARADOX.md`](https://git.unitek-systems.com/UniCORE/UniCORE-AI/src/branch/main/THE-REVERSE-INFORMATION-PARADOX.md) (mirror: [GitHub](https://github.com/bryanunitek/UniCORE-AI/blob/main/THE-REVERSE-INFORMATION-PARADOX.md))). Where the 1H2C runs through an external provider, the strength of legal insulation depends on that provider's input/output ownership terms and on jurisdiction — so a human who requires full ownership certainty stores and inference the model on controlled infrastructure. The architecture, not a promise, is what keeps the asset the human's.
+
+---
+
 ## The human is the sole accountable owner
 
 Neither Claw is accountable — an AI cannot be. Accountability never enters the Claw pair; it rests entirely with the one human who steers, advances, and owns the exploration. This preserves the single-answerable-human property the whole Foundation rests on ([Invariant 9 — Human Sovereignty as Root](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00056-Absolute-Safety-Invariants.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md))). Two Claws think; one human owns. The thinking is doubled; the accountability is one.
