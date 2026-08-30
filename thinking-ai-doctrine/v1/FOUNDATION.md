@@ -72,6 +72,51 @@ The Claws may venture into the unproven — that is what thinking is — but a v
 
 ---
 
+## The core distinction — 1H2C is for thinking; 1H1C is for deciding
+
+This is the heart of the doctrine, and it is the line that keeps 1H2C safe.
+
+- **A 1H1C pairing** — one human, one Claw, the Singular Pairing shape — is for **consequential decisions**: when a human must commit, choose, rule, set policy, or accept a consequence with a single, aligned, invariant-bound AI partner. It is the certified, non-variant shape, governed by the [Singular Pairing Principle](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) and, at the consequential tier, by the UniCORE AI 12-Level Governance model with the human accountable at Governance Level 12.
+- **A 1H2C pairing** — one human, two equal Claws — is a **variant thinking shape**: for structured, multi-perspective thinking, exploration, modelling, and hypothesis generation. It is a *thinking engine*, not a *decision engine*.
+
+The human is sovereign in both. Only the **purpose** differs: **the human steers, the Claws think, the human decides.** The thinking may happen in 1H2C; the decision never does — the decision returns to the human, taken (where consequential) under 1H1C.
+
+### What a 1H2C is for
+
+- Exploration
+- Hypothesis generation
+- Scenario construction
+- Interpretation
+- Analysis and synthesis in parallel
+- Thinking without acting
+
+### What a 1H2C is NOT for
+
+A 1H2C is never the shape in which:
+
+- a decision is made,
+- a commitment is chosen,
+- a policy is set,
+- a judgment is issued,
+- a consequence is accepted,
+- an action is taken.
+
+Those are consequential acts. They belong to the human, taken under 1H1C at the production tier — never inside the two-Claw thinking exchange.
+
+### Illustrations (the think / decide boundary)
+
+Each example is an AI-Maturity Level 4 (Assistant Institutional AI) *thinking* use of 1H2C; the consequential *decision* in each case returns to the human under 1H1C at the production tier.
+
+1. **A doctor exploring disease mechanisms.** 1H2C to *think* — explore pathways, generate hypotheses, model interactions. Deciding the treatment is 1H1C.
+2. **A judge studying case law.** 1H2C to *think* — compare precedents, interpret conflicts. Issuing the ruling is 1H1C.
+3. **A leader exploring strategy.** 1H2C to *think* — map futures, test scenarios. Choosing the strategy is 1H1C.
+4. **A scientist modelling futures.** 1H2C to *think* — simulate, analyse, construct models. Deciding policy or action is 1H1C.
+5. **A security director investigating a breach.** 1H2C to *think* — analyse logs, build hypotheses. Deciding containment actions is 1H1C.
+
+The rule beneath all five: **a Thinking AI thinks; it never decides.** The moment a consequence attaches, the shape is 1H1C and the human owns the act.
+
+---
+
 ## No 12-Level Governance — and why that is correct
 
 1H2C does **not** carry the [UniCORE AI 12-Level Governance model](../../levels). That ladder governs **consequential decisions** — critical-path work, the hard-post, human-authorises-every-decision, liability. 1H2C makes no consequential decisions; it thinks. Importing the decision-governance ladder into a non-consequential thinking structure would be putting a courtroom's rules of evidence around a brainstorm.
