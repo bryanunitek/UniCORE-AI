@@ -1,6 +1,6 @@
 # Thinking AI Doctrine — 1H2C
 
-**The doctrine for a Thinking AI: One Human, Two Claws (1H2C) — a Level-4 exploration structure where two equal Claws think by bouncing off each other, always on TrueAI, advanced and owned by one human.**
+**The doctrine for a Thinking AI: One Human, Two Claws (1H2C) — an AI-Maturity Level 4 (Assistant Institutional AI) exploration structure where two equal Claws think by bouncing off each other, always on TrueAI, advanced and owned by one human.**
 
 > Given, not sold. Attribution required. Ownership not claimed. All content in this repository is provided under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See [`../../LICENSE.md`](../../LICENSE.md).
 
@@ -27,7 +27,7 @@ The variant is only in the **pairing shape** (two Claws instead of one). The Tru
 | File | Purpose |
 |---|---|
 | `README.md` | This file. |
-| [`FOUNDATION.md`](FOUNDATION.md) | The core 1H2C doctrine: what a Thinking AI is, the two-hemisphere principle, the steer-and-advance mechanic, Level-4-only scope, TrueAI-mandatory inter-Claw channel, the human as sole accountable owner. |
+| [`FOUNDATION.md`](FOUNDATION.md) | The core 1H2C doctrine: what a Thinking AI is, the two-hemisphere principle, the steer-and-advance mechanic, AI-Maturity-Level-4-only scope, TrueAI-mandatory inter-Claw channel, the human as sole accountable owner. |
 | [`INVARIANT-CONFORMANCE.md`](INVARIANT-CONFORMANCE.md) | Point-by-point demonstration that 1H2C satisfies each of the Nine Invariants — with particular care for No Autonomy (1), No Emergent Behaviour (3), and Human Sovereignty (9), the three most at risk from a two-Claw shape. |
 | [`EPISTEMIC-STATUS.md`](EPISTEMIC-STATUS.md) | The mandatory variant declaration per Singular Pairing Principle §8: untested theory, not certifiable, not `Powered by UniCORE AI`, must be disclosed. States plainly what is TRUE, what is UNVERIFIED, and what 1H2C may and may not claim. |
 | [`MANIFEST.md`](MANIFEST.md) | Integrity index, human-readable. |

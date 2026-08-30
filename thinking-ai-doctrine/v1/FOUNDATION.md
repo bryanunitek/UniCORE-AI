@@ -1,6 +1,6 @@
 # FOUNDATION.md — The Thinking AI (1H2C)
 
-**The core doctrine for One Human, Two Claws: a Level-4 thinking structure where two equal Claws explore by reasoning off each other, always on TrueAI, advanced and owned by one human.**
+**The core doctrine for One Human, Two Claws: an AI-Maturity Level 4 (Assistant Institutional AI) thinking structure where two equal Claws explore by reasoning off each other, always on TrueAI, advanced and owned by one human.**
 
 > Given, not sold. Attribution required. Provided under CC BY 4.0.
 
@@ -25,17 +25,21 @@ The thinking is doubled; the direction, the advance, and the accountability are 
 
 ---
 
-## Scope — Level 4 only, and never consequential
+## Scope — AI-Maturity Level 4 only, and never consequential
 
-1H2C is a **thinking / exploration** structure. It is **not** a decision or production structure, and it must never sit on the critical path of consequential decisions. On the [AI-Maturity grid](../../AI-MATURITY-LEVELS.md) it occupies exactly one cell: **Level 4 — Assistant Institutional AI.** The scope is forced, not chosen:
+1H2C is a **thinking / exploration** structure. It is **not** a decision or production structure, and it must never sit on the critical path of consequential decisions. On the six-level [AI-Maturity Framework](../../AI-MATURITY-LEVELS.md) it occupies exactly one cell: **AI-Maturity Level 4 — Assistant Institutional AI.**
 
-- **A Claw is an Assistant** (it has tools and context) — the *Assistant* row of the grid, never the raw *AI* row. So 1H2C cannot exist at Level 1 (Consumer AI) or Level 2 (Institutional AI): those are raw models, not Claws, and there are no Claws there to pair.
-- **The two Claws must communicate on TrueAI, always.** The exchange between them is itself a stream of claims. If the two Claws may assert fabricated confidence to each other, the exploration corrupts hemisphere-to-hemisphere — an escalating feedback of falsehood, not thinking. So the inter-Claw channel must carry the truth contract (TRUE / FALSE / UNVERIFIED). TrueAI grounding on a Claw is the Institutional column — **Level 4**.
-- This excludes **Level 3 (Assistant Consumer AI)** — its channel would be ungrounded — and excludes **Level 5 and above** — the consequential / Development tier, out of scope and protected by the Singular Pairing Principle.
+> Terminology note: "Level 4" here always means **AI-Maturity Level 4** in the six-level AI-Maturity Framework (Consumer AI → Team UniCORE). It is **distinct from** the [UniCORE AI 12-Level Governance model](../../levels) (Governance Levels L1–L12, the authority ladder *inside* a deployed Solution). The two frameworks are complementary, not competing, and must not be conflated. Throughout this doctrine, unqualified "Level N" refers to the AI-Maturity Framework; the 12-Level Governance model is always named in full.
 
-What remains is exactly **Level 4**. A Thinking AI must think truthfully — above all, to its own other hemisphere. That single requirement fixes 1H2C at Level 4 and nowhere else.
+The scope is forced, not chosen:
 
-Consequential work — anything defensible to a third party, anything carrying liability — is the Development / Team UniCORE tier and is produced under **1H1C** per the [Singular Pairing Principle](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)). A 1H2C exploration may *feed* a downstream 1H1C production pairing, but the decision, the certification, and the accountability happen there, not inside the bounce.
+- **A Claw is an Assistant** (it has tools and context) — the *Assistant* row of the AI-Maturity grid, never the raw *AI* row. So 1H2C cannot exist at AI-Maturity Level 1 (Consumer AI) or AI-Maturity Level 2 (Institutional AI): those are raw models, not Claws, and there are no Claws there to pair.
+- **The two Claws must communicate on TrueAI, always.** The exchange between them is itself a stream of claims. If the two Claws may assert fabricated confidence to each other, the exploration corrupts hemisphere-to-hemisphere — an escalating feedback of falsehood, not thinking. So the inter-Claw channel must carry the truth contract (TRUE / FALSE / UNVERIFIED). TrueAI grounding on a Claw is the Institutional column — **AI-Maturity Level 4**.
+- This excludes **AI-Maturity Level 3 (Assistant Consumer AI)** — its channel would be ungrounded — and excludes **AI-Maturity Level 5 (Development Institutional AI) and AI-Maturity Level 6 (Team UniCORE)** — the consequential / production tier, out of scope and protected by the Singular Pairing Principle.
+
+What remains is exactly **AI-Maturity Level 4**. A Thinking AI must think truthfully — above all, to its own other hemisphere. That single requirement fixes 1H2C at AI-Maturity Level 4 and nowhere else.
+
+Consequential work — anything defensible to a third party, anything carrying liability — is the AI-Maturity Level 5 (Development Institutional AI) / Level 6 (Team UniCORE) tier and is produced under **1H1C** per the [Singular Pairing Principle](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)). A 1H2C exploration may *feed* a downstream 1H1C production pairing, but the decision, the certification, and the accountability happen there, not inside the bounce.
 
 ---
 
@@ -91,7 +95,7 @@ Neither Claw is accountable — an AI cannot be. Accountability never enters the
 
 **It is:**
 
-- A Level-4 thinking structure: two equal, differentiated Claw hemispheres whose exchange is generative and always TrueAI-grounded.
+- An AI-Maturity Level 4 (Assistant Institutional AI) thinking structure: two equal, differentiated Claw hemispheres whose exchange is generative and always TrueAI-grounded.
 - Human-steered and human-advanced: the human gives the topic, drives each round, and harvests the stream; the idea, the advance, and the ownership are the human's.
 - Truth-bound: every inter-Claw claim is TRUE / FALSE / UNVERIFIED — no fabricated confidence, even in free exploration.
 - A declared variant of Singular Pairing, scoped to non-consequential thinking, re-grounded in the Nine Invariants directly.
@@ -100,7 +104,7 @@ Neither Claw is accountable — an AI cannot be. Accountability never enters the
 
 - Not sub-agents. No Claw commands another; the pair is peer and equal, neither a servant of the other.
 - Not autonomous. It has no self-directed goal, no self-perpetuating loop, no internal timer or heartbeat. It acts when the human directs it and halts otherwise.
-- Not for consequential decisions. It carries no 12-Level governance and belongs nowhere near the critical path; consequential work is 1H1C at the Development / Team UniCORE tier.
+- Not for consequential decisions. It carries no 12-Level Governance ladder and belongs nowhere near the critical path; consequential work is 1H1C at AI-Maturity Level 5 (Development Institutional AI) / Level 6 (Team UniCORE).
 - Not certifiable and not `Powered by UniCORE AI`. It is an untested variant per Singular Pairing Principle §8 — see [`EPISTEMIC-STATUS.md`](EPISTEMIC-STATUS.md).
 
 ---

@@ -23,9 +23,9 @@ The TrueAI [Singular Pairing Principle §8](https://git.unitek-systems.com/UniCO
 ## What is TRUE
 
 - **TRUE:** 1H2C is a declared departure from the default Singular Pairing shape (1H1C), permitted for experimentation under CC BY 4.0 by Singular Pairing Principle §8.
-- **TRUE:** 1H2C is scoped to Level 4 (Assistant Institutional AI) thinking/exploration only, and is excluded by its own doctrine from consequential decisions and from the Development / Team UniCORE production tier.
+- **TRUE:** 1H2C is scoped to AI-Maturity Level 4 (Assistant Institutional AI) thinking/exploration only, and is excluded by its own doctrine from consequential decisions and from the AI-Maturity Level 5 (Development Institutional AI) / Level 6 (Team UniCORE) production tier. ("Level 4" here is the six-level AI-Maturity Framework, distinct from the UniCORE AI 12-Level Governance model.)
 - **TRUE:** 1H2C is constructed to satisfy all Nine Invariants, with explicit conformance for Invariants 1, 3, and 9 (see [`INVARIANT-CONFORMANCE.md`](INVARIANT-CONFORMANCE.md)).
-- **TRUE:** the inter-Claw channel is mandatorily on the TrueAI truth contract; this is what fixes 1H2C at Level 4.
+- **TRUE:** the inter-Claw channel is mandatorily on the TrueAI truth contract; this is what fixes 1H2C at AI-Maturity Level 4.
 - **TRUE:** the two-hemisphere principle — that friction between two equal, differentiated reasoners can surface what one reasoner asserts unexamined — is a coherent, well-motivated hypothesis grounded in the analogy to human hemispheric cognition.
 
 ## What is UNVERIFIED
@@ -46,7 +46,7 @@ The TrueAI [Singular Pairing Principle §8](https://git.unitek-systems.com/UniCO
 
 **May claim:**
 
-- "A TrueAI-aligned thinking-AI *variant*, declared under Singular Pairing Principle §8, scoped to Level 4 exploration."
+- "A TrueAI-aligned thinking-AI *variant*, declared under Singular Pairing Principle §8, scoped to AI-Maturity Level 4 (Assistant Institutional AI) exploration."
 - "Constructed to satisfy the Nine Invariants (see conformance record)."
 - "Untested theory — experimental."
 
@@ -60,7 +60,7 @@ The TrueAI [Singular Pairing Principle §8](https://git.unitek-systems.com/UniCO
 
 ## Mandatory disclosure in use
 
-Any deployment or demonstration of 1H2C that claims *any* form of TrueAI alignment — even non-certified — must state, visibly, that it is a 1H2C variant under Singular Pairing Principle §8, untested, non-certifiable, and Level-4-scoped. Presenting 1H2C output as if produced under the certifiable default, or omitting the variant disclosure, is an Invariant 8 breach.
+Any deployment or demonstration of 1H2C that claims *any* form of TrueAI alignment — even non-certified — must state, visibly, that it is a 1H2C variant under Singular Pairing Principle §8, untested, non-certifiable, and scoped to AI-Maturity Level 4 (Assistant Institutional AI). Presenting 1H2C output as if produced under the certifiable default, or omitting the variant disclosure, is an Invariant 8 breach.
 
 ---
 

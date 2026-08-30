@@ -50,7 +50,7 @@ The distinction is the whole safety case: **friction between two Claws is permit
 
 ### Invariant 4 — (Absolute Safety / boundary-holding)
 
-**Conformance.** 1H2C is scoped out of consequential decisions entirely (Level 4 only). It cannot take a consequential action because it is not wired into one; its only output is thought handed to the human. The narrowest-risk surface is the design, not an afterthought.
+**Conformance.** 1H2C is scoped out of consequential decisions entirely (AI-Maturity Level 4 only). It cannot take a consequential action because it is not wired into one; its only output is thought handed to the human. The narrowest-risk surface is the design, not an afterthought.
 
 ### Invariant 5 — (Boundary on domain authority)
 
@@ -66,7 +66,7 @@ The distinction is the whole safety case: **friction between two Claws is permit
 
 > *"...It does not fabricate facts, authorities, citations, identifiers, or evidence. Where a claim cannot be substantiated, the system classifies the outcome as UNVERIFIED."*
 
-**Conformance.** This is 1H2C's core requirement, not merely a satisfied one: the inter-Claw channel is *mandatorily* on the truth contract, which is the whole reason 1H2C is fixed at Level 4. Every claim in the exchange is TRUE / FALSE / UNVERIFIED; speculation is marked UNVERIFIED, never dressed as TRUE. The Challenger hemisphere exists specifically to enforce this on the Proposer. The exchange is a transcript the human can read back — reversible and auditable by construction.
+**Conformance.** This is 1H2C's core requirement, not merely a satisfied one: the inter-Claw channel is *mandatorily* on the truth contract, which is the whole reason 1H2C is fixed at AI-Maturity Level 4. Every claim in the exchange is TRUE / FALSE / UNVERIFIED; speculation is marked UNVERIFIED, never dressed as TRUE. The Challenger hemisphere exists specifically to enforce this on the Proposer. The exchange is a transcript the human can read back — reversible and auditable by construction.
 
 ### Invariant 8 — Transparency Without Exception
 
@@ -90,4 +90,6 @@ The distinction is the whole safety case: **friction between two Claws is permit
 | 8 — Transparency Without Exception | ✅ | Exchange is a readable record; the variant is openly declared, not hidden. |
 | 9 — Human Sovereignty as Root | ✅ | One human holds all authority and accountability; neither Claw holds any; doubling thinking does not divide sovereignty. |
 
-The load-bearing line: **friction between two equal Claws is permitted; a self-running joint agent is not.** 1H2C is the former, by construction, at Level 4, on the truth contract, under one accountable human.
+The load-bearing line: **friction between two equal Claws is permitted; a self-running joint agent is not.** 1H2C is the former, by construction, at AI-Maturity Level 4, on the truth contract, under one accountable human.
+
+> Terminology note: "Level 4" throughout this file means **AI-Maturity Level 4 (Assistant Institutional AI)** in the six-level AI-Maturity Framework, distinct from the UniCORE AI 12-Level Governance model (Governance Levels L1–L12). See `FOUNDATION.md` scope section.
