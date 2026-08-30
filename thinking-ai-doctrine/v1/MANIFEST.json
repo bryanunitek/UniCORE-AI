@@ -8,7 +8,7 @@
   "files": [
     {
       "name": "README.md",
-      "sha256": "git-hash-object: 5df22896fba3e1ec6f7d8e25a6f56daf8dec8e7c",
+      "sha256": "git-hash-object: 55e28acc865f3a8b34f0b79b99e2d3b02427c902",
       "description": "Entry point — folder purpose, the 1H2C variant declaration, read order"
     },
     {
@@ -25,6 +25,16 @@
       "name": "EPISTEMIC-STATUS.md",
       "sha256": "git-hash-object: cafd9972fcc149b84453f1fa52c865bb2e235d0d",
       "description": "Mandatory variant declaration per Singular Pairing Principle section 8 — untested theory, not certifiable, not Powered-by-UniCORE-AI, must disclose"
+    },
+    {
+      "name": "USE-CASES.md",
+      "sha256": "git-hash-object: 6f449605e83a9804ef067286a323fd39872026e8",
+      "description": "Ten worked AI-Maturity Level 4 examples showing the think/decide boundary: 1H2C thinks, the human decides under 1H1C"
+    },
+    {
+      "name": "1H1C-vs-1H2C.html",
+      "sha256": "git-hash-object: ccf329338be65232becda7cadf58cf303119e3aa",
+      "description": "Standalone diagram (HTML + inline SVG) contrasting 1H1C deciding with 1H2C thinking"
     },
     {
       "name": "MANIFEST.md",

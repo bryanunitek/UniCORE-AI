@@ -30,6 +30,8 @@ The variant is only in the **pairing shape** (two Claws instead of one). The Tru
 | [`FOUNDATION.md`](FOUNDATION.md) | The core 1H2C doctrine: what a Thinking AI is, the two-hemisphere principle, the steer-and-advance mechanic, AI-Maturity-Level-4-only scope, TrueAI-mandatory inter-Claw channel, the human as sole accountable owner. |
 | [`INVARIANT-CONFORMANCE.md`](INVARIANT-CONFORMANCE.md) | Point-by-point demonstration that 1H2C satisfies each of the Nine Invariants — with particular care for No Autonomy (1), No Emergent Behaviour (3), and Human Sovereignty (9), the three most at risk from a two-Claw shape. |
 | [`EPISTEMIC-STATUS.md`](EPISTEMIC-STATUS.md) | The mandatory variant declaration per Singular Pairing Principle §8: untested theory, not certifiable, not `Powered by UniCORE AI`, must be disclosed. States plainly what is TRUE, what is UNVERIFIED, and what 1H2C may and may not claim. |
+| [`USE-CASES.md`](USE-CASES.md) | Ten worked AI-Maturity Level 4 examples (doctor, judge, climate scientist, CFO, security director, historian, leader, architect, policy official, teacher) showing the think/decide boundary: 1H2C thinks, the human decides under 1H1C. |
+| [`1H1C-vs-1H2C.html`](1H1C-vs-1H2C.html) | Standalone diagram (HTML + inline SVG) contrasting 1H1C (deciding) with 1H2C (thinking). |
 | [`MANIFEST.md`](MANIFEST.md) | Integrity index, human-readable. |
 | `MANIFEST.json` | Integrity index, machine-parseable. |
 
