@@ -42,6 +42,18 @@ The TrueAI [Singular Pairing Principle §8](https://git.unitek-systems.com/UniCO
 
 ---
 
+## On prior practice — publication, not invention, is the contribution
+
+This doctrine does **not** claim to have invented multi-Claw or multi-model reasoning.
+
+- **TRUE:** multi-agent and multi-model techniques are known and in public use — model-to-model debate, ensemble methods, self-critique, agent systems, and model-distillation-from-models all exist and are documented. Similar mechanisms to Claws-reasoning-with-Claws are real.
+- **UNVERIFIED (but plausible):** that the frontier AI models are themselves *built* by a process resembling human-governed multi-Claw reasoning. Their training pipelines are opaque; this cannot be asserted as TRUE and is not.
+- **The contribution is the disclosure, not the invention.** Whether or not multi-Claw reasoning is already practised privately, this doctrine **publicly discloses the design space — dated, attributed, CC BY 4.0** — and that act is what places the shapes in the public commons.
+
+**Why this framing is stronger than a novelty claim.** Practice held as a trade secret does not protect an idea for the public — it leaves the idea un-owned and still enclosable by a later patent. Open, dated disclosure is what moves an idea into the commons and keeps it there. So the load-bearing claim is not "we invented this" (which could be contested) but "**we gave it to the public first, in the open**" (which the dated record establishes). A company may hold the *practice*; this doctrine gives the public the *disclosure*. That is the difference between a technique being *used* and a technique being *owned by everyone* — and it is unpatentable-by-design precisely because it is disclosed, not because it is new.
+
+---
+
 ## What 1H2C may and may not claim
 
 **May claim:**
