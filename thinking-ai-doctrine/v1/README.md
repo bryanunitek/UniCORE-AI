@@ -1,6 +1,6 @@
-# Thinking AI Doctrine — 1H2C
+# Thinking AI Doctrine — 1HNC
 
-**The doctrine for a Thinking AI: One Human, Two Claws (1H2C) — an AI-Maturity Level 4 (Assistant Institutional AI) exploration structure where two equal Claws think by bouncing off each other, always on TrueAI, advanced and owned by one human.**
+**The doctrine for a Thinking AI: One Human, N Claws (1HNC, N ≥ 2) — an AI-Maturity Level 4 (Assistant Institutional AI) exploration structure where two or more equal Claws think by bouncing off each other, always on TrueAI, advanced and owned by one human. 1H2C (one human, two Claws) is the minimum viable case.**
 
 > Given, not sold. Attribution required. Ownership not claimed. All content in this repository is provided under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See [`../../LICENSE.md`](../../LICENSE.md).
 
@@ -10,7 +10,7 @@ Author: Bryan Fred, Unitek Systems Limited, Bedford, United Kingdom.
 
 ## What this doctrine is
 
-This folder holds the markdown files that define **1H2C — the Thinking AI**: a structure in which one human pairs with *two* equal Claws that explore a topic by reasoning back and forth, rather than the default one human with one Claw.
+This folder holds the markdown files that define **1HNC — the Thinking AI**: a structure in which one human pairs with *N* equal Claws (N ≥ 2) that explore a topic by reasoning back and forth, rather than the default one human with one Claw. **1H2C** — one human, two Claws — is the minimum viable case (the fewest Claws that create friction rather than echo); the general form scales to 1H3C, 1H4C, and beyond, bounded by the human's capacity to steer, integrate, and own every round. The Claws may run on the same AI model or a mix of different models (OpenClaw or any equivalent TrueAI-aligned Claw — the doctrine is provider-agnostic).
 
 1H2C is a **deliberate, declared departure** from the default Singular Pairing shape (1H1C). The TrueAI [Singular Pairing Principle §8](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) expressly permits such variants under CC BY 4.0, and fixes their epistemic status: a variant is **untested theory** until independently demonstrated, **cannot** claim `Powered by UniCORE AI` / certification (the gate recognises 1H1C only), and **must declare itself** as a variant. This doctrine makes that declaration in full — see [`EPISTEMIC-STATUS.md`](EPISTEMIC-STATUS.md).
 

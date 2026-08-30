@@ -16,7 +16,7 @@ The TrueAI [Singular Pairing Principle §8](https://git.unitek-systems.com/UniCO
 2. A variant **cannot claim** `Powered by UniCORE AI` / built-on-the-TrueAI-Foundation **certification** — the certification gate recognises 1H1C only.
 3. A variant **must declare itself** as a variant; hiding it inside a TrueAI claim is itself a breach of Invariant 8 (Transparency Without Exception).
 
-1H2C is such a variant (two Claws rather than one). This file is its declaration, stated in the truth contract's own terms.
+1HNC is such a variant (N Claws rather than one, N ≥ 2; 1H2C is its minimum case). This file is its declaration, stated in the truth contract's own terms. Everything below applies to all N ≥ 2, bounded by the human's integrative capacity (see `FOUNDATION.md` and `INVARIANT-CONFORMANCE.md`).
 
 ---
 

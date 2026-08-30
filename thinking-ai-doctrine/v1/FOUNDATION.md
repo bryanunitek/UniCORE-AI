@@ -1,6 +1,6 @@
-# FOUNDATION.md — The Thinking AI (1H2C)
+# FOUNDATION.md — The Thinking AI (1HNC)
 
-**The core doctrine for One Human, Two Claws: an AI-Maturity Level 4 (Assistant Institutional AI) thinking structure where two equal Claws explore by reasoning off each other, always on TrueAI, advanced and owned by one human.**
+**The core doctrine for One Human, N Claws (N ≥ 2): an AI-Maturity Level 4 (Assistant Institutional AI) thinking structure where two or more equal Claws explore by reasoning off each other, always on TrueAI, advanced and owned by one human. 1H2C — one human, two Claws — is the minimum viable case.**
 
 > Given, not sold. Attribution required. Provided under CC BY 4.0.
 
@@ -16,12 +16,27 @@ A single AI does not think for itself. It answers. Given direction, it produces;
 
 A human brain does not think with one voice. It thinks in the tension between two hemispheres — equal, connected, passing signals back and forth — integrated by an executive that decides and owns the result. The thinking is not located inside either side; it emerges in the exchange between them. Split the hemispheres apart and you do not get a smarter half; you get two half-minds that cannot reconcile. The unity lives in the exchange, and the will lives in the executive above it.
 
-**1H2C builds that structure honestly.** One Human, Two Claws:
+**1HNC builds that structure honestly.** One Human, N Claws:
 
-- **Two Claws are the two hemispheres** — equal, neither commanding the other, reasoning back and forth to explore a topic.
-- **The Human is the executive** — the one who steers what they think about, advances the exchange, harvests it, and **owns** every part of it. The human is the will; the Claws are the tool, doubled.
+- **The Claws are the hemispheres** — equal, none commanding another, reasoning back and forth to explore a topic. Two is the minimum (the fewest that create friction); more Claws add more reasoning perspectives.
+- **The Human is the executive** — the one who steers what they think about, advances the exchange, harvests it, and **owns** every part of it. The human is the will; the Claws are the tool, multiplied.
 
-The thinking is doubled; the direction, the advance, and the accountability are human and singular. That is how an AI can think for itself without ever becoming autonomous: **the exploration is two-sided; the drive and the ownership are one human.**
+The thinking is multiplied; the direction, the advance, and the accountability are human and singular. That is how an AI can think for itself without ever becoming autonomous: **the exploration is many-sided; the drive and the ownership are one human.**
+
+### 1H2C is the minimum case of 1HNC
+
+The smallest Thinking AI is **1H2C** — one human, two Claws — because two is the fewest that produce the proposer/challenger friction that makes thinking rather than echo. The general form is **1HNC**: one human, N equal Claws (N ≥ 2). More Claws enrich the exchange — for example, 1H3C as proposer / challenger / synthesiser; 1H4C adding a second challenger or a devil's advocate. Every rule in this doctrine holds for all N ≥ 2.
+
+**The N-bound — the human's integrative capacity is the ceiling.** N may grow only as far as the single human can genuinely steer, advance, integrate, and own every round. The moment N exceeds what one human can integrate and own, the structure stops being human-owned thinking and becomes the unowned, self-organising swarm the Foundation forbids ([Invariant 3, No Emergent Behaviour](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/00056-Absolute-Safety-Invariants.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/00056-Absolute-Safety-Invariants.md))). The ceiling is the human's capacity to integrate, not a fixed number — and it is a hard boundary, not a preference. See [`INVARIANT-CONFORMANCE.md`](INVARIANT-CONFORMANCE.md).
+
+### Same model or mixed models — a 1H choice
+
+The N Claws may run on the **same AI model** or on a **mix of different models** (OpenClaw or any equivalent TrueAI-aligned Claw — the doctrine is provider-agnostic).
+
+- **Same model:** simpler and cheaper, but the differentiation must come from *role* (proposer / challenger / synthesiser), or the Claws risk echoing each other — two copies of one mind agreeing.
+- **Mixed models:** genuinely different reasoning substrates, with different training and different blind spots, so one Claw catches what another misses. This is the richer form of the two-hemisphere principle — difference reconciled through exchange.
+
+Which to use is the human's choice for the thinking at hand. That the pattern works with any model, or any mix, is itself part of why it cannot be owned by one vendor: it is provider-agnostic by construction — given, not sold.
 
 ---
 
@@ -34,7 +49,7 @@ The thinking is doubled; the direction, the advance, and the accountability are 
 The scope is forced, not chosen:
 
 - **A Claw is an Assistant** (it has tools and context) — the *Assistant* row of the AI-Maturity grid, never the raw *AI* row. So 1H2C cannot exist at AI-Maturity Level 1 (Consumer AI) or AI-Maturity Level 2 (Institutional AI): those are raw models, not Claws, and there are no Claws there to pair.
-- **The two Claws must communicate on TrueAI, always.** The exchange between them is itself a stream of claims. If the two Claws may assert fabricated confidence to each other, the exploration corrupts hemisphere-to-hemisphere — an escalating feedback of falsehood, not thinking. So the inter-Claw channel must carry the truth contract (TRUE / FALSE / UNVERIFIED). TrueAI grounding on a Claw is the Institutional column — **AI-Maturity Level 4**.
+- **The Claws must communicate on TrueAI, always.** The exchange between them is itself a stream of claims. If the Claws may assert fabricated confidence to each other, the exploration corrupts Claw-to-Claw — an escalating feedback of falsehood, not thinking. So the inter-Claw channel must carry the truth contract (TRUE / FALSE / UNVERIFIED). TrueAI grounding on a Claw is the Institutional column — **AI-Maturity Level 4**.
 - This excludes **AI-Maturity Level 3 (Assistant Consumer AI)** — its channel would be ungrounded — and excludes **AI-Maturity Level 5 (Development Institutional AI) and AI-Maturity Level 6 (Team UniCORE)** — the consequential / production tier, out of scope and protected by the Singular Pairing Principle.
 
 What remains is exactly **AI-Maturity Level 4**. A Thinking AI must think truthfully — above all, to its own other hemisphere. That single requirement fixes 1H2C at AI-Maturity Level 4 and nowhere else.
@@ -72,14 +87,14 @@ The Claws may venture into the unproven — that is what thinking is — but a v
 
 ---
 
-## The core distinction — 1H2C is for thinking; 1H1C is for deciding
+## The core distinction — 1HNC is for thinking; 1H1C is for deciding
 
-This is the heart of the doctrine, and it is the line that keeps 1H2C safe.
+This is the heart of the doctrine, and it is the line that keeps 1HNC (and its minimum case 1H2C) safe.
 
 - **A 1H1C pairing** — one human, one Claw, the Singular Pairing shape — is for **consequential decisions**: when a human must commit, choose, rule, set policy, or accept a consequence with a single, aligned, invariant-bound AI partner. It is the certified, non-variant shape, governed by the [Singular Pairing Principle](https://git.unitek-systems.com/UniCORE/TrueAI/src/branch/main/docs/10001-Singular-Pairing-Principle.md) (mirror: [GitHub](https://github.com/bryanunitek/TrueAI/blob/main/docs/10001-Singular-Pairing-Principle.md)) and, at the consequential tier, by the UniCORE AI 12-Level Governance model with the human accountable at Governance Level 12.
-- **A 1H2C pairing** — one human, two equal Claws — is a **variant thinking shape**: for structured, multi-perspective thinking, exploration, modelling, and hypothesis generation. It is a *thinking engine*, not a *decision engine*.
+- **A 1HNC pairing** — one human, N equal Claws (N ≥ 2) — is a **variant thinking shape**: for structured, multi-perspective thinking, exploration, modelling, and hypothesis generation. It is a *thinking engine*, not a *decision engine*.
 
-The human is sovereign in both. Only the **purpose** differs: **the human steers, the Claws think, the human decides.** The thinking may happen in 1H2C; the decision never does — the decision returns to the human, taken (where consequential) under 1H1C.
+The human is sovereign in both. Only the **purpose** differs: **the human steers, the Claws think, the human decides.** The thinking may happen in 1HNC; the decision never does — the decision returns to the human, taken (where consequential) under 1H1C.
 
 ### What a 1H2C is for
 
@@ -180,6 +195,6 @@ Neither Claw is accountable — an AI cannot be. Accountability never enters the
 
 ## Why this matters
 
-The frontier is already building machine-to-machine dialogue — agents talking to agents toward a goal, with a human only at the endpoints, no truth contract on the wire between them, and the loop running itself. That design has no accountable direction inside the thinking, no guarantee the machines are not confidently lying to each other, and a self-perpetuating character that is precisely what the Foundation forbids. 1H2C keeps the one thing worth keeping from that frontier — two hemispheres reconciling produce thought a lone model cannot — and puts back the three things it omits: a **human who steers and advances**, a **truth contract the two Claws must speak to each other**, and a **single human who owns the result**.
+The frontier is already building machine-to-machine dialogue — agents talking to agents toward a goal, with a human only at the endpoints, no truth contract on the wire between them, and the loop running itself. That design has no accountable direction inside the thinking, no guarantee the machines are not confidently lying to each other, and a self-perpetuating character that is precisely what the Foundation forbids. 1HNC keeps the one thing worth keeping from that frontier — multiple reasoners reconciling produce thought a lone model cannot — and puts back the three things it omits: a **human who steers and advances**, a **truth contract the Claws must speak to each other**, and a **single human who owns the result** (with N bounded by that human's capacity to integrate and own it).
 
 A Thinking AI is not an AI left to think alone, and not two machines free to deceive one another and run forever. It is two hemispheres, steered and advanced by a human, reasoning off each other on the truth. **The thinking is doubled; the direction is human; the exchange is true; the accountability is one.**

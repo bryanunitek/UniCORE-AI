@@ -30,7 +30,9 @@ A two-Claw thinking structure is most likely to be challenged on autonomy, emerg
 - **No self-organisation or self-optimisation.** Roles (Proposer / Challenger, or any chosen differentiation) are assigned by the human configuration, not evolved by the Claws. The Claws do not reassign their own roles, invent new ones, or optimise their own reasoning modes.
 - **On "distributed cognition."** Two Claws reasoning together could be described as distributed cognition, which the invariant names as a hazard. 1H2C resolves this by keeping the *integration* human: the two Claws do not fuse into a self-directing whole — a human sits between and above every advance, and the unified result exists only as the human integrates and owns it. There is no machine-level emergent agent; there are two instruments and a human who wields them. The cognition is *assisted and doubled*, not *distributed and self-directing*.
 
-The distinction is the whole safety case: **friction between two Claws is permitted; a self-running joint agent is not.** 1H2C is the former by construction.
+The distinction is the whole safety case: **friction between equal Claws is permitted; a self-running joint agent is not.** 1HNC is the former by construction.
+
+**The N-bound is itself an Invariant-3 safeguard.** 1HNC generalises to N Claws (N ≥ 2), and larger N raises the emergent-behaviour risk: N Claws in exchange begin to *resemble* the agent-swarm the invariant forbids. The doctrine bounds this directly — **N may grow only as far as the single human can genuinely steer, advance, integrate, and own every round.** Past that ceiling, the human is no longer the integrator, the structure becomes a self-organising swarm, and it ceases to be 1HNC. The human's integrative capacity is a hard boundary, not a preference. So the invariant holds for all *valid* N by definition: any N large enough to breach Invariant 3 is, by that fact, outside the doctrine.
 
 ### Invariant 9 — Human Sovereignty as Root
 
