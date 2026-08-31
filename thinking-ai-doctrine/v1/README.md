@@ -32,6 +32,7 @@ The variant is only in the **pairing shape** (two Claws instead of one). The Tru
 | [`EPISTEMIC-STATUS.md`](EPISTEMIC-STATUS.md) | The mandatory variant declaration per Singular Pairing Principle §8: untested theory, not certifiable, not `Powered by UniCORE AI`, must be disclosed. States plainly what is TRUE, what is UNVERIFIED, and what 1H2C may and may not claim. |
 | [`VARIANTS.md`](VARIANTS.md) | Systematic public disclosure of the multi-Claw design space (axes: N, model composition, provider composition, role composition), including cross-company consensus. Defensive publication as prior art; illustrative, explicitly NOT a limiting list. |
 | [`USE-CASES.md`](USE-CASES.md) | Ten worked AI-Maturity Level 4 examples (doctor, judge, climate scientist, CFO, security director, historian, leader, architect, policy official, teacher) showing the think/decide boundary: 1H2C thinks, the human decides under 1H1C. |
+| [`WORKING-EXAMPLE.md`](WORKING-EXAMPLE.md) | The first live 1H2C in operation ("Team Climate", 30 Aug 2026): a standing earth-systems pairing of two equal Level-4 Thinking Claws managed by a separate 1H1C overseer — the composition that lets one human run multiple thinking projects. Honest disclosure of a design in operation, not a certified result. |
 | [`1H1C-vs-1H2C.html`](1H1C-vs-1H2C.html) | Standalone diagram (HTML + inline SVG) contrasting 1H1C (deciding) with 1H2C (thinking). |
 | [`MANIFEST.md`](MANIFEST.md) | Integrity index, human-readable. |
 | `MANIFEST.json` | Integrity index, machine-parseable. |
