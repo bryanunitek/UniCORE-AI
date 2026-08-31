@@ -71,6 +71,14 @@ The Claws are **equal**, because equality is what makes this thinking rather tha
 
 This makes the TrueAI truth contract a living exchange: the Challenger is a standing skepticism engine applied to the Proposer, before anything reaches the human. Other differentiations are permitted (two different models; a record-holder and a reasoner; a human-framing side and a grounded-record side reconciling the gap). Required only: the two differ enough to reconcile, and neither holds authority over the other or over the human.
 
+## What makes them two minds, not one mind talking to itself
+
+The obvious objection to 1H2C is that a *single* Claw could spawn two ephemeral sub-agents to argue with each other and reproduce the same back-and-forth. It can reproduce the **surface shape** of the exchange — and only the surface. What it cannot reproduce is the substance, and the substance is what makes 1H2C a different *kind* of structure rather than a renaming of multi-agent orchestration.
+
+The difference is that **each Claw carries its own accumulated record — its own Markdown files and its own built-up history — persisted over time.** A Claw that has repeatedly explored a domain has *accumulated* a grounded, truth-marked standpoint: what it has established as TRUE, what it flagged UNVERIFIED, what it reconciled and why. When the Challenger tests the Proposer, it tests from a genuinely different accumulated standpoint — because it has genuinely accumulated one. The friction is real because the two records are real and separate.
+
+A single Claw spawning transient sub-agents has none of this: the sub-agents hold no persistent, separately-grounded record; they spin up, echo one frame, and vanish. That is one mind role-playing disagreement with itself — the very ceiling ("it cannot get outside its own frame") that a second Claw exists to break. **The separate, persistent per-Claw record is the mechanism; the two-voice exchange is only its surface.** This is why the Claws are not sub-agents (a point the sections below restate as an equality and accountability property): they are two standing pairings, each with its own history, whose reconciliation the human integrates and owns.
+
 ---
 
 ## The mechanic — steer, and human-advance
