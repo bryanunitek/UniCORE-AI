@@ -114,6 +114,16 @@ For multiple inhabited bodies — Moon, Mars, and beyond as humanity expands —
 
 Craft that leave practical communication range — including any future interstellar craft on multi-generational journeys — become self-contained civilisations in transit. They carry the universal CORE layers (TrueAI Foundation and UniCORE AI) as substrate, and build their own Scope-Domain CORE locally as their journey progresses. On return or re-contact, they are integrated as peers, not as subjects of any earlier authority.
 
+### Devices evolve; the sovereign pairing does not
+
+**With Advanced AI, devices as we know them will all evolve with time.**
+
+The keyboard, the mouse, the desktop, the laptop, the phone — these are the interfaces of an era in which humans operate machines *directly*. As Advanced AI matures, that era changes. When a human's relationship to computing is mediated by a governed, sovereign pairing — the human decides and owns; the paired AI thinks and does; every application governed under the 12-level ladder — the human's role shifts from *operating* the machine to *directing and deciding*. The physical devices that best serve *directing and deciding* are not the devices that best served typing and clicking. So the devices will evolve. What form they take next — voice, screen, ambient, or something not yet built — this file does not predict; it only states the direction, because the direction is structural and the destination is not yet knowable.
+
+What does **not** change across that evolution is the architecture. Whatever devices become, the human still relates to computing through a **sovereign, governed pairing**: one human, one Claw to decide, and — where thinking is needed — a thinking pair to explore, the human advancing every round and owning every conclusion, all of it under governance the human sits atop. The *form of the device* is the variable; the *structure of the relationship* — human-sovereign, AI thinks-and-does-but-never-decides, governed at every level — is the constant. This is the same model-agnostic principle stated elsewhere for reasoning suppliers and CORE scopes, applied here to hardware: the device is evolvable, the reasoning supplier is swappable, and the sovereign governed pairing is what holds still.
+
+This is the load-bearing guarantee of the whole horizon: a future in which humans direct advanced AI *for everything* is a **human** future — not a deferral of human judgment to machines — precisely because the pairing thinks and does but never decides, and because every application it touches is governed by a ladder the human tops. The devices changing is inevitable. The human staying sovereign as they change is the design.
+
 ### Sovereignty by physics
 
 Where light-lag makes synchronous governance physically impossible, the architecture recognises peer status automatically rather than requiring a political event. A colony at distance is a peer Foundation-holder by physics, not by declaration. An interstellar craft governs itself locally because nothing else can — that is structural necessity, not disobedience.
