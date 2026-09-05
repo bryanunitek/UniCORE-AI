@@ -28,6 +28,24 @@ The following names and marks are claimed as trademarks of Unitek Systems Limite
 - **UniCORE.Desktop** — the desktop client applications layer name.
 - **Generation IT** — the producer-pool concept name.
 
+**These are TRADE NAMES / brand names** — the names of the programme, its entities, and its products. They are distinct from the programme's **coined terminology** (the doctrines, AI-type names, pairing-topology notation, and concept terms the programme invented), which is collated with definitions in [TERMINOLOGY.md](TERMINOLOGY.md) and covered by section 2b below.
+
+### 2b. Coined terminology (collated in TERMINOLOGY.md)
+
+Separately from the trade names above, the programme has **created terminology** — doctrine names, AI-Maturity type names, pairing-topology notation, and coined concept terms. These are collated with their definitions in **[TERMINOLOGY.md](TERMINOLOGY.md)**.
+
+Two things hold at once: **Unitek Systems Limited protects these terms** (as it protects the trade names in §2) so no one may pass them off as their own or use them to imply official status; **and** the terms are **published openly under CC BY 4.0, dated and attributed**, free for anyone to use with attribution. That public disclosure is also a **defensive publication**: the terms and the structures they denote become **prior art**, so **no other entity can patent or trademark them** and enclose them. The protection exists to keep them open, not to remove them from the commons.
+
+**Doctrine names become marks — the `⟨X⟩AI` compounds.** Each doctrine the programme publishes coins a closed-up, capitalised `⟨X⟩AI` compound as its name. The family so far: **`TrueAI`** (foundation), **`ThinkingAI`** (Thinking-AI / 1HnC doctrine), **`DeveloperAI`** (developer-role doctrine), **`ConversationAI`** (conversational-protocol doctrine). Future doctrines add further `⟨X⟩AI` marks on the same rule.
+
+**AI-type names.** The AI-Maturity vocabulary — `Consumer AI` (`ConsumerAI`), `Institutional AI` (`InstitutionalAI`), `Assistant Consumer AI`, `Assistant Institutional AI`, `Development Institutional AI` — defined in TERMINOLOGY.md.
+
+**Pairing-topology notation.** `1H1C`, `nH1C`, `1H2C`, `1HnC` — grammar `⟨count⟩H⟨count⟩C` with the lowercase variable `n` (number/count); `1HNC`/`xH1C` are the uppercase/`x` renderings of the same notation. Defined in TERMINOLOGY.md.
+
+**Coined concept terms.** `Team UniCORE`, `Singular Pairing`, `Vertical CORE`, `Generation IT`, `Reasonable Governance Threshold`, `Gift Principle`, `Human Override Protocol`, `Inter-Level Messaging`, `Positioning Principle`, `Global Virtual Bridge` — defined in TERMINOLOGY.md.
+
+**Compound vs generic.** For every `⟨X⟩AI` term the **closed-up capitalised compound** is the protected coinage (`TrueAI`, `ThinkingAI`, `DeveloperAI`, `ConversationAI`, `InstitutionalAI`, …); the corresponding **ordinary two-word phrase** ("true AI", "thinking AI", "developer AI", "conversation AI", "institutional AI", …) is generic, descriptive English and is **not** claimed by anyone — free for all to use descriptively. No one may present the compound form as their own novel mark.
+
 The following are claimed as **certification marks** of Unitek Systems Limited (or, on transfer, of the relevant Foundation):
 
 - **"Powered by UniCORE AI"** — the application-layer certification mark.
@@ -82,7 +100,7 @@ The architectural content of the canonical work is licensed under CC BY 4.0; the
 
 ### 4.4 No registration of confusingly similar marks
 
-Third parties may not register trademarks or domain names that are identical or confusingly similar to the protected names, including with minor variations (for example "UniCORE-Al" with a lowercase L, "UniVerse" with a space, "Tru-AI" with a hyphen) where the intent or effect is to suggest official status. Such registrations will be challenged.
+Third parties may not register trademarks or domain names that are identical or confusingly similar to the protected names, including with minor variations (for example "UniCORE-Al" with a lowercase L, "UniVerse" with a space, "Tru-AI" with a hyphen, a hyphenated `⟨X⟩-AI` form, or an `⟨X⟩Al`-with-lowercase-L form) where the intent or effect is to suggest official status. Such registrations will be challenged. This clause applies to the closed-up compound `⟨X⟩AI` marks (`TrueAI`, `ThinkingAI`, `DeveloperAI`, `ConversationAI`, and future doctrine marks on the same rule) and to the coined terminology collated in [TERMINOLOGY.md](TERMINOLOGY.md); it does not restrict ordinary descriptive use of the generic two-word phrases ("true AI", "thinking AI", "developer AI", "conversation AI", …), which remain free (see section 2b).
 
 ### 4.5 No use of the certification marks on military uses
 

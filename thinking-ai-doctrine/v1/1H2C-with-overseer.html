@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Thinking AI — 1H2C with an Overseer (what we built)</title>
+<style>
+  body { margin:0; background:#f7f8fa; font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif; color:#1a2230; }
+  .wrap { max-width:1080px; margin:0 auto; padding:28px 20px 40px; }
+  h1 { font-size:24px; margin:0 0 4px; }
+  .sub { color:#5a6473; font-size:14px; margin:0 0 20px; line-height:1.5; }
+  svg { width:100%; height:auto; display:block; }
+  .foot { color:#5a6473; font-size:12px; margin-top:16px; line-height:1.5; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>The Thinking AI, running — one human, two thinking AIs, one overseer</h1>
+  <p class="sub">The human stays at the centre and owns every conclusion. Two equal AIs think against each other on TrueAI (one proposes, one challenges). A third AI oversees the pair — keeping them honest, on-topic and in budget — so one person can run several thinking teams at once without ever handing over the wheel.</p>
+  <svg viewBox="0 0 1040 640" role="img" aria-label="Diagram of a human overseeing an AI overseer which manages a 1H2C proposer-challenger pair that thinks and hands results back to the human">
+    <defs>
+      <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#5a6473"/>
+      </marker>
+      <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#2f6f4f"/>
+      </marker>
+      <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#3a63c0"/>
+      </marker>
+    </defs>
+
+    <rect x="16" y="16" width="1008" height="608" rx="16" fill="#ffffff" stroke="#c9d2de" stroke-width="1.5"/>
+
+    <!-- HUMAN at the centre/top -->
+    <rect x="400" y="44" width="240" height="66" rx="12" fill="#e8eefc" stroke="#3a63c0" stroke-width="2"/>
+    <text x="520" y="74" text-anchor="middle" font-size="17" font-weight="700" fill="#23324f">Human (sovereign)</text>
+    <text x="520" y="95" text-anchor="middle" font-size="12" fill="#5a6473">steers · advances every round · owns every conclusion</text>
+
+    <!-- human <-> overseer -->
+    <path d="M520,110 L520,168" fill="none" stroke="#3a63c0" stroke-width="2.5" marker-end="url(#b)" marker-start="url(#b)"/>
+    <text x="536" y="145" font-size="11.5" fill="#3a63c0">owns · directs</text>
+
+    <!-- OVERSEER -->
+    <rect x="380" y="168" width="280" height="72" rx="12" fill="#f3e9df" stroke="#b57b3a" stroke-width="2"/>
+    <text x="520" y="197" text-anchor="middle" font-size="16" font-weight="700" fill="#7a4e17">Overseer AI (1H1C)</text>
+    <text x="520" y="217" text-anchor="middle" font-size="11.5" fill="#7a4e17">keeps the pair honest · on-topic · in budget</text>
+    <text x="520" y="232" text-anchor="middle" font-size="11.5" fill="#7a4e17">never decides — hands consequence up to the human</text>
+
+    <!-- overseer to each claw -->
+    <path d="M430,240 L300,312" fill="none" stroke="#5a6473" stroke-width="2" marker-end="url(#a)"/>
+    <path d="M610,240 L740,312" fill="none" stroke="#5a6473" stroke-width="2" marker-end="url(#a)"/>
+    <text x="332" y="286" font-size="11" fill="#5a6473">manages</text>
+    <text x="672" y="286" font-size="11" fill="#5a6473">manages</text>
+
+    <!-- THE 1H2C PAIR -->
+    <rect x="150" y="312" width="200" height="86" rx="12" fill="#eef1f6" stroke="#8a97aa" stroke-width="1.5"/>
+    <text x="250" y="344" text-anchor="middle" font-size="16" font-weight="700" fill="#2b3648">AI — Proposer</text>
+    <text x="250" y="366" text-anchor="middle" font-size="12" fill="#5a6473">drafts · hypothesises · builds</text>
+    <text x="250" y="384" text-anchor="middle" font-size="12" fill="#5a6473">the plan</text>
+
+    <rect x="690" y="312" width="200" height="86" rx="12" fill="#eef1f6" stroke="#8a97aa" stroke-width="1.5"/>
+    <text x="790" y="344" text-anchor="middle" font-size="16" font-weight="700" fill="#2b3648">AI — Challenger</text>
+    <text x="790" y="366" text-anchor="middle" font-size="12" fill="#5a6473">pulls it apart · checks</text>
+    <text x="790" y="384" text-anchor="middle" font-size="12" fill="#5a6473">every claim</text>
+
+    <!-- claw <-> claw on TrueAI -->
+    <path d="M350,355 L690,355" fill="none" stroke="#2f6f4f" stroke-width="2.5" marker-end="url(#g)" marker-start="url(#g)"/>
+    <rect x="452" y="332" width="136" height="46" rx="8" fill="#e3f0e9" stroke="#2f6f4f" stroke-width="1.2"/>
+    <text x="520" y="351" text-anchor="middle" font-size="12" font-weight="700" fill="#2f6f4f">always on TrueAI</text>
+    <text x="520" y="368" text-anchor="middle" font-size="11" fill="#2f6f4f">true · false · unverified</text>
+
+    <!-- pair down to thinking -->
+    <path d="M250,398 L470,462" fill="none" stroke="#5a6473" stroke-width="2" marker-end="url(#a)"/>
+    <path d="M790,398 L570,462" fill="none" stroke="#5a6473" stroke-width="2" marker-end="url(#a)"/>
+
+    <!-- THINKING output -->
+    <rect x="360" y="462" width="320" height="66" rx="12" fill="#eaf2ee" stroke="#4a8f6b" stroke-width="1.5"/>
+    <text x="520" y="490" text-anchor="middle" font-size="16" font-weight="700" fill="#245a3e">THINKING (no action)</text>
+    <text x="520" y="510" text-anchor="middle" font-size="11.5" fill="#245a3e">explore · model · synthesise — handed back to the human</text>
+
+    <!-- thinking back up to human (the harvest) -->
+    <path d="M680,495 C930,495 930,77 640,77" fill="none" stroke="#3a63c0" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#b)"/>
+    <text x="905" y="290" text-anchor="middle" font-size="11.5" fill="#3a63c0" transform="rotate(90 905 290)">result handed back — human owns it</text>
+
+    <!-- scale-out note: several teams -->
+    <rect x="150" y="556" width="740" height="52" rx="10" fill="#f7f8fa" stroke="#c9d2de" stroke-width="1.2"/>
+    <text x="520" y="580" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1a2230">One human can run several of these teams at once — the thinking scales out, the human never hands over the wheel.</text>
+    <text x="520" y="598" text-anchor="middle" font-size="11.5" fill="#5a6473">A Thinking AI thinks; it never decides. The moment a consequence attaches, it goes to the human (1H1C).</text>
+  </svg>
+  <p class="foot">
+    The Thinking AI (1H2C, with overseer) — UniCORE AI, by Bryan Fred, Unitek Systems Limited (CC BY 4.0).<br>
+    Doctrine: git.unitek-systems.com/UniCORE/UniCORE-AI (thinking-ai-doctrine) · mirror: github.com/bryanunitek/UniCORE-AI
+  </p>
+</div>
+</body>
+</html>
