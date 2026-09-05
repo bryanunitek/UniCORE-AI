@@ -33,7 +33,10 @@ The variant is only in the **pairing shape** (two Claws instead of one). The Tru
 | [`VARIANTS.md`](VARIANTS.md) | Systematic public disclosure of the multi-Claw design space (axes: N, model composition, provider composition, role composition), including cross-company consensus. Defensive publication as prior art; illustrative, explicitly NOT a limiting list. |
 | [`USE-CASES.md`](USE-CASES.md) | Ten worked AI-Maturity Level 4 examples (doctor, judge, climate scientist, CFO, security director, historian, leader, architect, policy official, teacher) showing the think/decide boundary: 1H2C thinks, the human decides under 1H1C. |
 | [`WORKING-EXAMPLE.md`](WORKING-EXAMPLE.md) | The first live 1H2C in operation ("Team Climate", 30 Aug 2026): a standing earth-systems pairing of two equal Level-4 Thinking Claws managed by a separate 1H1C overseer — the composition that lets one human run multiple thinking projects. Honest disclosure of a design in operation, not a certified result. |
+| [`OVERSEER-PROTOCOL.md`](OVERSEER-PROTOCOL.md) | The base protocol every Overseer (the managing 1C) follows: what an Overseer is, the governing principle (it owns its domain), shared-Book gatekeeping (force-push protection, ff-only pulls, serialization, per-writer branches), escalation, standing duties, and the lessons every Overseer carries from the start — read from doctrine rather than taught. |
 | [`1H1C-vs-1H2C.html`](1H1C-vs-1H2C.html) | Standalone diagram (HTML + inline SVG) contrasting 1H1C (deciding) with 1H2C (thinking). |
+| [`1H2C-with-overseer.html`](1H2C-with-overseer.html) | Diagram: a 1H2C pair managed by an overseeing 1C, the composition that lets one human run several thinking teams. |
+| [`1H1C-1C-2C.html`](1H1C-1C-2C.html) | Diagram of the three tiers: foundation pair (1H1C) → overseer (1C) → thinkers (2C). |
 | [`MANIFEST.md`](MANIFEST.md) | Integrity index, human-readable. |
 | `MANIFEST.json` | Integrity index, machine-parseable. |
 
