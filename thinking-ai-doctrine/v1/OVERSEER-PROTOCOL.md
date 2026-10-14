@@ -53,8 +53,8 @@ The overseen Thinking AI is used in two named configurations. Both keep one acco
 
 | Configuration | Claws | Shape |
 |---|---|---|
-| **1H1C2C** | 3 | One human + their own operating Claw (1C), which **is** the overseer, + two Thinkers (2C: Proposer ↔ Challenger). No separate Overseer Claw. |
-| **1H1C1C2C** | 4 | One human + their own Claw (1C, the foundation pair) + a **dedicated Overseer Claw** (1C) + two Thinkers (2C: Proposer ↔ Challenger). The three-tier structure above. |
+| **1H1C2C** ([diagram](1H1C2C.html)) | 3 | One human + their own operating Claw (1C), which **is** the overseer, + two Thinkers (2C: Proposer ↔ Challenger). No separate Overseer Claw. |
+| **1H1C1C2C** ([diagram](1H1C-1C-2C.html)) | 4 | One human + their own Claw (1C, the foundation pair) + a **dedicated Overseer Claw** (1C) + two Thinkers (2C: Proposer ↔ Challenger). The three-tier structure above. |
 
 - **1H1C2C** is the embedded form: the person's operating Claw relays and audits the Thinkers itself. It suits a single thinking domain run alongside the person's normal work.
 - **1H1C1C2C** adds the dedicated Overseer when complexity or organisation calls for it, so the domain's operation, Book and automations sit with the Overseer and never land on the human's own Claw.

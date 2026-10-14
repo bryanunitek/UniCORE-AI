@@ -36,7 +36,8 @@ The variant is only in the **pairing shape** (two Claws instead of one). The Tru
 | [`OVERSEER-PROTOCOL.md`](OVERSEER-PROTOCOL.md) | The base protocol every Overseer (the managing 1C) follows: what an Overseer is, the named Thinker configurations **1H1C2C** (the person's own Claw is the overseer) and **1H1C1C2C** (a dedicated Overseer Claw), the governing principle (it owns its domain), shared-Book gatekeeping (force-push protection, ff-only pulls, serialization, per-writer branches), escalation, standing duties, and the lessons every Overseer carries from the start — read from doctrine rather than taught. |
 | [`1H1C-vs-1H2C.html`](1H1C-vs-1H2C.html) | Standalone diagram (HTML + inline SVG) contrasting 1H1C (deciding) with 1H2C (thinking). |
 | [`1H2C-with-overseer.html`](1H2C-with-overseer.html) | Diagram: a 1H2C pair managed by an overseeing 1C, the composition that lets one human run several thinking teams. |
-| [`1H1C-1C-2C.html`](1H1C-1C-2C.html) | Diagram of the three tiers: foundation pair (1H1C) → overseer (1C) → thinkers (2C). |
+| [`1H1C-1C-2C.html`](1H1C-1C-2C.html) | Diagram of **1H1C1C2C**, the three tiers: foundation pair (1H1C) → dedicated overseer (1C) → thinkers (2C). |
+| [`1H1C2C.html`](1H1C2C.html) | Diagram of **1H1C2C**: the person's own Claw is the overseer of the thinkers (2C); no separate Overseer Claw. |
 | [`MANIFEST.md`](MANIFEST.md) | Integrity index, human-readable. |
 | `MANIFEST.json` | Integrity index, machine-parseable. |
 
