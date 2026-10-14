@@ -47,6 +47,19 @@ An Overseer is an **optional tier**, added for a reason, never by default. Two d
 
 A thinking domain **starts as a bare isolated 2C pair + relay**; an Overseer is added when complexity *or* organisation calls for it. Where the Thinkers are embedded under a person's own operating Claw, that parent Claw *is* the overseer and no separate Overseer Claw is created.
 
+### The named Thinker configurations — 1H1C2C and 1H1C1C2C
+
+The overseen Thinking AI is used in two named configurations. Both keep one accountable human, the Thinkers on the TrueAI truth contract, and every consequential decision with the human under 1H1C.
+
+| Configuration | Claws | Shape |
+|---|---|---|
+| **1H1C2C** | 3 | One human + their own operating Claw (1C), which **is** the overseer, + two Thinkers (2C: Proposer ↔ Challenger). No separate Overseer Claw. |
+| **1H1C1C2C** | 4 | One human + their own Claw (1C, the foundation pair) + a **dedicated Overseer Claw** (1C) + two Thinkers (2C: Proposer ↔ Challenger). The three-tier structure above. |
+
+- **1H1C2C** is the embedded form: the person's operating Claw relays and audits the Thinkers itself. It suits a single thinking domain run alongside the person's normal work.
+- **1H1C1C2C** adds the dedicated Overseer when complexity or organisation calls for it, so the domain's operation, Book and automations sit with the Overseer and never land on the human's own Claw.
+- In both, the Thinkers and the Overseer are AI-Maturity Level 4, the 2C exchange advances only on the human's direction, and the configuration carries the variant declaration in [EPISTEMIC-STATUS.md](EPISTEMIC-STATUS.md).
+
 ---
 
 ## 2. The governing principle — the Overseer owns its domain
